@@ -20164,6 +20164,17 @@
             "emails": ["ning.sun@intel.com"]
         },
         {
+            "launchpad_id": "nishant-tech07",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nishant Kumar",
+            "emails": ["nishant.e.kumar@ericsson.com", "nishant.tech07@gmail.com", "nk613n@att.com"]
+        },
+{
             "launchpad_id": "nishpatwa",
             "companies": [
                 {
