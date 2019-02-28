@@ -32820,6 +32820,17 @@
             "emails": ["zhouwei.wh@awcloud.com"]
         },
         {
+            "launchpad_id": "zhouxiaoning",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhouxiaoning",
+            "emails": ["zhouxiaoning@beyondcent.com", "799607051@qq.com"]
+        },
+        {
             "launchpad_id": "zhouyunfeng",
             "companies": [
                 {
