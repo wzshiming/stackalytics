@@ -30339,6 +30339,17 @@
             "emails": ["yuan.han@zte.com.cn"]
         },
         {
+            "launchpad_id": "yuchengsong",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "songyucheng",
+            "emails": ["songyucheng@beyondcent.com"]
+        },
+        {
             "launchpad_id": "yueyuquan",
             "companies": [
                 {
