@@ -38361,6 +38361,8 @@
         }
     ],
     "mail_lists": [
+        "http://lists.airshipit.org/pipermail/airship-announce/",
+        "http://lists.airshipit.org/pipermail/airship-discuss/",
         "http://lists.openstack.org/pipermail/openstack-dev/",
         "http://lists.openstack.org/pipermail/openstack-docs/",
         "http://lists.openstack.org/pipermail/openstack-i18n/",
