@@ -133,7 +133,8 @@ def _process_repo_reviews(repo, runtime_storage_inst, record_processor_inst):
 
         review_iterator = itertools.chain(
             rcs_inst.log(repo, branch, last_retrieval_time, status='open'),
-            rcs_inst.log(repo, branch, last_retrieval_time, status='merged'),
+            rcs_inst.log(repo, branch, last_retrieval_time, status='merged',
+                         grab_comments=True),
             rcs_inst.log(repo, branch, last_retrieval_time, status='abandoned',
                          grab_comments=True), )
 
