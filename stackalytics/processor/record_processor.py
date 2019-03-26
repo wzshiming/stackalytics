@@ -678,6 +678,8 @@ class RecordProcessor(object):
                 yield mark
 
     def _update_marks_with_disagreement(self):
+        yield lambda record: None
+
         LOG.info('Process marks to find disagreements')
 
         cores = set()
