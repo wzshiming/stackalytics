@@ -83,6 +83,8 @@
 
                     if (table_id) {
                         $("#" + table_id).dataTable({
+                            dom: 'Bfrtip',
+                            buttons: [ 'excel' ],
                             "aaSorting": [
                                 [ sort_by_column, "desc" ],
                                 [ 0, "asc"]
