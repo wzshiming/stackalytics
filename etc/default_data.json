@@ -26652,6 +26652,18 @@
             "emails": ["sorin.sbarnea@gmail.com", "ssbarnea@redhat.com", "ssbarnea@users.noreply.github.com"]
         },
         {
+            "launchpad_id": "staceyfletcher",
+            "github_id": "slfletch",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Stacey Fletcher",
+            "emails": ["staceylynnfletcher@gmail.com", "sf5715@att.com"]
+        },
+        {
             "launchpad_id": "stanicke",
             "zanata_id": "stanislavulrych",
             "companies": [
