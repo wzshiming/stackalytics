@@ -3995,6 +3995,10 @@
             "companies": [
                 {
                     "company_name": "Cisco Systems",
+                    "end_date": "2019-Apr-12"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
@@ -14575,6 +14579,17 @@
             "emails": ["jtran@attinteractive.com", "jhtran@att.com"]
         },
         {
+            "launchpad_id": "jtwilliams",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "John T. Williams",
+            "emails": ["j_t_willaims@dell.com"]
+        },
+        {
             "launchpad_id": "juan-pablo-lopez-gutierrez",
             "companies": [
                 {
@@ -18513,11 +18528,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2019-Apr-15"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Mark Beierl",
-            "emails": ["mark.beierl@dell.com", "mark.beierl@emc.com", "mark@jemms.net"]
+            "emails": ["mbeierl@vmware.com", "mark@jemms.net"]
         },
         {
             "launchpad_id": "mbonell",
@@ -20561,6 +20580,17 @@
             ],
             "user_name": "Yoyang Zeng",
             "emails": ["yo.zed@qq.com"]
+        },
+        {
+            "launchpad_id": "odonos12",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Simon O'Donovan",
+            "emails": ["simon.odonovan@dell.com"]
         },
         {
             "launchpad_id": "ogazitt",
