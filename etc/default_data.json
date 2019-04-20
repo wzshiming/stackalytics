@@ -37001,16 +37001,6 @@
             "organization": "openstack"
         },
         {
-            "module": "api-wg",
-            "uri": "https://git.openstack.org/openstack/api-wg.git",
-            "organization": "openstack"
-        },
-        {
-            "module": "openstack-user-stories",
-            "uri": "https://git.openstack.org/openstack/openstack-user-stories.git",
-            "organization": "openstack"
-        },
-        {
             "module": "vmware-nsx",
             "uri": "https://git.openstack.org/openstack/vmware-nsx.git",
             "organization": "openstack",
@@ -37325,6 +37315,26 @@
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
         },
         {
+            "module": "kind",
+            "organization": "kubernetes-sigs",
+            "uri": "https://github.com/kubernetes-sigs/kind.git"
+        },
+        {
+            "module": "kubeadm",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/kubeadm.git"
+        },
+        {
+            "module": "minikube",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/minikube.git"
+        },
+        {
+            "module": "kops",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/kops.git"
+        },
+        {
             "module": "virtual-kubelet",
             "organization": "virtual-kubelet",
             "uri": "https://github.com/virtual-kubelet/virtual-kubelet.git"
@@ -37380,26 +37390,6 @@
             "module": "ovs",
             "organization": "openvswitch",
             "uri": "https://github.com/openvswitch/ovs.git"
-        },
-        {
-            "module": "openlab-github-io",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/theopenlab.github.io.git"
-        },
-        {
-            "module": "openlab-project-config",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/project-config-source.git"
-        },
-        {
-            "module": "openlab-terraform-jobs",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/terraform-jobs.git"
-        },
-        {
-            "module": "openlab-gophercloud-jobs",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/gophercloud-jobs.git"
         },
         {
             "module": "openlab-zuul-jobs",
@@ -38212,6 +38202,86 @@
             "module": "leveraging-containers-openstack",
             "uri": "https://github.com/OpenStackweb/openstack-org.git",
             "organization": "openstack"
+        },
+        {
+            "module": "opendaylight",
+            "uri": "https://github.com/opendaylight/controller.git",
+            "organization": "opendaylight"
+        },
+        {
+            "module": "airship-armada",
+            "uri": "git://git.openstack.org/openstack/airship-armada.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-berth",
+            "uri": "git://git.openstack.org/openstack/airship-berth.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-deckhand",
+            "uri": "git://git.openstack.org/openstack/airship-deckhand.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-divingbell",
+            "uri": "git://git.openstack.org/openstack/airship-divingbell.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-drydock",
+            "uri": "git://git.openstack.org/openstack/airship-drydock.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-in-a-bottle",
+            "uri": "git://git.openstack.org/openstack/airship-in-a-bottle.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-maas",
+            "uri": "git://git.openstack.org/openstack/airship-maas.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-pegleg",
+            "uri": "git://git.openstack.org/openstack/airship-pegleg.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-promenade",
+            "uri": "git://git.openstack.org/openstack/airship-promenade.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-shipyard",
+            "uri": "git://git.openstack.org/openstack/airship-shipyard.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-specs",
+            "uri": "git://git.openstack.org/openstack/airship-specs.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-spyglass",
+            "uri": "git://git.openstack.org/openstack/airship-spyglass.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-tempest-plugin",
+            "uri": "git://git.openstack.org/openstack/airship-tempest-plugin.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-treasuremap",
+            "uri": "git://git.openstack.org/openstack/airship-treasuremap.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-utils",
+            "uri": "git://git.openstack.org/openstack/airship-utils.git",
+            "organization": "openstack"
         }
     ],
     "project_sources": [
@@ -38582,6 +38652,18 @@
             ]
         },
         {
+            "module_group_name": "kubernetes-installers",
+            "modules": ["kubeadm", "kubespray", "kind", "minikube", "kops"]
+        },
+        {
+            "module_group_name": "airship-group",
+            "modules": [
+                "airship-armada", "airship-berth", "airship-deckhand", "airship-divingbell", "airship-drydock",
+                "airship-in-a-bottle", "airship-maas", "airship-pegleg", "airship-promenade", "airship-shipyard",
+                "airship-specs", "airship-spyglass", "airship-tempest-plugin", "airship-treasuremap", "airship-utils"
+            ]
+        },
+        {
             "module_group_name": "ansible-group",
             "modules": ["ansible", "ansible-modules-core", "ansible-modules-extras"]
         },
@@ -38636,13 +38718,13 @@
         {
             "release_name": "Austin",
             "end_date": "2010-Oct-21",
-            "project": "openstack",
             "refs": {
                 "governance": {
                     "type": "legacy",
                     "source": "https://git.openstack.org/cgit/openstack/governance/plain/reference/programs.yaml?id=sept-2014-elections"
                 }
-            }
+            },
+            "project": "openstack"
         },
         {
             "release_name": "Bexar",
@@ -38885,7 +38967,7 @@
             "title": "Official",
             "child": true,
             "modules": [
-                "openstack-official", "governance", "api-wg", "openstack-user-stories",
+                "openstack-official", "governance", "openstack-user-stories",
                 "edge-computing", "leveraging-containers-openstack"
             ]
         },
@@ -38899,14 +38981,14 @@
             "id": "openstack-others",
             "title": "Others",
             "child": true,
-            "modules": ["openstack-others", "unknown"]
+            "modules": ["openstack-others", "airship-group", "unknown"]
         },
         {
             "id": "cncf-group",
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers"
             ]
         },
         {
@@ -38914,6 +38996,12 @@
             "title": "Kubernetes",
             "child": true,
             "modules": ["kubernetes"]
+        },
+        {
+            "id": "kubernetes-installers",
+            "title": "Kubernetes Installers",
+            "child": true,
+            "modules": ["kubernetes-installers"]
         },
         {
             "id": "prometheus",
@@ -38997,9 +39085,9 @@
             "id": "unaffiliated",
             "title": "Other Projects",
             "modules": [
-                "ansible-group", "ceph", "concourse", "docker-group", "fdio-group", "istio-group", "knative-group",
-                "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group",
-                "spinnaker", "kubernetes-group", "tekton-group"
+                "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
+                "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
+                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group"
             ]
         },
         {
@@ -39012,7 +39100,13 @@
             "id": "ceph-group",
             "title": "Ceph",
             "child": true,
-            "modules": ["ceph"]
+            "modules": ["ceph", "ceph-ansible"]
+        },
+        {
+            "id": "concourse-group",
+            "title": "Concourse",
+            "child": true,
+            "modules": ["concourse"]
         },
         {
             "id": "cloudfoundry-group",
@@ -39095,6 +39189,12 @@
             "modules": ["spinnaker-group"]
         },
         {
+            "id": "opendaylight",
+            "title": "OpenDaylight",
+            "child": true,
+            "modules": ["opendaylight"]
+        },
+        {
             "id": "tekton-group",
             "title": "tekton",
             "child": true,
@@ -39102,4 +39202,3 @@
         }
     ]
 }
-
