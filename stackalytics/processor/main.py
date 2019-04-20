@@ -182,7 +182,7 @@ def _process_repo(repo, runtime_storage_inst, record_processor_inst):
 
     _process_repo_vcs(repo, runtime_storage_inst, record_processor_inst)
 
-    if repo['launchpad_name'] or repo.get('aliases'):
+    if repo.get('launchpad_name') or repo.get('aliases'):
         _process_repo_bugs(repo, runtime_storage_inst, record_processor_inst)
         _process_repo_blueprints(repo, runtime_storage_inst,
                                  record_processor_inst)
