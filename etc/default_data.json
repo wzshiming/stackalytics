@@ -14254,6 +14254,10 @@
                 {
                     "company_name": "Rackspace",
                     "end_date": "2019-Feb-28"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
                 }
             ],
             "user_name": "Michael Johnson",
