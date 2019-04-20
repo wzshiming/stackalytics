@@ -35,12 +35,12 @@ PROCESSOR_OPTS = [
     cfg.IntOpt('days_to_update_members', default=30,
                help='Number of days to update members'),
     cfg.StrOpt('corrections-uri',
-               default=('https://git.openstack.org/cgit/'
-                        'openstack/stackalytics/plain/etc/corrections.json'),
+               default=('https://opendev.org/x/stackalytics/raw/'
+                        'branch/master/etc/corrections.json'),
                help='The address of file with corrections data'),
-    cfg.StrOpt('review-uri', default='gerrit://review.openstack.org',
+    cfg.StrOpt('review-uri', default='gerrit://review.opendev.org',
                help='URI of review system'),
-    cfg.StrOpt('git-base-uri', default='https://git.openstack.org',
+    cfg.StrOpt('git-base-uri', default='https://opendev.org',
                help='git base location'),
     cfg.StrOpt('ssh-key-filename', default='/home/user/.ssh/id_rsa',
                help='SSH key for gerrit review system access'),
@@ -51,8 +51,8 @@ PROCESSOR_OPTS = [
     cfg.StrOpt('github-password', default=None,
                help='Password for github access'),
     cfg.StrOpt('translation-team-uri',
-               default='https://git.openstack.org/cgit/openstack/i18n/'
-                       'plain/tools/zanata/translation_team.yaml',
+               default='https://opendev.org/openstack/i18n/raw/'
+                       'branch/master/tools/zanata/translation_team.yaml',
                help='URI of translation team data'),
     cfg.StrOpt("fetching-user-source", default='launchpad',
                choices=['launchpad', '<None>'],
