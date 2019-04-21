@@ -222,10 +222,12 @@ def _process_member_list(uri, runtime_storage_inst, record_processor_inst):
 
 
 def update_members(runtime_storage_inst, record_processor_inst):
+    LOG.info("Updating members")
     member_lists = runtime_storage_inst.get_by_key('member_lists') or []
     for member_list in member_lists:
         _process_member_list(member_list, runtime_storage_inst,
                              record_processor_inst)
+    LOG.info("Members were updated")
 
 
 def _post_process_records(record_processor_inst, repos):
@@ -271,9 +273,11 @@ def apply_corrections(uri, runtime_storage_inst):
         else:
             LOG.warning('Correction misses primary key: %s', c)
     runtime_storage_inst.apply_corrections(valid_corrections)
+    LOG.info('Corrections were applied')
 
 
 def process_project_list(runtime_storage_inst):
+    LOG.info('Processing project list')
     module_groups = runtime_storage_inst.get_by_key('module_groups') or {}
     releases = runtime_storage_inst.get_by_key('releases') or {}
 
@@ -302,6 +306,7 @@ def process_project_list(runtime_storage_inst):
     module_groups['unknown'] = utils.make_module_group('unknown', tag='module')
 
     runtime_storage_inst.set_by_key('module_groups', module_groups)
+    LOG.info('Project list was processed')
 
 
 def main():
@@ -311,6 +316,7 @@ def main():
     runtime_storage_inst = runtime_storage.get_runtime_storage(
         CONF.runtime_storage_uri)
 
+    LOG.info("Getting default data from %s" % CONF.default_data_uri)
     default_data = utils.read_json_from_uri(CONF.default_data_uri)
     if not default_data:
         LOG.critical('Unable to load default data')
