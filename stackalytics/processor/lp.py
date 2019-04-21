@@ -48,7 +48,7 @@ def _log_module(module, primary_module):
 def log(repo):
     repo_module = repo['module']
     modules = repo.get('aliases', [])
-    if repo['launchpad_name']:
+    if repo.get('launchpad_name'):
         modules.append(repo['launchpad_name'])
 
     for module in modules:
