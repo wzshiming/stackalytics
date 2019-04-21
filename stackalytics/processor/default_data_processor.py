@@ -242,7 +242,7 @@ def _store_default_data(runtime_storage_inst, default_data):
 
 
 def process(runtime_storage_inst, default_data):
-    LOG.debug('Process default data')
+    LOG.info('Process default data')
 
     if 'project_sources' in default_data:
         _update_project_list(default_data)
