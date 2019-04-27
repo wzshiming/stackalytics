@@ -11639,6 +11639,18 @@
             "emails": ["heitorricardo.alvesdesiqueira@fit-tecnologia.org.br"]
         },
         {
+            "launchpad_id": "htmz",
+            "github_id": "HeTonght",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "HeTong",
+            "emails": ["hetong@beyondcent.com"]
+        },
+        {
             "launchpad_id": "htpeng",
             "companies": [
                 {
