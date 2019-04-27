@@ -9546,6 +9546,17 @@
             "emails": ["filip@pytloun.cz", "filip.pytloun@tcpcloud.eu"]
         },
         {
+            "launchpad_id": "francotseng",
+            "companies": [
+                {
+                    "company_name": "Unaffiliated",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Franco Tseng",
+            "emails": [ "francotseng18@gmail.com" ]
+        },
+        {
             "launchpad_id": "freyadyu",
             "companies": [
                 {
