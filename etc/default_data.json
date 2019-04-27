@@ -4736,6 +4736,17 @@
             "emails": ["ccarlino@hpe.com", "ccarlino@hp.com", "chuckjcarlino@gmail.com"]
         },
         {
+            "launchpad_id": "ccercuse",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "LiDan",
+            "emails": ["lidan@beyondcent.com"]
+        },
+        {
             "launchpad_id": "ccesario",
             "companies": [
                 {
