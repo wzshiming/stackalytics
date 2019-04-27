@@ -9580,7 +9580,7 @@
                 }
             ],
             "user_name": "Franco Tseng",
-            "emails": [ "francotseng18@gmail.com" ]
+            "emails": ["francotseng18@gmail.com"]
         },
         {
             "launchpad_id": "freyadyu",
@@ -16343,6 +16343,17 @@
             "emails": ["suzhiyuan@inspur.com"]
         },
         {
+            "launchpad_id": "lbbeyond",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lubo",
+            "emails": ["lubo@beyondcent.com"]
+        },
+        {
             "launchpad_id": "lcsong",
             "companies": [
                 {
@@ -20626,7 +20637,7 @@
             "user_name": "Nishant Kumar",
             "emails": ["nishant.e.kumar@ericsson.com", "nishant.tech07@gmail.com", "nk613n@att.com"]
         },
-{
+        {
             "launchpad_id": "nishpatwa",
             "companies": [
                 {
