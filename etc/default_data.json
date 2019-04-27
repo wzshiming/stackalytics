@@ -23901,6 +23901,18 @@
             "emails": ["roman.dobosz@intel.com", "gryf73@gmail.com", "roman.dobosz@corp.ovh.com"]
         },
         {
+            "launchpad_id": "romang",
+            "github_id": "gorshunovr",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Roman Gorshunov",
+            "emails": ["roman.gorshunov@att.com", "rg445d@intl.att.com", "paye600@gmail.com"]
+        },
+        {
             "launchpad_id": "romcheg",
             "companies": [
                 {
