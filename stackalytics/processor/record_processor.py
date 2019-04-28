@@ -31,6 +31,8 @@ from stackalytics.processor import utils
 CONF = cfg.CONF
 LOG = logging.getLogger(__name__)
 
+MERGE_MESSAGE = "Change has been successfully merged"
+
 
 class RecordProcessor(object):
     def __init__(self, runtime_storage_inst):
@@ -230,8 +232,17 @@ class RecordProcessor(object):
             else:
                 review['updated_on'] = patch['createdOn']
 
+            if record.get('status') == 'MERGED':
+                for comment in reversed(record.get('comments') or []):
+                    if MERGE_MESSAGE in comment['message']:
+                        review['merge_date'] = comment['timestamp']
+                        break
+
         if 'value' not in review:
             review['value'] = 0
+
+        if record.get('status') == 'MERGED' and 'merge_date' not in review:
+            review['merge_date'] = review['lastUpdated']
 
         self._update_record_and_user(review)
         return review
@@ -542,7 +553,9 @@ class RecordProcessor(object):
         def record_handler_pass_1(record):
             if (record['record_type'] == 'review' and
                     record.get('status') == 'MERGED'):
-                change_id_to_date[record['id']] = record['lastUpdated']
+                # keep compatibility with old records
+                change_id_to_date[record['id']] = (
+                    record.get('merge_date') or record.get('last_updated'))
 
         yield record_handler_pass_1
 
