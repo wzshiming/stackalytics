@@ -3483,6 +3483,18 @@
             "emails": ["avishay@gmail.com", "avishay@stratoscale.com", "avishay@il.ibm.com"]
         },
         {
+            "launchpad_id": "avlasov",
+            "github_id": "avlasov-mos-de",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alexander Vlasov",
+            "emails": ["avlasov@mirantis.com", "av066y@att.com"]
+        },
+        {
             "launchpad_id": "awchenjun83",
             "companies": [
                 {
