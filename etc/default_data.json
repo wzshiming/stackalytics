@@ -29329,6 +29329,17 @@
             "emails": ["wangliangyu@gohigh.com.cn"]
         },
         {
+            "launchpad_id": "wangqian99cloud",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wang.qian",
+            "emails": ["wang.qian@99cloud.net"]
+        },
+        {
             "launchpad_id": "wangwenjun",
             "companies": [
                 {
