@@ -30942,6 +30942,17 @@
             "emails": ["xuhongzhi@sgitg.sgcc.com.cn", "toxhz@163.com"]
         },
         {
+            "launchpad_id": "xuanyandong",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Xuan Yandong",
+            "emails": ["xuanyandong@inspur.com"]
+        },
+        {
             "launchpad_id": "xuao",
             "companies": [
                 {
