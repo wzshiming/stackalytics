@@ -11309,6 +11309,17 @@
             "emails": ["henrique@lsd.ufcg.edu.br", "henriquecostatruta@gmail.com"]
         },
         {
+            "launchpad_id": "herveberaud",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hervé Beraud",
+            "emails": ["herveberaud.pro@gmail.com", "hberaud@redhat.com"]
+        },
+        {
             "launchpad_id": "heut2008",
             "companies": [
                 {
