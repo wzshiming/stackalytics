@@ -29222,6 +29222,17 @@
             "emails": ["vincent.casse@ovh.net", "vincent@casse.me"]
         },
         {
+            "launchpad_id": "vincent-pli",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "pengli",
+            "emails": ["justdoit.pli@gmail.com"]
+        },
+        {
             "launchpad_id": "vincent.jia",
             "companies": [
                 {
