@@ -37276,7 +37276,7 @@
         },
         {
             "module": "vmware-nsx",
-            "uri": "https://opendev.org/openstack/vmware-nsx.git",
+            "uri": "https://opendev.org/x/vmware-nsx.git",
             "organization": "openstack",
             "releases": [
                 {
@@ -37956,7 +37956,7 @@
         {
             "module": "kayobe",
             "organization": "openstack",
-            "uri": "https://opendev.org/openstack/kayobe.git",
+            "uri": "https://opendev.org/x/kayobe.git",
             "releases": [
                 {
                     "branch": "stable/ocata",
