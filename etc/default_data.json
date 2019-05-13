@@ -37489,6 +37489,36 @@
             "uri": "https://github.com/tektoncd/website.git"
         },
         {
+            "module": "catalog@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/catalog.git"
+        },
+        {
+            "module": "dashboard@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/dashboard.git"
+        },
+        {
+            "module": "experimental@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/experimental.git"
+        },
+        {
+            "module": "cli@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/cli.git"
+        },
+        {
+            "module": "plumbing@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/plumbing.git"
+        },
+        {
+            "module": "community@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/community.git"
+        },
+        {
             "module": "kubeflow",
             "organization": "kubeflow",
             "uri": "https://github.com/kubeflow/kubeflow.git"
@@ -38996,7 +39026,8 @@
         },
         {
             "module_group_name": "tekton-group",
-            "modules": ["pipeline@tekton", "website@tekton"]
+            "modules": ["pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
+              "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"]
         }
     ],
     "releases": [
