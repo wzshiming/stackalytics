@@ -7108,6 +7108,17 @@
             "emails": ["deyuan.deng@gmail.com", "deyuan@caicloud.io"]
         },
         {
+            "launchpad_id": "deanhuang",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "weidong.huang",
+            "emails": ["huang.weidong@99cloud.net", "w475371137@gmail.com"]
+        },
+        {
             "launchpad_id": "debo",
             "companies": [
                 {
