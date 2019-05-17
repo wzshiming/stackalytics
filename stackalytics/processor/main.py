@@ -117,6 +117,7 @@ def _process_repo_bugs(repo, runtime_storage_inst, record_processor_inst):
 
 
 def _process_repo_reviews(repo, runtime_storage_inst, record_processor_inst):
+    LOG.info('Processing reviews for repo: %s', repo['uri'])
     rcs_inst = rcs.get_rcs(repo['gerrit_uri'])
     rcs_inst.setup(key_filename=repo['key_filename'],
                    username=repo['ssh_username'],
@@ -193,6 +194,8 @@ def _process_repo(repo, runtime_storage_inst, record_processor_inst):
     if 'gerrit_uri' in repo:
         _process_repo_reviews(repo, runtime_storage_inst,
                               record_processor_inst)
+    else:
+        LOG.info('Skip review processing for repo: %s', repo['uri'])
 
 
 def _process_mail_list(uri, runtime_storage_inst, record_processor_inst):
