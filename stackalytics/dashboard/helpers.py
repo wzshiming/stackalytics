@@ -299,7 +299,7 @@ def make_commit_message(record):
     module = record['module']
     # NOTE(aostapenko) Keeping default value here not to brake links
     # with existing storage data
-    gerrit_hostname = record.get('gerrit_hostname', 'review.openstack.org')
+    gerrit_hostname = record.get('gerrit_hostname', 'review.opendev.org')
 
     s = utils.format_text(s)
 
