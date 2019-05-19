@@ -17522,6 +17522,18 @@
             "emails": ["logan@bacoosta.com"]
         },
         {
+            "launchpad_id": "loganv",
+            "github_id": "logan2211",
+            "companies": [
+                {
+                    "company_name": "Limestone Networks",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Logan V.",
+            "emails": ["logan2211@gmail.com", "logan@lstn.net"]
+        },
+        {
             "launchpad_id": "loic-nicolle",
             "zanata_id": "lnic",
             "companies": [
@@ -34702,6 +34714,10 @@
             "domains": ["lgcns.com"],
             "company_name": "LG CNS",
             "aliases": ["LG CNS"]
+        },
+        {
+            "domains": ["limestonenetworks.com", "lstn.net"],
+            "company_name": "Limestone Networks"
         },
         {
             "domains": ["limilo.com"],
