@@ -37654,6 +37654,11 @@
             "uri": "https://github.com/kubeflow/kfserving.git"
         },
         {
+            "module": "manifests@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/manifests.git"
+        },
+        {
             "module": "kubespray",
             "organization": "kubernetes-sigs",
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
@@ -39047,7 +39052,7 @@
                 "arena@kubeflow", "pytorch-operator@kubeflow", "tf-operator@kubeflow", "fairing@kubeflow",
                 "testing@kubeflow", "crd-validation@kubeflow", "mxnet-operator@kubeflow", "batch-predict@kubeflow",
                 "chainer-operator@kubeflow", "mpi-operator@kubeflow", "example-seldon@kubeflow", "common@kubeflow",
-                "metadata@kubeflow", "kfserving@kubeflow"
+                "metadata@kubeflow", "kfserving@kubeflow", "manifests@kubeflow"
             ]
         },
         {
