@@ -14354,12 +14354,16 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2019-Apr-07"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Michael Johnson",
             "emails": [
-                "johnsom@hp.com", "johnsomor@gmail.com", "michael.d.johnson@hpe.com", "michael.johnsonus@rackspace.com"
+                "johnsom@hp.com", "johnsomor@gmail.com", "michael.d.johnson@hpe.com", "michael.johnsonus@rackspace.com", "michjohn@redhat.com"
             ]
         },
         {
@@ -17789,6 +17793,17 @@
             "emails": ["lutao@qiniu.com", "lutaoact@hotmail.com"]
         },
         {
+            "launchpad_id": "luubh",
+            "companies": [
+                {
+                    "company_name": "Cloudrity",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bui Hoang Luu",
+            "emails": ["luugu196@gmail.com", "luubh@viettel.com.vn"]
+        },
+        {
             "launchpad_id": "luwei",
             "companies": [
                 {
@@ -17975,11 +17990,15 @@
             "companies": [
                 {
                     "company_name": "OVH",
+                    "end_date": "2019-Apr-30"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Maciej Jozefczyk",
-            "emails": ["maciej.jozefczyk@corp.ovh.com"]
+            "emails": ["jeicam.pl@gmail.com", "mjozefcz@redhat.com", "maciej.jozefczyk@corp.ovh.com"]
         },
         {
             "launchpad_id": "maciejkucia",
@@ -24099,6 +24118,26 @@
             "emails": ["ronald.bradford@gmail.com", "me@ronaldbradford.com"]
         },
         {
+            "launchpad_id": "rongzhang",
+            "github_id": "riverzhang",
+            "companies": [
+                {
+                    "company_name": "EasyStack",
+                    "end_date": "2018-Mar-31"
+                },
+                {
+                    "company_name": "Alauda",
+                    "end_date": "2019-Mar-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rong Zhang",
+            "emails": ["riverzhang90@gmail.com", "rongszhang@163.com", "rong.zhang@easystack.cn", "rongzhang@alauda.io"]
+        },
+        {
             "launchpad_id": "rony.sun",
             "companies": [
                 {
@@ -30090,6 +30129,18 @@
             "emails": ["zhang.wanmin@zte.com.cn", "warmchang@outlook.com", "warmchang@163.com"]
         },
         {
+            "launchpad_id": "wasaac",
+            "github_id": "Wasaac",
+            "companies": [
+                {
+                    "company_name": "StackHPC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Isaac Prior",
+            "emails": ["isaac.prior@blueyonder.co.uk", "isaac@stackhpc.com"]
+        },
+        {
             "launchpad_id": "watanabe.isao",
             "companies": [
                 {
@@ -30364,6 +30415,21 @@
             ],
             "user_name": "wingwj",
             "emails": ["wingwj@gmail.com", "wingwj.wu@huawei.com"]
+        },
+        {
+            "launchpad_id": "witold-bedyk",
+            "companies": [
+                {
+                    "company_name": "Fujitsu",
+                    "end_date": "2018-Dec-31"
+                },
+                {
+                    "company_name": "SUSE",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Witek Bedyk",
+            "emails": ["witold.bedyk@est.fujitsu.com", "witold.bedyk@suse.com"]
         },
         {
             "github_id": "wizard-cxy",
@@ -33986,6 +34052,11 @@
             "company_name": "Cloudin"
         },
         {
+            "domains": ["cloudrity.com", "cloudrity.com.vn", "cloudrity.org"],
+            "company_name": "Cloudrity",
+            "aliases": ["Viettel Cyber Security Company"]
+        },
+        {
             "domains": ["cloudscaling.com"],
             "company_name": "Cloudscaling"
         },
@@ -34241,6 +34312,11 @@
             ]
         },
         {
+            "domains": ["ethz.ch"],
+            "company_name": "ETH Zurich",
+            "aliases": ["ETHZ", "Swiss Federal Institute of Technology in Zurich"]
+        },
+        {
             "domains": ["evoila.de"],
             "company_name": "evoila"
         },
@@ -34433,6 +34509,10 @@
                 "Huawei Tech", "Huawei Enterprise Business Group", "huawei technical", "Huawei Technologies India",
                 "huawei storage system", "华为技术有限公司", "华为", "Huawei Technolgies"
             ]
+        },
+        {
+            "domains": ["hubspot.com"],
+            "company_name": "HubSpot"
         },
         {
             "domains": ["hust.edu.cn"],
@@ -38670,7 +38750,7 @@
         },
         {
             "module": "airship-utils",
-            "uri": "https:///opendev.org/airship/utils.git",
+            "uri": "https://opendev.org/airship/utils.git",
             "organization": "openstack"
         }
     ],
@@ -38769,6 +38849,9 @@
                 "deb-testresources", "deb-trove", "deb-trove-dashboard", "deb-watcher", "deb-websockify", "deb-zaqar",
                 "kubernetes"
             ]
+        },
+        {
+            "organization": "airship"
         },
         {
             "organization": "openstack-dev"
