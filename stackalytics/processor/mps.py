@@ -98,10 +98,11 @@ def log(uri, runtime_storage_inst, days_to_update_members, members_look_ahead):
             cur_index += 1
             continue
 
+        LOG.info('Added new member: %s. Gap to previous %s' %
+                 (member.get('member_id'), cnt_empty))
         cnt_empty = 0
         last_member_index = cur_index
         cur_index += 1
-        LOG.debug('New member: %s', member['member_id'])
         yield member
 
         time.sleep(random.random() * 5)
