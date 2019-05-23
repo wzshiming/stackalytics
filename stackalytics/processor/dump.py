@@ -79,6 +79,7 @@ def import_data(memcached_inst, fd):
         bucket[key] = value
     if bucket:
         store_bucket(memcached_inst, bucket)
+    LOG.info('Importing data into memcached was completed')
 
 
 def get_repo_keys(memcached_inst):
@@ -144,6 +145,7 @@ def export_data(memcached_inst, fd):
                 pickle.dump(('user:member:%s' % user['member_id'], user), fd)
             for email in user.get('emails') or []:
                 pickle.dump((('user:%s' % email).encode('utf8'), user), fd)
+    LOG.info('Exporting data from memcached was completed')
 
 
 def _connect_to_memcached(uri):
