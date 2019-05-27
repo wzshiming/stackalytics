@@ -6,10 +6,4 @@
       - openstack-python36-jobs
     vars:
       rtd_webhook_id: '47123'
-    check:
-      jobs:
-        - openstack-tox-docs
-    gate:
-      jobs:
-        - openstack-tox-docs
 
