@@ -34304,12 +34304,12 @@
             "company_name": "EPAM Systems"
         },
         {
-            "domains": ["ericsson.com"],
+            "domains": ["ericsson.com", "est.tech"],
             "company_name": "Ericsson",
             "aliases": [
                 "Ericsson AB", "Ericsson Research", "Ericcson AB", "Ericsson Eurolab Deutschland GmbH",
                 "Ericsson India", "Ericsson Montreal", "Ericsson Hungary", "Ericsson China", "Ericsson Canada",
-                "Ericsson India Global Services"
+                "Ericsson India Global Services", "Ericsson Software Technology"
             ]
         },
         {
