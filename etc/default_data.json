@@ -20835,6 +20835,18 @@
             "emails": ["noguchimn@nttdata.co.jp"]
         },
         {
+            "launchpad_id": "nominedei",
+            "github_id": "okhart",
+            "companies": [
+                {
+                    "company_name": "Sberbank",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Artem Okhotnikov",
+            "emails": ["okhotnikov.artyom@mail.ru", "okhotnikov.a.vi@sberbank.ru"]
+        },
+        {
             "launchpad_id": "norihiko-kawai",
             "zanata_id": "adocmember",
             "companies": [
