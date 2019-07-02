@@ -3,12 +3,42 @@
         {
             "companies": [
                 {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bevisy",
+            "emails": ["binbin36520@gmail.com", "zhang.binbin@h3c.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "eleven",
+            "emails": ["looker_pc@163.com", "zhang.pengchenga@h3c.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Sorint.lab",
                     "end_date": null
                 }
             ],
             "user_name": "Simone Gotti",
             "emails": ["simone.gotti@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "ZHAO Yao",
+            "emails": ["ytinirt@qq.com", "zhao.yao@h3c.com"]
         },
         {
             "companies": [
@@ -33,12 +63,32 @@
         {
             "companies": [
                 {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Feng Xin",
+            "emails": ["Neil_Feng@foxmail.com", "feng.xin@h3c.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Docker",
                     "end_date": null
                 }
             ],
             "user_name": "Nassim 'Nass' Eddequiouaq",
             "emails": ["eddequiouaq.nassim@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wj24021040",
+            "emails": ["wj24021040@163.com", "wang.jianC@h3c.com"]
         },
         {
             "companies": [
@@ -7618,6 +7668,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -8069,6 +8123,17 @@
             ]
         },
         {
+            "launchpad_id": "dreadbird",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Caleb Wang",
+            "emails": ["wang_gang@inspur.com"]
+        },
+        {
             "launchpad_id": "dreidellhasa",
             "companies": [
                 {
@@ -8372,6 +8437,18 @@
             ],
             "user_name": "Dustin Specker",
             "emails": ["dustin.specker@att.com", "ds7900@att.com"]
+        },
+        {
+            "launchpad_id": "dviroel",
+            "github_id": "viroel",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Douglas Viroel",
+            "emails": ["viroel@gmail.com", "douglas.viroel@fit-tecnologia.org.br", "douglas.viroel@netapp.com"]
         },
         {
             "launchpad_id": "dweimer",
@@ -9718,6 +9795,17 @@
             "emails": ["yuuichi-fujioka@zx.mxh.nes.nec.co.jp", "fujioka.yuuichi@gmail.com"]
         },
         {
+            "launchpad_id": "fundwit",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tianxin Yang",
+            "emails": ["fundwit@qq.com"]
+        },
+        {
             "launchpad_id": "fungi",
             "companies": [
                 {
@@ -9827,6 +9915,25 @@
             ],
             "user_name": "Gaurav Gupta",
             "emails": ["gaurav@denali-systems.com"]
+        },
+        {
+            "launchpad_id": "galmargalit",
+            "companies": [
+                {
+                    "company_name": "Alcatel-Lucent",
+                    "end_date": "2016-Jan-14"
+                },
+                {
+                    "company_name": "Nokia",
+                    "end_date": "2019-Feb-14"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gal Margalit",
+            "emails": ["galmargalit@gmail.com", "gal.margalit@alcatel-lucent.com", "gal.margalit@nokia.com"]
         },
         {
             "launchpad_id": "gandelman-a",
@@ -14023,6 +14130,25 @@
             "emails": ["josh.kearney@pistoncloud.com", "josh@jk0.org", "josh.kearney@rackspace.com"]
         },
         {
+            "launchpad_id": "jkabhishek",
+            "companies": [
+                {
+                    "company_name": "Imaginea Technologies Inc.",
+                    "end_date": "2018-Mar-20"
+                },
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Abhishek Kumar Jaiswal",
+            "emails": [
+                "aj355y@att.com", "abhishek.kumar.jaiswal@ericsson.com",
+                "reach.abhishekj@gmail.com", "abhishekjaiswal.kol@gmail.com",
+                "abhishek.jaiswal@imaginea.com"
+            ]
+        },
+        {
             "github_id": "jkandasa",
             "companies": [
                 {
@@ -15588,6 +15714,21 @@
             "emails": ["ikeontang@gmail.com", "tangjiyuan@caicloud.io"]
         },
         {
+            "launchpad_id": "kevin-carter",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": "2019-May-03"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kevin Carter (Cloudnull)",
+            "emails": ["kevin@cloudnull.com", "kecarter@redhat.com"]
+        },
+        {
             "launchpad_id": "kevin-zhao",
             "companies": [
                 {
@@ -16415,6 +16556,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -20005,13 +20150,18 @@
             "companies": [
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
             "user_name": "Melvin Hillsman",
             "emails": [
                 "melvin.hillsman@huawei.com",
-                "mrhillsman@gmail.com"
+                "mrhillsman@gmail.com",
+                "melvin.hillsman@futurewei.com"
             ]
         },
         {
@@ -20023,6 +20173,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -23103,17 +23257,6 @@
             "emails": ["rob@jive-videos.net", "rcoward@ukcloud.com"]
         },
         {
-            "launchpad_id": "reach-abhishekj",
-            "companies": [
-                {
-                    "company_name": "Imaginea Technologies Inc.",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Abhishek Kumar Jaiswal",
-            "emails": ["reach.abhishekj@gmail.com", "abhishek.jaiswal@imaginea.com"]
-        },
-        {
             "launchpad_id": "reachharkirat",
             "companies": [
                 {
@@ -24328,6 +24471,17 @@
             "emails": ["ruchiparmar143@ymail.com", "cuz150@my.utsa.edu", "ruchip143@gmail.com"]
         },
         {
+            "github_id": "ruijzhan",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ruijian Zhang",
+            "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
+        },
+        {
             "launchpad_id": "rupakg",
             "companies": [
                 {
@@ -25281,6 +25435,14 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
+                    "end_date": "2019-Jun-14"
+                },
+                {
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -25290,7 +25452,8 @@
                 "sean.mcginnis@dell.com",
                 "sean.mcginnis@gmail.com",
                 "sean.mcginnis@gmx.com",
-                "sean.mcginnis@huawei.com"
+                "sean.mcginnis@huawei.com",
+                "sean.mcginnis@futurewei.com"
             ]
         },
         {
@@ -32239,6 +32402,17 @@
             "emails": ["yyb196@gmail.com"]
         },
         {
+            "github_id": "yylt",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yang yang",
+            "emails": ["yang.yangB@h3c.com"]
+        },
+        {
             "launchpad_id": "yyuanyuee",
             "companies": [
                 {
@@ -34372,6 +34546,13 @@
             "domains": ["fujitsu.com"],
             "company_name": "Fujitsu",
             "aliases": ["FUJITSU HOKURIKU SYSTEMS LIMITED"]
+        },
+        {
+            "domains": ["futurewei.com"],
+            "company_name": "Futurewei",
+            "aliases": [
+                "Futurewei", "Futurewei Technologies Inc", "FutureWei Technologies Inc"
+            ]
         },
         {
             "domains": ["getchef.com", "opscode.com"],
@@ -37773,6 +37954,11 @@
             "uri": "https://github.com/istio/istio.github.io.git"
         },
         {
+            "module": "istio.io@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/istio.io.git"
+        },
+        {
             "module": "test-infra@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/test-infra.git"
@@ -38981,6 +39167,11 @@
             "module": "airship-utils",
             "uri": "https://opendev.org/airship/utils.git",
             "organization": "openstack"
+        },
+        {
+            "module": "istio-forked",
+            "organization": "cloudfoundry",
+            "uri": "git://github.com/cloudfoundry/istio.git"
         }
     ],
     "project_sources": [
@@ -39385,7 +39576,7 @@
         {
             "module_group_name": "istio-group",
             "modules": [
-                "istio", "proxy@istio", "istio.github.io", "test-infra@istio",
+                "istio", "proxy@istio", "istio.github.io", "istio.io@istio", "test-infra@istio",
                 "api@istio", "community@istio", "mixerclient", "admin-sites", "fortio"
             ]
         },
