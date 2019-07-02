@@ -31586,11 +31586,15 @@
             "companies": [
                 {
                     "company_name": "University of Melbourne",
-                    "end_date": null
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                     "company_name": "Australian Research Data Commons",
+                     "end_date": null
                 }
             ],
             "user_name": "Shi Yan",
-            "emails": ["yanshi.403@gmail.com", "shi.yan@unimelb.edu.au"]
+            "emails": ["yanshi.403@gmail.com", "shi.yan@unimelb.edu.au", "shi.yan@ardc.edu.au"]
         },
         {
             "launchpad_id": "yanwei",
