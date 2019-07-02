@@ -7250,6 +7250,17 @@
             "emails": ["koichi.yoshigoe@gmail.com", "yoshigoe@d-red.jp", "koichi.yoshigoe@mail.rakuten.com"]
         },
         {
+            "launchpad_id": "dejianfu",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Fudejian",
+            "emails": ["fudejian1008@163.com"]
+        },
+        {
             "launchpad_id": "demoyuw",
             "companies": [
                 {
