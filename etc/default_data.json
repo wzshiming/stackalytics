@@ -28438,7 +28438,7 @@
                 }
             ],
             "user_name": "Ti Zhou",
-            "emails": ["zhouti@baidu.com","tizhou1986@gmail.com"]
+            "emails": ["zhouti@baidu.com", "tizhou1986@gmail.com"]
         },
         {
             "launchpad_id": "tjohns",
@@ -31783,8 +31783,8 @@
                     "end_date": "2018-Jun-30"
                 },
                 {
-                     "company_name": "Australian Research Data Commons",
-                     "end_date": null
+                    "company_name": "Australian Research Data Commons",
+                    "end_date": null
                 }
             ],
             "user_name": "Shi Yan",
