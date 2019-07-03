@@ -20076,6 +20076,14 @@
                 {
                     "company_name": "Rackspace",
                     "end_date": "2017-Apr-28"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Jun-02"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
                 }
             ],
             "user_name": "Michael Davies",
