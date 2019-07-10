@@ -30198,6 +30198,17 @@
             "emails": ["wangjianhe@chinac.com"]
         },
         {
+            "launchpad_id": "wanglbj",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wanglbj",
+            "emails": ["wanglbj@inspur.com"]
+        },
+        {
             "launchpad_id": "wanglei7217",
             "companies": [
                 {
