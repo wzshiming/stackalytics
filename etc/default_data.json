@@ -3764,6 +3764,21 @@
             "emails": ["brian.elliott@rackspace.com", "bdelliott@gmail.com"]
         },
         {
+            "launchpad_id": "bence-romsics",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bence Romsics",
+            "emails": [
+                "bence.romsics@gmail.com",
+                "bence.romsics@est.tech",
+                "bence.romsics@ericsson.com"
+            ]
+        },
+        {
             "launchpad_id": "benjenwong",
             "github_id": "benjenwong",
             "companies": [
