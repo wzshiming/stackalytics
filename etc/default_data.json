@@ -16876,6 +16876,17 @@
             "emails": ["lhinds@redhat.com", "lukehinds@gmail.com"]
         },
         {
+            "github_id": "liamawhite",
+            "companies": [
+                {
+                    "company_name": "Tetrate",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Liam White",
+            "emails": ["liamawhite@gmail.com", "liam@tetrate.io", "liamwhite@uk.ibm.com"]
+        },
+        {
             "launchpad_id": "liang-bo",
             "companies": [
                 {
@@ -18230,6 +18241,17 @@
             ],
             "user_name": "Cédric Ollivier",
             "emails": ["cedric.ollivier@orange.com", "ollivier.cedric@gmail.com"]
+        },
+        {
+            "launchpad_id": "m1p",
+            "companies": [
+                {
+                    "company_name": "vertical GmbH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mihai Plasoianu",
+            "emails": ["mihai@plasoianu.de", "m.plasoianu@vertical.de"]
         },
         {
             "launchpad_id": "maciej-iai",
@@ -22388,7 +22410,10 @@
                 }
             ],
             "user_name": "portdirect",
-            "emails": ["pete@port.direct", "pete.birley@att.com"]
+            "emails": [
+                "pete@port.direct", "pete.birley@att.com", "pb269f@att.com", "petebirley@gmail.com",
+                "petebirley@googlemail.com"
+            ]
         },
         {
             "launchpad_id": "powerds0111",
@@ -24364,11 +24389,18 @@
                 },
                 {
                     "company_name": "Ericsson",
+                    "end_date": "2018-Oct-22"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Romil Gupta",
-            "emails": ["romil.gupta@ericsson.com", "romilgupta19@gmail.com", "romilg@hp.com", "romilg@hpe.com"]
+            "emails": [
+                "romilg@vmware.com", "romil.gupta@ericsson.com", "romilgupta19@gmail.com", "romilg@hp.com",
+                "romilg@hpe.com"
+            ]
         },
         {
             "launchpad_id": "ronak-malav-shah",
@@ -25517,6 +25549,17 @@
             ],
             "user_name": "Steven Deaton",
             "emails": ["sdeaton2@gmail.com", "steven.deaton@rackspace.com", "sld@hp.com", "sld@hpe.com"]
+        },
+        {
+            "launchpad_id": "sdmitriev1",
+            "companies": [
+                {
+                    "company_name": "Ormuco",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Stanislav Dmitriev",
+            "emails": ["sdmitriev1@gmail.com", "stanislav.dmitriev@ormuco.com"]
         },
         {
             "launchpad_id": "sean-gossard",
@@ -36165,6 +36208,10 @@
         {
             "domains": ["versa-networks.com"],
             "company_name": "Versa Networks"
+        },
+        {
+            "domains": ["vertical.de"],
+            "company_name": "vertical GmbH"
         },
         {
             "domains": ["vexxhost.com"],
