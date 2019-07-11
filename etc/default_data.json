@@ -2054,7 +2054,10 @@
                 }
             ],
             "user_name": "Alexander Hughes",
-            "emails": ["alexander.hughes@pm.me", "ah8742@att.com"]
+            "emails": [
+              "alexander.hughes@pm.me", "alexander.w.hughes@accenture.com",
+              "ah8742@att.com", "alexander.hughes@att.com"
+            ]
         },
         {
             "launchpad_id": "alexandra-settle",
