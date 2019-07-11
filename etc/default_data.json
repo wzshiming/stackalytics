@@ -19851,6 +19851,17 @@
             "emails": ["kent.wu@hpe.com", "kwu@suse.com"]
         },
         {
+            "launchpad_id": "ministry.nd",
+            "companies": [
+                {
+                    "company_name": "VCCorp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bo Tran",
+            "emails": ["ministry.96.nd@gmail.com", "botranvan@vccorp.vn"]
+        },
+        {
             "launchpad_id": "miriamyumi",
             "companies": [
                 {
