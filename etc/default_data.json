@@ -14843,11 +14843,15 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2017-Apr-27"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Joseph Robinson",
-            "emails": ["joseph.robinson@rackspace.com", "joseph.r.email@gmail.com"]
+            "emails": ["joseph.robinson@rackspace.com", "josephremail@gmail.com"]
         },
         {
             "launchpad_id": "joseph15",
