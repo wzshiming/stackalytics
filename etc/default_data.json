@@ -27126,6 +27126,17 @@
             "emails": ["songhao@gohighsec.com"]
         },
         {
+            "launchpad_id": "songhongyuan",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Terry Song",
+            "emails": ["g.terry.song@gmail.com"]
+        },
+        {
             "launchpad_id": "songmingyan",
             "companies": [
                 {
