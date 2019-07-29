@@ -3,6 +3,36 @@
         {
             "companies": [
                 {
+                    "company_name": "Société Générale",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Victor coutellier",
+            "emails": ["victor.coutellier@gmail.com", "alistarle@gmail.com", "victor.coutellier@socgen.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Société Générale",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Grégoire Unbekandt",
+            "emails": ["gregoire.unbekandt@gmail.com", "gregoire.unbekandt@socgen.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Société Générale",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Issam Harrathi",
+            "emails": ["issamneo@gmail.com", "issam.harrathi-ext@socgen.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "H3C",
                     "end_date": null
                 }
@@ -483,12 +513,23 @@
         {
             "companies": [
                 {
+                    "company_name": "IBM",
+                    "end_date": "2018-Feb-16"
+                },
+                {
                     "company_name": "VMware",
+                    "end_date": "2019-Mar-08"
+                },
+                {
+                    "company_name": "Tetrate",
                     "end_date": null
                 }
             ],
             "user_name": "Shriram Rajagopalan",
-            "emails": ["rshriram@users.noreply.github.com", "shriramr@vmware.com"]
+            "emails": [
+                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "shriramr@vmware.com", "rshriram@tetrate.io",
+                "rshriram@gmail.com"
+            ]
         },
         {
             "companies": [
@@ -2077,8 +2118,8 @@
             ],
             "user_name": "Alexander Hughes",
             "emails": [
-              "alexander.hughes@pm.me", "alexander.w.hughes@accenture.com",
-              "ah8742@att.com", "alexander.hughes@att.com"
+                "alexander.hughes@pm.me", "alexander.w.hughes@accenture.com",
+                "ah8742@att.com", "alexander.hughes@att.com"
             ]
         },
         {
@@ -23699,7 +23740,7 @@
                 }
             ],
             "user_name": "renyux",
-            "emails": ["289999584@qq.com", "renyux@cn.ibm.com"]
+            "emails": ["dreamryx@gmail.com", "renyux@cn.ibm.com"]
         },
         {
             "github_id": "reset",
@@ -33111,7 +33152,18 @@
                 }
             ],
             "user_name": "Zeyu Zhu",
-            "emails": ["zhuzeyu0409@gmail.com"]
+            "emails": ["zhu.zeyu@zte.com.cn", "zhuzeyu0409@gmail.com"]
+        },
+        {
+            "github_id": "zgfh",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alan zhu",
+            "emails": ["zg.zhu@daocloud.io", "zzg@daozzg.com"]
         },
         {
             "github_id": "zh1314",
@@ -36037,6 +36089,10 @@
         {
             "domains": ["snabb.co"],
             "company_name": "Snabb"
+        },
+        {
+            "domains": ["socgen.com"],
+            "company_name": "Société Générale"
         },
         {
             "domains": ["softlayer.com"],
@@ -39534,6 +39590,11 @@
             "organization": "Vitess"
         },
         {
+            "module": "dragonfly",
+            "uri": "https://github.com/dragonflyoss/Dragonfly.git",
+            "organization": "Dragonfly"
+        },
+        {
             "module": "coredns",
             "uri": "https://github.com/coredns/coredns.git",
             "organization": "CoreDNS"
@@ -40358,7 +40419,7 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly"
             ]
         },
         {
@@ -40450,6 +40511,12 @@
             "title": "tuf",
             "child": true,
             "modules": ["tuf"]
+        },
+        {
+            "id": "dragonfly",
+            "title": "dragonfly",
+            "child": true,
+            "modules": ["dragonfly"]
         },
         {
             "id": "unaffiliated",
