@@ -17275,6 +17275,17 @@
             "emails": ["os.lcheng@gmail.com", "lin-hua.cheng@hp.com", "lhcheng@yahoo-inc.com"]
         },
         {
+            "launchpad_id": "linanbj",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "linanbj",
+            "emails": ["linanbj@inspur.com"]
+        },
+        {
             "launchpad_id": "lindycoder",
             "companies": [
                 {
