@@ -29249,6 +29249,17 @@
             "emails": ["wanglei2@qiniu.com", "u2takey@gmail.com"]
         },
         {
+            "launchpad_id": "uchenily",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chenyulin",
+            "emails": ["chenyulin@inspur.com", "uchenily@gmail.com"]
+        },
+        {
             "launchpad_id": "uckey-1067",
             "companies": [
                 {
