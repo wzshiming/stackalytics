@@ -20239,11 +20239,15 @@
                 },
                 {
                     "company_name": "Nokia",
+                    "end_date": "2019-Jul-31"
+                },
+                {
+                    "company_name": "StackHPC",
                     "end_date": null
                 }
             ],
             "user_name": "Michal Nasiadka",
-            "emails": ["mnasiadka@gmail.com", "michal.nasiadka@pl.ibm.com", "michal.nasiadka@nokia.com"]
+            "emails": ["mnasiadka@gmail.com", "michal.nasiadka@pl.ibm.com", "michal.nasiadka@nokia.com", "michal@stackhpc.com"]
         },
         {
             "launchpad_id": "mnestratov",
