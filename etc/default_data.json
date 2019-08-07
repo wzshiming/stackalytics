@@ -13891,11 +13891,15 @@
                 },
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2019-Apr-18"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Jesse Pretorius",
-            "emails": ["jesse.pretorius@rackspace.co.uk", "jesse.pretorius@gmail.com", "jesse@odyssey4.me"]
+            "emails": ["jesse.pretorius@rackspace.co.uk", "jesse.pretorius@gmail.com", "jesse@odyssey4.me", "jpretori@redhat.com"]
         },
         {
             "launchpad_id": "jesse2017",
