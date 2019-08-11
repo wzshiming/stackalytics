@@ -39386,11 +39386,6 @@
             "uri": "git://git.opnfv.org/prediction.git"
         },
         {
-            "module": "rs",
-            "organization": "opnfv",
-            "uri": "git://git.opnfv.org/rs.git"
-        },
-        {
             "module": "sdnvpn",
             "organization": "opnfv",
             "uri": "git://git.opnfv.org/sdnvpn.git"
@@ -39662,7 +39657,7 @@
         },
         {
             "module": "airship-in-a-bottle",
-            "uri": "https://opendev.org/airship/in-a-bottle.git",
+            "uri": "https://opendev.org/airship/airship-in-a-bottle.git",
             "organization": "openstack"
         },
         {
