@@ -167,6 +167,14 @@ def _gzip_decompress(content):
         return gzip_fd.read()
 
 
+def read_txt_from_uri(uri):
+    try:
+        return do_request(uri).content.decode('utf8')
+    except Exception as e:
+        LOG.warning('Error "%(error)s" retrieving uri %(uri)s',
+                    {'error': e, 'uri': uri})
+
+
 def read_gzip_from_uri(uri):
     try:
         return _gzip_decompress(do_request(uri).content)

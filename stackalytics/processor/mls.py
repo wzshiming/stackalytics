@@ -58,8 +58,8 @@ def _get_mail_archive_links(uri):
         LOG.warning('Mail archive list is not found at %s', uri)
         return []
 
-    links = set(re.findall(r'\shref\s*=\s*[\'"]([^\'"]*\.txt\.gz)', content,
-                           flags=re.IGNORECASE))
+    links = set(re.findall(r'\shref\s*=\s*[\'"]([^\'"]*\.txt(?:\.gz)?)',
+                           content, flags=re.IGNORECASE))
     return [parse.urljoin(uri, link) for link in links]
 
 
@@ -91,7 +91,12 @@ def _optimize_body(email_body):
 
 def _retrieve_mails(uri):
     LOG.debug('Retrieving mail archive from: %s', uri)
-    content = utils.read_gzip_from_uri(uri)
+
+    if uri.endswith('.gz'):
+        content = utils.read_gzip_from_uri(uri)
+    else:
+        content = utils.read_txt_from_uri(uri)
+
     if not content:
         LOG.error('Error reading mail archive from: %s', uri)
         return
@@ -129,6 +134,7 @@ def log(uri, runtime_storage_inst):
 
     links = _get_mail_archive_links(uri)
     for link in links:
+        LOG.info("Processing emails from %s" % link)
         if _uri_content_changed(link, runtime_storage_inst):
             for mail in _retrieve_mails(link):
                 LOG.debug('New mail: %s', mail['message_id'])

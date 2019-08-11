@@ -82,7 +82,7 @@ From: sorlando at nicira.com (Salvatore Orlando)
     def test_log(self, mock_uri_content_changed, mock_get_mail_archive_links,
                  mock_read_gzip_from_uri):
         mock_uri_content_changed.return_value = True
-        mock_get_mail_archive_links.return_value = ['link']
+        mock_get_mail_archive_links.return_value = ['link.txt.gz']
         mock_read_gzip_from_uri.return_value = EMAIL_CONTENT
         mock_rsi = mock.Mock()
 

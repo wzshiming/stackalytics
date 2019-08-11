@@ -204,6 +204,7 @@ def _process_repo(repo, runtime_storage_inst, record_processor_inst):
 
 
 def _process_mail_list(uri, runtime_storage_inst, record_processor_inst):
+    LOG.info("Processing mail list %s" % uri)
     mail_iterator = mls.log(uri, runtime_storage_inst)
     mail_iterator_typed = _record_typer(mail_iterator, 'email')
     processed_mail_iterator = record_processor_inst.process(

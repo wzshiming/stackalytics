@@ -350,7 +350,8 @@ class RecordProcessor(object):
         modules, alias_module_map = self._get_modules()
         for module in modules:
             find = subject.find(module)
-            if (find >= 0) and (find < pos):
+            if (find >= 0) and (find < pos) \
+                    and (len(module) > len(best_guess_module or '')):
                 pos = find
                 best_guess_module = module
 
