@@ -39703,7 +39703,8 @@
         {
             "module": "airship-treasuremap",
             "uri": "https://opendev.org/airship/treasuremap.git",
-            "organization": "openstack"
+            "organization": "openstack",
+            "aliases": ["airship"]
         },
         {
             "module": "airship-utils",
