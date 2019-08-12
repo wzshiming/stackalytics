@@ -27099,11 +27099,15 @@
                 },
                 {
                     "company_name": "NetApp",
+                    "end_date": "2019-Jul-26"
+                },
+                {
+                    "company_name": "Canonical",
                     "end_date": null
                 }
             ],
             "user_name": "Erlon R. Cruz",
-            "emails": ["sombrafam@gmail.com", "erlon.cruz@fit-tecnologia.org.br"]
+            "emails": ["sombrafam@gmail.com", "erlon@canonical.com"]
         },
         {
             "launchpad_id": "somikbehera",
