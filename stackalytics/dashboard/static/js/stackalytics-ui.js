@@ -139,7 +139,7 @@ function renderTableAndChart(url, container_id, table_id, chart_id, link_param, 
                     }
 
                     if (data[i].core == "master") {
-                        data[i].link += '&nbsp;&#x273B;'
+                        data[i].link += "&nbsp;<span title=\"Core Reviewer\">&#x273B;</span>"
                     } else if (data[i].core) {
                         data[i].link += "&nbsp;&#x272C; <small><i>" + data[i].core + "</i></small>";
                     }
