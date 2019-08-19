@@ -32856,12 +32856,16 @@
             "launchpad_id": "yuyafei",
             "companies": [
                 {
-                    "company_name": "ZTE Corporation",
+                    "company_name": "EasyStack",
                     "end_date": null
+                },
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": "2019-Jun-10"
                 }
             ],
             "user_name": "yuyafei",
-            "emails": ["yuyafei@zte.com.cn", "woshiyuyafei@126.com"]
+            "emails": ["yu.yafei@foxmail.com", "yuyafei5@gmail.com"]
         },
         {
             "launchpad_id": "yuyangwang1985",
