@@ -12363,6 +12363,18 @@
             "emails": ["hwbi2008@gmail.com"]
         },
         {
+            "launchpad_id": "hwdef",
+            "github_id": "hwdef",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hwdef",
+            "emails": ["hwdef97@gmail.com", "lixin@beyondcent.com"]
+        },
+        {
             "launchpad_id": "hyakuhei",
             "companies": [
                 {
