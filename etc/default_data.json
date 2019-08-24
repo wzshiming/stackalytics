@@ -5485,6 +5485,17 @@
             "emails": ["chensh@rc.inesa.com"]
         },
         {
+            "launchpad_id": "chentanjun",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chentanjun",
+            "emails": ["2799194073@qq.com"]
+        },
+        {
             "launchpad_id": "chenyb4",
             "companies": [
                 {
