@@ -4561,7 +4561,12 @@
                 }
             ],
             "user_name": "Bharat Kunwar",
-            "emails": ["b.kunwar@gmail.com", "bharat@stackhpc.com"]
+            "emails": [
+                "brtknr@bath.edu",
+                "bharat@stackhpc.com",
+                "b.kunwar@gmail.com",
+                "bharat.kunwar@bath.edu"
+            ]
         },
         {
             "launchpad_id": "bruno-semperlotti",
@@ -13410,11 +13415,24 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2017-Apr-26"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Jul-28"
+                },
+                {
+                    "company_name": "Verizon Media",
                     "end_date": null
                 }
             ],
             "user_name": "Jay Faulkner",
-            "emails": ["jay@jvf.cc", "jay.faulkner@rackspace.com"]
+            "emails": [
+                "jason@oldos.org",
+                "jay@jvf.cc",
+                "jay.faulkner@rackspace.com",
+                "jay.faulkner@verizonmedia.com"
+            ]
         },
         {
             "launchpad_id": "jason-smithss",
@@ -38472,11 +38490,6 @@
             "uri": "https://github.com/docker/cli.git"
         },
         {
-            "module": "containerd",
-            "organization": "docker",
-            "uri": "https://github.com/containerd/containerd.git"
-        },
-        {
             "module": "docker",
             "organization": "docker",
             "uri": "https://github.com/docker/docker.git"
@@ -38555,6 +38568,11 @@
             "module": "proxy@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/proxy.git"
+        },
+        {
+            "module": "istio.github.io",
+            "organization": "istio",
+            "uri": "https://github.com/istio/istio.github.io.git"
         },
         {
             "module": "istio.io@istio",
@@ -39717,6 +39735,11 @@
             "organization": "Dragonfly"
         },
         {
+            "module": "containerd",
+            "uri": "https://github.com/containerd/containerd.git",
+            "organization": "containerd"
+        },
+        {
             "module": "coredns",
             "uri": "https://github.com/coredns/coredns.git",
             "organization": "CoreDNS"
@@ -40544,7 +40567,7 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd"
             ]
         },
         {
@@ -40642,6 +40665,12 @@
             "title": "dragonfly",
             "child": true,
             "modules": ["dragonfly"]
+        },
+        {
+            "id": "containerd",
+            "title": "containerd",
+            "child": true,
+            "modules": ["containerd"]
         },
         {
             "id": "unaffiliated",
