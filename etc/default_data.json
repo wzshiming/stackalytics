@@ -9284,6 +9284,17 @@
             "emails": ["evelyn.xu@daocloud.io", "evelynhsu21@gmail.com"]
         },
         {
+            "launchpad_id": "estherk",
+            "companies": [
+                {
+                    "company_name": "SK telecom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Esther Kim",
+            "emails": ["esther.k@sk.com", "jabbukka@gmail.com"]
+        },
+        {
             "launchpad_id": "ethanlynn",
             "companies": [
                 {
