@@ -492,9 +492,10 @@ class RecordProcessor(object):
 
         yield translation
 
-    def _renew_record_date(self, record):
+    def _renew_record_date(self, record, force_update_release=False):
         record['week'] = utils.timestamp_to_week(record['date'])
-        if ('release' not in record) or (not record['release']):
+        if (force_update_release or ('release' not in record) or
+                (not record['release'])):
             record['release'] = self._get_release(record['date'])
 
     def process(self, record_iterator):
@@ -550,7 +551,7 @@ class RecordProcessor(object):
 
         yield record_handler
 
-    def _update_commits_with_merge_date(self):
+    def _update_commits_with_merge_date(self, release_index):
         LOG.info('Update commits with merge date')
 
         change_id_to_date = {}
@@ -575,7 +576,11 @@ class RecordProcessor(object):
                         old_date = record['date']
                         if old_date != change_id_to_date[change_id]:
                             record['date'] = change_id_to_date[change_id]
-                            self._renew_record_date(record)
+                            force_update_release = (
+                                record['primary_key'] not in release_index
+                            )
+                            self._renew_record_date(record,
+                                                    force_update_release)
                             LOG.debug('Date %(date)s has changed in record '
                                       '%(record)s', {'date': old_date,
                                                      'record': record})
@@ -787,7 +792,8 @@ class RecordProcessor(object):
     def post_processing(self, release_index):
         processors = [
             self._update_records_with_user_info,
-            self._update_commits_with_merge_date,
+            functools.partial(self._update_commits_with_merge_date,
+                              release_index),
             functools.partial(self._update_records_with_releases,
                               release_index),
             self._update_commits_with_module_alias,
