@@ -29236,11 +29236,15 @@
             "companies": [
                 {
                     "company_name": "Fujitsu",
+                    "end_date": "2019-Jun-01"
+                },
+                {
+                    "company_name": "Viettel",
                     "end_date": null
                 }
             ],
             "user_name": "Nguyen Van Trung",
-            "emails": ["trungnv@vn.fujitsu.com", "trungnvfet@outlook.com"]
+            "emails": ["trungnv47@viettel.com.vn", "trungnvfet@outlook.com"]
         },
         {
             "launchpad_id": "truongnh92",
