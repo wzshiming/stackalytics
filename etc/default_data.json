@@ -20134,6 +20134,25 @@
             "emails": ["mishra.rakesh510@gmail.com", "rakesh.ku.mishra@ril.com"]
         },
         {
+            "launchpad_id": "mitsuhiro-tanino",
+            "companies": [
+                {
+                    "company_name": "Hitachi Vantara",
+                    "end_date": "2018-Feb-28"
+                },
+                {
+                    "company_name": "Hitachi",
+                    "end_date": "2019-Jul-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mitsuhiro Tanino",
+            "emails": ["mittjp1129@gmail.com"]
+        },
+        {
             "github_id": "mixj93",
             "companies": [
                 {
