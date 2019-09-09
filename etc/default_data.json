@@ -9710,11 +9710,19 @@
                 },
                 {
                     "company_name": "IBM",
+                    "end_date": "2018-Jul-04"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Aug-20"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Flavio Fernandes",
-            "emails": ["flavio@flaviof.com", "flavio.fernandes@ibm.com"]
+            "emails": ["flavio@flaviof.com", "flavio.fernandes@ibm.com", "flaviof@redhat.com", "ffernand@redhat.com"]
         },
         {
             "github_id": "ffilz",
@@ -16858,6 +16866,10 @@
                 },
                 {
                     "company_name": "Futurewei",
+                    "end_date": "2019-Jul-19"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
@@ -27108,11 +27120,15 @@
             "companies": [
                 {
                     "company_name": "OCF plc",
+                    "end_date": "2017-Oct-15"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Christopher Brown",
-            "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk"]
+            "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk", "chris.brown@redhat.com", "chribrow@redhat.com"]
         },
         {
             "launchpad_id": "sofer-athlan-guyot",
