@@ -32914,6 +32914,17 @@
             "emails": ["yuxcer@126.com", "yuxcer@gmail.com", "xingchao@polex.com.cn", "xingchao@unitedstack.com"]
         },
         {
+            "launchpad_id": "yuxiaobo",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Xiaobo Yu",
+            "emails": ["yuxiaobogo@163.com"]
+        },
+        {
             "launchpad_id": "yuyafei",
             "companies": [
                 {
