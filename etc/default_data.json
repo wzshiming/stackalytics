@@ -4339,6 +4339,17 @@
                 "bpavlovic@godaddy.com"
             ]
         },
+                {
+            "launchpad_id": "brabiega",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bartosz Rabiega",
+            "emails": ["b.rabiega@gmail.com", "bartosz.rabiega@corp.ovh.com"]
+        },
         {
             "launchpad_id": "brad-klein",
             "companies": [
