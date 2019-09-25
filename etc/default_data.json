@@ -798,6 +798,17 @@
             "emails": ["lu.bin2@zte.com.cn"]
         },
         {
+            "github_id": "41tair",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Byron Wang",
+            "emails": ["altair.wang@daocloud.io", "stormlandon@outlook.com"]
+        },
+        {
             "launchpad_id": "453528434-f",
             "companies": [
                 {
@@ -2546,6 +2557,18 @@
             ],
             "user_name": "Andrea Rosa",
             "emails": ["andrea.rosa@hp.com", "andrea.rosa@hpe.com"]
+        },
+        {
+            "launchpad_id": "andrebeltrami",
+            "github_id": "andrebeltrami",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andre Beltrami",
+            "emails": ["debeltrami@gmail.com", "andre.rocha@fit-tecnologia.org.br", "andrer@netapp.com"]
         },
         {
             "launchpad_id": "andrew-lhj",
