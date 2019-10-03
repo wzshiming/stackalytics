@@ -24687,11 +24687,15 @@
                 },
                 {
                     "company_name": "OVH",
+                    "end_date": "2019-Aug-31"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Roman Dobosz",
-            "emails": ["roman.dobosz@intel.com", "gryf73@gmail.com", "roman.dobosz@corp.ovh.com"]
+            "emails": ["gryf73@gmail.com", "rdobosz@redhat.com"]
         },
         {
             "launchpad_id": "romang",
