@@ -5954,6 +5954,17 @@
             "emails": ["lihao35@baidu.com"]
         },
         {
+            "launchpad_id": "clauz",
+            "companies": [
+                {
+                    "company_name": "GARR",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Claudio Pisa",
+            "emails": ["claudio.pisa@garr.it"]
+        },
+        {
             "launchpad_id": "clay-gerrard",
             "companies": [
                 {
@@ -10104,11 +10115,17 @@
                 },
                 {
                     "company_name": "Aptira",
+                    "end_date": "2017-Apr-30"
+                },
+                {
+                    "company_name": "Bloomberg LP",
                     "end_date": null
                 }
             ],
             "user_name": "Marcus Furlong",
-            "emails": ["furlongm@unimelb.edu.au", "marcus@aptira.com", "furlongm@gmail.com"]
+            "emails": [
+                "furlongm@unimelb.edu.au", "marcus@aptira.com", "furlongm@gmail.com", "mfurlong13@bloomberg.net"
+            ]
         },
         {
             "launchpad_id": "fuzhaokun",
@@ -10869,11 +10886,15 @@
             "companies": [
                 {
                     "company_name": "Objectif Libre",
+                    "end_date": "2019-Jul-31"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Gauvain Pocentek",
-            "emails": ["gauvain@pocentek.net", "gauvain.pocentek@objectif-libre.com"]
+            "emails": ["gauvain@pocentek.net", "gauvain.pocentek@objectif-libre.com", "gauvainpocentek@gmail.com"]
         },
         {
             "launchpad_id": "grahamhayes",
@@ -34783,6 +34804,11 @@
             "company_name": "Blizzard Entertainment"
         },
         {
+            "domains": ["bloomberg.net", "bloomberg.com"],
+            "company_name": "Bloomberg LP",
+            "aliases": ["Bloomberg", "Bloomberg L.P."]
+        },
+        {
             "domains": ["bluebox.net"],
             "company_name": "Blue Box",
             "aliases": ["Blue Box Group"]
@@ -35316,6 +35342,10 @@
             "aliases": [
                 "Futurewei", "Futurewei Technologies Inc", "FutureWei Technologies Inc"
             ]
+        },
+        {
+            "domains": ["garr.it"],
+            "company_name": "GARR"
         },
         {
             "domains": ["getchef.com", "opscode.com"],
@@ -36216,7 +36246,7 @@
             "domains": ["redhat.com", "gluster.com", "enovance.com"],
             "company_name": "Red Hat",
             "aliases": [
-                "Red Hat Canada, Inc", "Red Hat Czech, s.r.o.", "Red Hat, Inc., Bloomberg L.P.",
+                "Red Hat Canada, Inc", "Red Hat Czech, s.r.o.", "Red Hat, Inc.",
                 "Red Hat India Pvt. Ltd.", "Red Hat Software", "eNovance"
             ]
         },
