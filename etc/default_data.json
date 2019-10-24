@@ -31216,6 +31216,10 @@
                 },
                 {
                     "company_name": "NEC",
+                    "end_date": "2019-Oct-15"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
