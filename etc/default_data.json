@@ -1000,6 +1000,39 @@
             "emails": ["413281174@qq.com", "lhtang@alauda.io"]
         },
         {
+            "github_id": "ProgramerGu",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yu Gu",
+            "emails": ["guyu05@baidu.com"]
+        },
+        {
+            "github_id": "S1yuan",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Siyuan Pan",
+            "emails": ["pansiyuan02@baidu.com"]
+        },
+        {
+            "github_id": "Syulin7",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Lin Liu",
+            "emails": ["liulin15@baidu.com"]
+        },
+        {
             "github_id": "TinySong",
             "companies": [
                 {
@@ -5482,6 +5515,17 @@
             ],
             "user_name": "Chen Hanxiao",
             "emails": ["chenhx@certusnet.com.cn", "chenhanxiao@cn.fujitsu.com"]
+        },
+        {
+            "github_id": "chenhuan0103",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Huan Chen",
+            "emails": ["chenhuan0103@baidu.com"]
         },
         {
             "launchpad_id": "chenjhfrontend",
@@ -32562,6 +32606,17 @@
             "emails": ["zhaoyunfeng@fiberhome.com", "dsware@126.com"]
         },
         {
+            "github_id": "yiduyangyi",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jinfeng Yang",
+            "emails": ["yangjinfeng02@baidu.com"]
+        },
+        {
             "launchpad_id": "yihleong",
             "companies": [
                 {
@@ -32952,6 +33007,17 @@
             ],
             "user_name": "YuhengWang",
             "emails": ["wangyuheng@sinorail.com", "ascendjohan@163.com"]
+        },
+        {
+            "github_id": "yuhongwex",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hongwei Yu",
+            "emails": ["yuhongwei@baidu.com"]
         },
         {
             "launchpad_id": "yujunz",
@@ -33990,6 +34056,17 @@
             ],
             "user_name": "Zhikun Liu",
             "emails": ["liuzhikun@gmail.com", "liuzhikun@chinac.com"]
+        },
+        {
+            "github_id": "zhipengzuo",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zhipeng Zuo",
+            "emails": ["zuozhipeng@baidu.com"]
         },
         {
             "launchpad_id": "zhiteng-huang",
