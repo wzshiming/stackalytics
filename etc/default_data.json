@@ -10556,6 +10556,7 @@
         },
         {
             "launchpad_id": "generalfuzz",
+            "github_id": "generalfuzz",
             "companies": [
                 {
                     "company_name": "G-Research",
