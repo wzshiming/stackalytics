@@ -22424,6 +22424,21 @@
             "emails": ["beevatsyu@gmail.com"]
         },
         {
+            "launchpad_id": "pasuder",
+            "companies": [
+                {
+                    "company_name": "None",
+                    "end_date": "2017-Mar-31"
+                },
+                {
+                    "company_name": "OVH",
+                    "end_date": "2019-Mar-31"
+                }
+            ],
+            "user_name": "Paweł Suder",
+            "emails": ["pawel@suder.info"]
+        },
+        {
             "launchpad_id": "patanella",
             "companies": [
                 {
@@ -23394,17 +23409,6 @@
             ],
             "user_name": "Pradhan",
             "emails": ["psp0808@gmail.com"]
-        },
-        {
-            "launchpad_id": "psuder",
-            "companies": [
-                {
-                    "company_name": "OVH",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Pawel Suder",
-            "emails": ["pawel.suder@corp.ovh.com"]
         },
         {
             "launchpad_id": "purp",
