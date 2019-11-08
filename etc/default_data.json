@@ -1000,6 +1000,28 @@
             "emails": ["413281174@qq.com", "lhtang@alauda.io"]
         },
         {
+            "github_id": "MartinXPN",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Martyn Taylor",
+            "emails": ["mirakyanmartin@gmail.com", "martinxpn@fb.com"]
+        },
+        {
+            "github_id": "Mokon",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "David Bond",
+            "emails": ["mokon@mokon.net", "davidmokonbond@fb.com"]
+        },
+        {
             "github_id": "ProgramerGu",
             "companies": [
                 {
@@ -1409,6 +1431,17 @@
             ],
             "user_name": "Alexander Chudnovets",
             "emails": ["alexander_chudnovets@symantec.com", "achudnovets@mirantis.com"]
+        },
+                {
+            "github_id": "aclave1",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alex Clavelle",
+            "emails": ["clavelle@fb.com"]
         },
         {
             "launchpad_id": "acme-ican",
@@ -2163,6 +2196,17 @@
             "emails": ["alex.pecoraro@emc.com"]
         },
         {
+            "github_id": "alexanderclin",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alexander Lin",
+            "emails": ["alexanderlin@fb.com"]
+        },
+        {
             "launchpad_id": "alexanderhughes",
             "github_id": "alexander-hughes",
             "companies": [
@@ -2602,6 +2646,17 @@
             ],
             "user_name": "Andre Beltrami",
             "emails": ["debeltrami@gmail.com", "andre.rocha@fit-tecnologia.org.br", "andrer@netapp.com"]
+        },
+        {
+            "github_id": "andreilee",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andrei Lee",
+            "emails": ["andreilee@fb.com"]
         },
         {
             "launchpad_id": "andrew-lhj",
@@ -9262,6 +9317,17 @@
             "emails": ["emagana@gmail.com", "eperdomo@cisco.com", "edgar.magana@workday.com"]
         },
         {
+            "github_id": "emakeev",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Evgeniy Makeev",
+            "emails": ["evgeniym@fb.com"]
+        },
+        {
             "launchpad_id": "emilienm",
             "companies": [
                 {
@@ -9901,6 +9967,17 @@
             ],
             "user_name": "Tom Fifield",
             "emails": ["fifieldt@unimelb.edu.au", "tom@openstack.org"]
+        },
+        {
+            "github_id": "fishlinghu",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kuan-Yu Li",
+            "emails": ["fishlinghu@fb.com"]
         },
         {
             "launchpad_id": "flaper87",
@@ -12706,6 +12783,17 @@
                 }
             ],
             "emails": ["ipekelny@mirantis.com", "ipekelny@griddynamics.com", "pekelny@gmail.com"]
+        },
+        {
+            "github_id": "ian952",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ian Hu",
+            "emails": ["ianhu@fb.com"]
         },
         {
             "launchpad_id": "ianhowell",
@@ -20726,6 +20814,17 @@
             ]
         },
         {
+            "github_id": "mpgermano",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Michael Germano",
+            "emails": ["michaelpgermano@gmail.com", "mgermano@fb.com"]
+        },
+        {
             "launchpad_id": "mpmsimo",
             "companies": [
                 {
@@ -23979,6 +24078,17 @@
             ]
         },
         {
+            "github_id": "rckclmbr",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Joshua Braegger",
+            "emails": ["josh@xr6.me", "jbraeg@fb.com"]
+        },
+        {
             "launchpad_id": "rconradharris",
             "companies": [
                 {
@@ -25146,6 +25256,17 @@
             ]
         },
         {
+            "github_id": "rpraveen",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Praveen Kumar Ramakrishnan",
+            "emails": ["praveenr@fb.com"]
+        },
+        {
             "launchpad_id": "rromans",
             "companies": [
                 {
@@ -26023,6 +26144,17 @@
             "emails": ["richard.schneeman@gmail.com"]
         },
         {
+            "github_id": "sciencemanx",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adam Van Prooyen",
+            "emails": ["adam.vanpr@gmail.com", "adamvp@fb.com"]
+        },
+        {
             "launchpad_id": "scollins",
             "companies": [
                 {
@@ -26077,6 +26209,17 @@
             ],
             "user_name": "Scott Solkhon",
             "emails": ["scottsolkhon@gmail.com", "scott.solkhon@gresearch.co.uk"]
+        },
+        {
+            "github_id": "scott8440",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Scott Smith",
+            "emails": ["smithscott@fb.com"]
         },
         {
             "github_id": "scottfrederick",
@@ -27476,6 +27619,17 @@
             "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk", "chris.brown@redhat.com", "chribrow@redhat.com"]
         },
         {
+            "github_id": "sniperking1234",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chen zhengwei",
+            "emails": ["chenzhengwei@inspur.com", "980752307@qq.com", "980752307qq.com@gmail.com"]
+        },
+        {
             "launchpad_id": "sofer-athlan-guyot",
             "companies": [
                 {
@@ -27865,6 +28019,17 @@
             ],
             "user_name": "Sridhar Gaddam",
             "emails": ["sridhar.gaddam@enovance.com", "sgaddam@redhat.com"]
+        },
+        {
+            "github_id": "ssanadhya",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shruti Sanadhya",
+            "emails": ["ssanadhya@fb.com"]
         },
         {
             "launchpad_id": "ssarabia",
@@ -28797,6 +28962,17 @@
             "emails": ["jp@jamezpolley.com", "james.polley@hp.com", "james.polley@hpe.com"]
         },
         {
+            "github_id": "tcirstea",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tudor Cirstea",
+            "emails": ["tcirstea@fb.com"]
+        },
+        {
             "launchpad_id": "teabee89",
             "companies": [
                 {
@@ -28928,6 +29104,17 @@
             ],
             "user_name": "Thelo Gaultier",
             "emails": ["thelo.gaultier@gmail.com"]
+        },
+        {
+            "github_id": "themarwhal",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Marie Bremner",
+            "emails": ["marwhal@fb.com"]
         },
         {
             "launchpad_id": "therve",
@@ -30352,6 +30539,17 @@
             ],
             "user_name": "Vikas D M",
             "emails": ["vikas.d-m@hp.com", "vikas.d-m@hpe.com"]
+        },
+        {
+            "github_id": "vikg-fb",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Vik Goel",
+            "emails": ["vikg@fb.com"]
         },
         {
             "launchpad_id": "viktor-krivak",
@@ -32180,6 +32378,17 @@
             ],
             "user_name": "Xinze Chi",
             "emails": ["xmdxcxz@gmail.com", "xinze@xsky.com"]
+        },
+        {
+            "github_id": "xjtian",
+            "companies": [
+                {
+                    "company_name": "Facebook",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jacky Tian",
+            "emails": ["jacky@xjtian.com", "xjtian@fb.com"]
         },
         {
             "github_id": "xlgao-zju",
@@ -35614,6 +35823,10 @@
         {
             "domains": ["evoila.de"],
             "company_name": "evoila"
+        },
+        {
+            "domains": ["facebook.com", "fb.com"],
+            "company_name": "Facebook"
         },
         {
             "domains": ["fathomdb.com"],
@@ -40801,9 +41014,9 @@
                 "airshipctl", "airshipui", "airship-apis", "airship-in-a-bottle", "airship-armada", "airship-berth",
                 "airship-deckhand", "airship-divingbell", "airship-docs", "airship-drydock", "airship-election",
                 "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas",
-                "airship-pegleg",
-                "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs", "airship-spyglass",
-                "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap", "airship-utils"
+                "airship-pegleg", "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs",
+                "airship-spyglass", "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap",
+                "airship-utils"
             ]
         },
         {
