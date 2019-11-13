@@ -1442,7 +1442,7 @@
             "user_name": "Alexander Chudnovets",
             "emails": ["alexander_chudnovets@symantec.com", "achudnovets@mirantis.com"]
         },
-                {
+        {
             "github_id": "aclave1",
             "companies": [
                 {
@@ -3264,7 +3264,7 @@
                 }
             ],
             "user_name": "aresforchina",
-            "emails": ["18845641183@163.com", "qizetao@boyondcent.com"]
+            "emails": ["18845641183@163.com", "qizetao@beyondcent.com"]
         },
         {
             "launchpad_id": "arif-ali",
@@ -27881,7 +27881,7 @@
                 }
             ],
             "user_name": "Son Pham Viettel",
-            "emails": ["phamngocsonls@gmail.com","sonpn13@viettel.com.vn"]
+            "emails": ["phamngocsonls@gmail.com", "sonpn13@viettel.com.vn"]
         },
         {
             "launchpad_id": "sonu-sudhakaran",
@@ -35435,7 +35435,7 @@
             "company_name": "BMW"
         },
         {
-            "domains": ["bocloud.com.cn"],
+            "domains": ["bocloud.com.cn", "beyondcent.com"],
             "company_name": "BoCloud",
             "aliases": ["beyondcent", "博云", "苏州博纳讯动软件有限公司", "博纳讯动"]
         },
