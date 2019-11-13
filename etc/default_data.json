@@ -17669,6 +17669,17 @@
             "emails": ["jinhui23.li@gmail.com"]
         },
         {
+            "launchpad_id": "lilingxing20",
+            "companies": [
+                {
+                    "company_name": "Teamsun",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Li Xingxing",
+            "emails": ["lilingxing20@163.com", "lixx_xt@teamsun.com.cn"]
+        },
+        {
             "launchpad_id": "liliueecg",
             "companies": [
                 {
@@ -37066,6 +37077,10 @@
             "domains": ["tcs.com"],
             "company_name": "Tata",
             "aliases": ["Tata Consultancy Services", "Tata Consultancy Services Limited"]
+        },
+        {
+            "domains": ["teamsun.com.cn"],
+            "company_name": "Teamsun"
         },
         {
             "domains": ["tegile.com"],
