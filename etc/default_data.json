@@ -22358,6 +22358,17 @@
             "emails": ["paco.xu@daocloud.io", "roollingstone@gmail.com"]
         },
         {
+            "launchpad_id": "palagend",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "acewit",
+            "emails": ["huyueheng@inspur.com"]
+        },
+        {
             "launchpad_id": "palecrow",
             "companies": [
                 {
