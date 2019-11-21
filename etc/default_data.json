@@ -12585,11 +12585,15 @@
             "companies": [
                 {
                     "company_name": "CertusNet",
+                    "end_date": "2019-Oct-18"
+                },
+                {
+                    "company_name": "Qihoo 360 Technology Co",
                     "end_date": null
                 }
             ],
             "user_name": "huiweics",
-            "emails": ["huiweics@gmail.com", "huiw@certusnet.com.cn"]
+            "emails": ["huiweics@gmail.com", "huiwei@360.cn"]
         },
         {
             "launchpad_id": "humble00",
