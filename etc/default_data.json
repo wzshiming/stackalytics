@@ -3256,6 +3256,17 @@
             "emails": ["zwhe@fiberhome.com", "areialray@gmail.com"]
         },
         {
+            "launchpad_id": "aresforchina",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "aresforchina",
+            "emails": ["18845641183@163.com", "qizetao@boyondcent.com"]
+        },
+        {
             "launchpad_id": "arif-ali",
             "companies": [
                 {
