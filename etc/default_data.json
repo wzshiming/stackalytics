@@ -23491,6 +23491,17 @@
             "emails": ["psp0808@gmail.com"]
         },
         {
+            "launchpad_id": "psuder",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pawel Suder",
+            "emails": ["pawel.suder@corp.ovh.com"]
+        },
+        {
             "launchpad_id": "purp",
             "companies": [
                 {
