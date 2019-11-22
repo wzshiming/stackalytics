@@ -17135,11 +17135,21 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2019-Aug-04"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
             "user_name": "Dong Ma",
-            "emails": ["winterma.dong@gmail.com", "dong.ma@hp.com", "dong.ma@hpe.com"]
+            "emails": [
+                "winterma.dong@gmail.com",
+                "dong.ma@hp.com",
+                "dong.ma@hpe.com",
+                "madongma@cn.ibm.com",
+                "madong@linux.vnet.ibm.com"
+            ]
         },
         {
             "launchpad_id": "laun-zhangdebo",
