@@ -18256,6 +18256,10 @@
                 },
                 {
                     "company_name": "China Telecom",
+                    "end_date": "2019-Oct-31"
+                },
+                {
+                    "company_name": "China Unicom",
                     "end_date": null
                 }
             ],
