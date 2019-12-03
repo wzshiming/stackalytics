@@ -17712,6 +17712,17 @@
             "emails": ["jinhui23.li@gmail.com"]
         },
         {
+            "launchpad_id": "likangkang",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "likangkang01",
+            "emails": ["likangkang01@inspur.com"]
+        },
+        {
             "launchpad_id": "lilingxing20",
             "companies": [
                 {
