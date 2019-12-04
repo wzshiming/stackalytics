@@ -12121,6 +12121,21 @@
             "emails": ["hnyang@fiberhome.com", "yhn2nl.2008@163.com"]
         },
         {
+            "launchpad_id": "hoangcx",
+            "companies": [
+                {
+                    "company_name": "Fujitsu",
+                    "end_date": "2018-Sep-30"
+                },
+                {
+                    "company_name": "Genesis Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Cao Xuan Hoang",
+            "emails": ["xuanhoangqb@gmail.com", "hoang@genesiscloud.com"]
+        },
+        {
             "launchpad_id": "hoangphuoc",
             "github_id": "hoangphuocbk",
             "companies": [
@@ -35985,6 +36000,10 @@
         {
             "domains": ["garr.it"],
             "company_name": "GARR"
+        },
+        {
+            "domains": ["genesiscloud.com"],
+            "company_name": "Genesis Cloud"
         },
         {
             "domains": ["getchef.com", "opscode.com"],
