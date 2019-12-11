@@ -37795,9 +37795,15 @@
                     "tag_from": "14.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "15.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "16.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/keystone.git",
