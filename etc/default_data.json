@@ -3,6 +3,66 @@
         {
             "companies": [
                 {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "erikwilson",
+            "emails": ["erik.e.wilson@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "rmweir",
+            "emails": ["ricardo.weir1@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "leodotcloud",
+            "emails": ["leodotcloud@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "aiwantaozi",
+            "emails": ["michelia.feng@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "gitlawr",
+            "emails": ["lawrleegle@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jiaqi Luo",
+            "emails": ["jiaqiluo123+GitHub@gmail.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Google",
                     "end_date": null
                 }
@@ -11930,6 +11990,17 @@
             ],
             "user_name": "sun cheng",
             "emails": ["sunc@rc.inesa.com"]
+        },
+        {
+            "launchpad_id": "hemanth-n",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hemanth Nakkina",
+            "emails": ["hemanth.nakkina@canonical.com", "mail2hemanth.n@gmail.com"]
         },
         {
             "launchpad_id": "henrique-4",
@@ -25776,6 +25847,24 @@
             "emails": ["sachin.shukla@workday.com"]
         },
         {
+            "launchpad_id": "sagarun",
+            "companies": [
+                {
+                    "company_name": "Yahoo!",
+                    "end_date": "2017-Jun-13"
+                },
+                {
+                    "company_name": "Verizon Media",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Arun S A G",
+            "emails": [
+                "sagarun@gmail.com", "saga@yahoo-inc.com",
+                "saga@verizonmedia.com", "saga@oath.com"
+            ]
+        },
+        {
             "launchpad_id": "sahid-ferdjaoui",
             "companies": [
                 {
@@ -26803,6 +26892,17 @@
             ],
             "user_name": "Shashirekha Gundur",
             "emails": ["shashirekha.j.gundur@intel.com", "shashi.j.gundur@gmail.com"]
+        },
+        {
+            "launchpad_id": "shatadru",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shatadru Bandyopadhyay",
+            "emails": ["sbandyop@redhat.com", "shatadru1@gmail.com"]
         },
         {
             "launchpad_id": "shaun-edwards",
@@ -40618,6 +40718,11 @@
             "organization": "Linkerd"
         },
         {
+            "module": "linkerd2",
+            "uri": "https://github.com/linkerd/linkerd2.git",
+            "organization": "Linkerd"
+        },
+        {
             "module": "helm",
             "uri": "https://github.com/helm/helm.git",
             "organization": "Helm"
@@ -40636,6 +40741,11 @@
             "module": "opendaylight",
             "uri": "https://github.com/opendaylight/controller.git",
             "organization": "opendaylight"
+        },
+        {
+            "module": "cntt",
+            "uri": "https://github.com/cntt-n/CNTT.git",
+            "organization": "cntt"
         },
         {
             "module": "magma",
@@ -41622,7 +41732,7 @@
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
                 "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
-                "rancher"
+                "rancher", "cntt"
             ]
         },
         {
@@ -41734,6 +41844,12 @@
             "title": "OpenDaylight",
             "child": true,
             "modules": ["opendaylight"]
+        },
+        {
+            "id": "cntt",
+            "title": "CNTT",
+            "child": true,
+            "modules": ["cntt"]
         },
         {
             "id": "facebookincubator",
