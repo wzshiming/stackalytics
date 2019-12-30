@@ -19048,6 +19048,18 @@
             "emails": ["mahati.chamarthy@gmail.com", "mahati.chamarthy@intel.com"]
         },
         {
+            "launchpad_id": "mahendrakamble",
+            "github_id": "mahendraKamble",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mahendra Kamble",
+            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com", "mahendra_kamble@dellteam.com"]
+        },
+        {
             "launchpad_id": "maheshkumar-pandurangan",
             "companies": [
                 {
