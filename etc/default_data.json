@@ -1830,6 +1830,17 @@
             "emails": ["aishu.ece@gmail.com", "aishwarya.thangappa@gmail.com"]
         },
         {
+            "launchpad_id": "aitianxiang",
+            "companies": [
+                {
+                    "company_name": "China Telecom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "tianxiang ai",
+            "emails": ["shuaibitu@gmail.com", "aitianxiang@chinatelecom.cn"]
+        },
+        {
             "launchpad_id": "ajayaa",
             "companies": [
                 {
