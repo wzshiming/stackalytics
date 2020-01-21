@@ -5831,6 +5831,17 @@
             "emails": ["ramesh.chander@sandisk.com"]
         },
         {
+            "launchpad_id": "chi-simone98k",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Meng Chi",
+            "emails": ["chisimon98k@gmail.com"]
+        },
+        {
             "launchpad_id": "chi-xu",
             "companies": [
                 {
@@ -37412,6 +37423,10 @@
         {
             "domains": ["triggermesh.com"],
             "company_name": "TriggerMesh"
+        },
+        {
+            "domains": ["troila.com"],
+            "company_name": "Troila"
         },
         {
             "domains": ["tsh-world.co.jp"],
