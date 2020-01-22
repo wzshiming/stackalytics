@@ -8825,6 +8825,18 @@
             "emails": ["dougwig@parkside.io", "dougw@a10networks.com", "dwiegley@salesforce.com"]
         },
         {
+            "launchpad_id": "douyali",
+            "github_id": "fightdou",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yali dou",
+            "emails": ["douyali@troila.com", "douyali328@gmail.com"]
+        },
+        {
             "github_id": "dqmihn",
             "companies": [
                 {
@@ -38319,8 +38331,9 @@
             "company_name": "TriggerMesh"
         },
         {
-            "domains": ["troila.com"],
-            "company_name": "Troila"
+            "domains": ["troila.com", "kunluncloud.com"],
+            "company_name": "Troila",
+            "aliases": ["Troila Technology", "Troila Tech"]
         },
         {
             "domains": ["tsh-world.co.jp"],
