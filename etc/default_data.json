@@ -4090,6 +4090,10 @@
             "companies": [
                 {
                     "company_name": "B1 Systems GmbH",
+                    "end_date": "2019-Dec-31"
+                },
+                {
+                    "company_name": "Betacloud Solutions GmbH",
                     "end_date": null
                 }
             ],
