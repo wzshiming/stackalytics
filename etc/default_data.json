@@ -35559,6 +35559,10 @@
             "company_name": "Best Buy"
         },
         {
+            "domains": ["betacloud-solutions.de", "betacloud.de", "betacloud.io"],
+            "company_name": "Betacloud Solutions GmbH"
+        },
+        {
             "domains": ["bigswitch.com"],
             "company_name": "Big Switch Networks",
             "aliases": ["Big Switch"]
