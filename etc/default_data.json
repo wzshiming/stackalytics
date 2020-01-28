@@ -21119,6 +21119,10 @@
                 },
                 {
                     "company_name": "Futurewei",
+                    "end_date": "2020-Jan-03"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
