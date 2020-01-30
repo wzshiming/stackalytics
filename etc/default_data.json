@@ -41878,6 +41878,11 @@
             "organization": "openstack"
         },
         {
+            "module": "airship-website",
+            "uri": "https://github.com/airshipweb/airship-website.git",
+            "organization": "openstack"
+        },
+        {
             "module": "istio-forked",
             "organization": "cloudfoundry",
             "uri": "git://github.com/cloudfoundry/istio.git"
@@ -42271,7 +42276,7 @@
                 "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas",
                 "airship-pegleg", "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs",
                 "airship-spyglass", "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap",
-                "airship-utils"
+                "airship-utils", "airship-website"
             ]
         },
         {
