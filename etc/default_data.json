@@ -11578,6 +11578,17 @@
             "emails": ["greglange@gmail.com", "glange@rackspace.com"]
         },
         {
+            "launchpad_id": "gregoiremahe",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": "2019-Dec-05"
+                }
+            ],
+            "user_name": "Grégoire Mahé",
+            "emails": ["gregoire.mahe@corp.ovh.com"]
+        },
+        {
             "launchpad_id": "gregoryhooksjr",
             "companies": [
                 {
@@ -24276,6 +24287,17 @@
             "emails": ["psiwczak@internap.com", "psiwczak@mirantis.com"]
         },
         {
+            "launchpad_id": "pslestang",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pierre-Samuel Le Stang",
+            "emails": ["pierre-samuel.le-stang@corp.ovh.com"]
+        },
+        {
             "launchpad_id": "psp0808",
             "companies": [
                 {
@@ -24479,6 +24501,17 @@
             ],
             "user_name": "luqitao",
             "emails": ["qtlu@fiberhome.com", "luqt2011@163.com"]
+        },
+        {
+            "launchpad_id": "quentin.grolleau",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Quentin Grolleau",
+            "emails": ["quentin.grolleau@ovhcloud.com"]
         },
         {
             "launchpad_id": "qunyingran",
