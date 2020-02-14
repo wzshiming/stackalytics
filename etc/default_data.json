@@ -7367,6 +7367,18 @@
             "emails": ["pawlik.dan@gmail.com", "daniel.pawlik@corp.ovh.com"]
         },
         {
+            "launchpad_id": "danielarthurt",
+            "github_id": "danielarthurt",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Daniel Arthur Silveira Tapia",
+            "emails": ["danielarthurt@gmail.com", "daniel.tapia@fit-tecnologia.org.br", "dtapia@netapp.com"]
+        },
+        {
             "github_id": "danielfbm",
             "companies": [
                 {
