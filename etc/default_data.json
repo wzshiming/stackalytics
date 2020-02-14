@@ -3463,11 +3463,15 @@
             "companies": [
                 {
                     "company_name": "OCF plc",
+                    "end_date": "2019-Nov-08"
+                },
+                {
+                    "company_name": "Canonical",
                     "end_date": null
                 }
             ],
             "user_name": "Arif Ali",
-            "emails": ["arifali1@gmail.com", "mail@arif-ali.co.uk", "aali@ocf.co.uk"]
+            "emails": ["arifali1@gmail.com", "mail@arif-ali.co.uk", "aali@ocf.co.uk", "arif.ali@canonical.com"]
         },
         {
             "launchpad_id": "arkady-kanevsky",
@@ -6336,6 +6340,17 @@
             ],
             "user_name": "Chetna",
             "emails": ["ck.khullar@gmail.com"]
+        },
+        {
+            "github_id": "ckadner",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Christian Kadner",
+            "emails": ["ckadner@us.ibm.com", "ckadner@users.noreply.github.com", "ckadner@apache.org"]
         },
         {
             "launchpad_id": "ckonstanski",
@@ -37812,7 +37827,8 @@
         },
         {
             "domains": ["ocf.co.uk"],
-            "company_name": "OCF plc"
+            "company_name": "OCF Ltd",
+            "aliases": ["OCF plc"]
         },
         {
             "domains": ["offerupnow.com", "offerup.com"],
