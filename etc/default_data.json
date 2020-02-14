@@ -34910,6 +34910,17 @@
             "emails": ["nguzcf@gmail.com", "zhangchengfei@t2cloud.net"]
         },
         {
+            "launchpad_id": "zed-0xff",
+            "companies": [
+                {
+                    "company_name": "Samsung",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andrey Zaikin",
+            "emails": ["a.zaikin@partner.samsung.com", "zed.0xff@gmail.com"]
+        },
+        {
             "launchpad_id": "zefciu",
             "github_id": "zefciu",
             "companies": [
