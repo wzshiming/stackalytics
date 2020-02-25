@@ -6632,6 +6632,17 @@
             "emails": ["singh.surya64mnnit@gmail.com", "surya.singh@india.nec.com"]
         },
         {
+            "launchpad_id": "congnt95",
+            "companies": [
+                {
+                    "company_name": "VCCorp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nguyen Thanh Cong",
+            "emails": ["ntcong1705@gmail.com", "congnguyenthanh@vccorp.vn"]
+        },
+        {
             "launchpad_id": "coolias-lj",
             "companies": [
                 {
