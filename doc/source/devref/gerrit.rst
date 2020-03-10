@@ -2,9 +2,9 @@ Code Reviews with Gerrit
 ========================
 
 Stackalytics uses the `Gerrit`_ tool to review proposed code changes.
-The review site is https://review.openstack.org.
+The review site is https://review.opendev.org.
 
-Gerrit is a complete replacement for Github pull requests. `All Github pull
+Gerrit is a complete replacement for GitHub pull requests. `All GitHub pull
 requests to the Stackalytics repository will be ignored`.
 
 See `Gerrit Workflow Quick Reference`_ for information about how to get
