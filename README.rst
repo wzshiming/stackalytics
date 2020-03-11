@@ -26,7 +26,7 @@ change them as you like.
 #. You need to install Stackalytics. This is done with pip after you check out
    Stackalytics repository::
 
-    $ git clone https://git.openstack.org/openstack/stackalytics
+    $ git clone https://opendev.org/x/stackalytics
     $ cd stackalytics
     $ sudo pip install -r requirements.txt
     $ sudo python setup.py install
@@ -51,10 +51,10 @@ Project Info
 ------------
 
  * Web-site: http://stackalytics.com/
- * Source Code: https://git.openstack.org/cgit/openstack/stackalytics
+ * Source Code: https://opendev.org/x/stackalytics
  * Wiki: https://wiki.openstack.org/wiki/Stackalytics
  * Launchpad: https://launchpad.net/stackalytics
  * Blueprints: https://blueprints.launchpad.net/stackalytics
  * Bugs: https://bugs.launchpad.net/stackalytics
- * Code Reviews: https://review.openstack.org/#/q/status:open+project:openstack/stackalytics,n,z
+ * Code Reviews: https://review.opendev.org/#/q/status:open+project:x/stackalytics,n,z
  * IRC: #openstack-stackalytics at freenode
