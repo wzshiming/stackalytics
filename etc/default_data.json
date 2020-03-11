@@ -34559,6 +34559,21 @@
             "emails": ["a-yoshiyama@bu.jp.nec.com", "akirayoshiyama@gmail.com"]
         },
         {
+            "launchpad_id": "yottatsa",
+            "companies": [
+                {
+                    "company_name": "Yandex",
+                    "end_date": "2015-Sep-25"
+                },
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2017-Apr-21"
+                }
+            ],
+            "user_name": "Atsuko Ito",
+            "emails": ["me@yottatsa.name", "veremin@mirantis.com", "yottatsa@yandex-team.ru"]
+        },
+        {
             "launchpad_id": "youngilkim",
             "companies": [
                 {
