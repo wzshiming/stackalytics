@@ -10280,6 +10280,18 @@
             "emails": ["peni@microsoft.com", "feiskyer@users.noreply.github.com"]
         },
         {
+            "launchpad_id": "felipefutty",
+            "github_id": "felipefutty",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Felipe Rodrigues",
+            "emails": ["felipefuty01@gmail.com", "felipe.novaes@fit-tecnologia.org.br"]
+        },
+        {
             "launchpad_id": "fellypefca",
             "companies": [
                 {
