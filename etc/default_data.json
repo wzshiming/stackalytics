@@ -19260,6 +19260,21 @@
             "emails": ["lucioseki@gmail.com", "luciomitsuru.seki@fit-tecnologia.org.br"]
         },
         {
+            "launchpad_id": "lsofia-enriquez",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2018-Oct-16"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sofia Enriquez",
+            "emails": ["lsofia.enriquez@gmail.com", "senrique@redhat.com"]
+        },
+        {
             "launchpad_id": "lucasagomes",
             "companies": [
                 {
@@ -29700,17 +29715,6 @@
             "emails": ["sunku.ranganath@intel.com"]
         },
         {
-            "launchpad_id": "sunshuai",
-            "companies": [
-                {
-                    "company_name": "Awcloud",
-                    "end_date": null
-                }
-            ],
-            "user_name": "ShuaiSun",
-            "emails": ["sunshuai@awcloud.com"]
-        },
-        {
             "launchpad_id": "surendra1904",
             "companies": [
                 {
@@ -32958,6 +32962,17 @@
             ],
             "user_name": "William Diego",
             "emails": ["william.diego@orange.com"]
+        },
+        {
+            "github_id": "willise",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "willise",
+            "emails": ["sunshuai@cmss.chinamobile.com"]
         },
         {
             "github_id": "willstudy",
