@@ -6999,6 +6999,18 @@
             "emails": ["csravelar@gmail.com"]
         },
         {
+            "launchpad_id": "csss.youk",
+            "github_id": "csyouk",
+            "companies": [
+                {
+                    "company_name": "Samsung",
+                    "end_date": "2022-Jan-01"
+                }
+            ],
+            "user_name": "Changsu Youk",
+            "emails": ["csyouk@gmail.com", "csss.youk@gmail.com", "csss.youk@samsung.com"]
+        },
+        {
             "launchpad_id": "cstacke",
             "companies": [
                 {
