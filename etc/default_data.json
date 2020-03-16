@@ -27093,6 +27093,22 @@
             "emails": ["saschpe@suse.de", "saschpe@gmx.de"]
         },
         {
+            "launchpad_id": "satender346",
+            "github_id": "satender346",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Satender Yadav",
+            "emails": [
+                "sy336r@att.com",
+                "satenderdusad@gmail.com",
+                "satender.y.yadav@ericsson.com"
+            ]
+        },
+        {
             "launchpad_id": "satish-venkatasubramanian-7",
             "companies": [
                 {
