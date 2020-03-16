@@ -2677,6 +2677,17 @@
             "emails": ["avmerzlyakov.sbt@sberbank.ru", "amerzlyakov@selit.ru"]
         },
         {
+            "launchpad_id": "ameyar",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ameya Raut",
+            "emails": ["rautameya04@gmail.com", "ameya.raut@calsoftinc.com", "ameya_r@dellteam.com"]
+        },
+        {
             "launchpad_id": "amitry",
             "companies": [
                 {
