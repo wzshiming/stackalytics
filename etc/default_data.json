@@ -22209,6 +22209,22 @@
             ]
         },
         {
+            "launchpad_id": "natsume-takashi",
+            "github_id": "takanattie",
+            "companies": [
+                {
+                    "company_name": "NTT",
+                    "end_date": "2020-Jan-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Takashi Natsume",
+            "emails": ["takanattie@gmail.com", "natsume.takashi@lab.ntt.co.jp"]
+        },
+        {
             "launchpad_id": "nbeard",
             "companies": [
                 {
