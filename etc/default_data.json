@@ -34451,6 +34451,17 @@
             "emails": ["jing.yuan@easystack.cn", "yj2311@126.com"]
         },
         {
+            "launchpad_id": "yjmango",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Li YaJie",
+            "emails": ["yajiemango@163.com"]
+        },
+        {
             "launchpad_id": "ymlong",
             "companies": [
                 {
