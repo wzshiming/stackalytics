@@ -40581,6 +40581,43 @@
             "organization": "openstack"
         },
         {
+            "module": "tap-as-a-service",
+            "organization": "openstack",
+            "uri": "https://opendev.org/x/tap-as-a-service",
+            "releases": [
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "6.0.0"
+                },
+                {
+                    "tag_to": "6.0.0",
+                    "release_name": "Stein",
+                    "tag_from": "5.0.0"
+                },
+                {
+                    "tag_to": "5.0.0",
+                    "release_name": "Rocky",
+                    "tag_from": "4.0.0"
+                },
+                {
+                    "tag_to": "4.0.0",
+                    "release_name": "Queens",
+                    "tag_from": "3.0.0"
+                },
+                {
+                    "tag_to": "3.0.0",
+                    "release_name": "Pike",
+                    "tag_from": "2.0.0"
+                },
+                {
+                    "tag_to": "2.0.0",
+                    "release_name": "Ocata",
+                    "tag_from": "1.0.0"
+                }
+            ]
+        },
+        {
             "module": "sahara",
             "aliases": [
                 "savanna"
