@@ -13423,11 +13423,11 @@
             "companies": [
                 {
                     "company_name": "Accenture",
-                    "end_date": null
+                    "end_date": "2020-Mar-17"
                 }
             ],
             "user_name": "Ian Pittwood",
-            "emails": ["pittwoodian@gmail.com", "ip692y@att.com"]
+            "emails": ["pittwoodian@gmail.com"]
         },
         {
             "launchpad_id": "ibolotin",
