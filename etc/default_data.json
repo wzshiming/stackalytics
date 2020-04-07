@@ -10816,6 +10816,18 @@
             "emails": ["gabriel@strikeawe.com"]
         },
         {
+            "launchpad_id": "gadzhet",
+            "github_id": "gadzhet",
+            "companies": [
+                {
+                    "company_name": "Selectel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Roman Goncharov",
+            "emails": ["gadzhet007@gmail.com", "goncharov.r@selectel.ru"]
+        },
+        {
             "launchpad_id": "gael01",
             "companies": [
                 {
@@ -19621,7 +19633,7 @@
             "companies": [
                 {
                     "company_name": "Samsung",
-                    "end_date": null
+                    "end_date": "2019-Dec-31"
                 }
             ],
             "user_name": "Maciej Kucia",
@@ -22488,11 +22500,15 @@
             "companies": [
                 {
                     "company_name": "SUSE",
+                    "end_date": "2020-Mar-13"
+                },
+                {
+                    "company_name": "Canonical",
                     "end_date": null
                 }
             ],
             "user_name": "Nicolas Bock",
-            "emails": ["nicolasbock@gmail.com", "nicolas.bock@suse.com"]
+            "emails": ["nicolasbock@gmail.com", "nicolas.bock@suse.com", "nicolas.bock@canonical.com"]
         },
         {
             "launchpad_id": "nijaba",
