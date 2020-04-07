@@ -3957,6 +3957,21 @@
             "emails": ["aurlapova@mirantis.com", "a.urlapova@gmail.com"]
         },
         {
+            "launchpad_id": "aussieade",
+            "companies": [
+                {
+                    "company_name": "University of Melbourne",
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adrian Smith",
+            "emails": ["aussieade@gmail.com", "adrian.smith@ardc.edu.au"]
+        },
+        {
             "launchpad_id": "avinash-prasad",
             "companies": [
                 {
