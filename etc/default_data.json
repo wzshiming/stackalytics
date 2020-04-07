@@ -2019,6 +2019,17 @@
             "emails": ["aju@iraw.net"]
         },
         {
+            "github_id": "ajya",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Aija Jaunteva",
+            "emails": ["aija.jauteva@dell.com", "code@clusums.eu"]
+        },
+        {
             "launchpad_id": "akamyshnikova",
             "companies": [
                 {
@@ -11123,6 +11134,17 @@
             ],
             "user_name": "Gerard Braad",
             "emails": ["me@gbraad.nl", "gbraad@redhat.com"]
+        },
+        {
+            "launchpad_id": "gcm918",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gopi Manapragada",
+            "emails": ["gopi.manpragada@dell.com"]
         },
         {
             "github_id": "gcy1012",
