@@ -18616,6 +18616,18 @@
             "emails": ["469923498@qq.com", "kf.linlin@h3c.com"]
         },
         {
+            "launchpad_id": "linpeiwen",
+            "github_id": "LinPeiWen",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "LinPeiWen",
+            "emails": ["linpeiwen@troila.com", "591171850@qq.com"]
+        },
+        {
             "launchpad_id": "linuxjedi",
             "companies": [
                 {
