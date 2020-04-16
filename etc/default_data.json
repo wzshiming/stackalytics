@@ -13857,6 +13857,18 @@
             "emails": ["irenab.dev@gmail.com", "irena@midokura.com", "irenab@mellanox.com"]
         },
         {
+            "launchpad_id": "irisdingbj",
+            "github_id": "irisdingbj",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "IrisDing",
+            "emails": ["dingsj@cn.ibm.com", "irisdingbj@gmail.com"]
+        },
+        {
             "launchpad_id": "ironcamel",
             "companies": [
                 {
