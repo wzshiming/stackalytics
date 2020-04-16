@@ -27537,11 +27537,15 @@
                 },
                 {
                     "company_name": "Cisco Systems",
+                    "end_date": "2018-Nov-15"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
             "user_name": "Steven Dake",
-            "emails": ["sdake@redhat.com", "stdake@cisco.com"]
+            "emails": ["sdake@redhat.com", "stdake@cisco.com", "sdake@ibm.com", "steven.dake@gmail.com"]
         },
         {
             "launchpad_id": "sdeaton2",
