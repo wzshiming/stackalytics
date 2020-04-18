@@ -1,5 +1,15 @@
 {
     "users": [
+       {
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "limin0801",
+            "emails": ["limin.lc@inspur.com"]
+        },
         {
             "companies": [
                 {
