@@ -8426,6 +8426,17 @@
             "emails": ["david.hillyard@verizonwireless.com"]
         },
         {
+            "launchpad_id": "dhuldev30",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dhuldev Valekar",
+            "emails": ["dhuldev.valekar@gmail.com", "dhuldev_valekar@dellteam.com", "dhuldev.valekar@calsoftinc.com"]
+        },
+        {
             "launchpad_id": "diana-clarke",
             "companies": [
                 {
