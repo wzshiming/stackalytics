@@ -73,6 +73,16 @@
         {
             "companies": [
                 {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yarntime",
+            "emails": ["yarntime@163.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Google",
                     "end_date": null
                 }
@@ -6408,6 +6418,7 @@
         },
         {
             "github_id": "ckadner",
+            "launchpad_id": "ckadner",
             "companies": [
                 {
                     "company_name": "IBM",
@@ -37098,6 +37109,10 @@
             "domains": ["cmbc.com.cn"],
             "company_name": "CMBC",
             "aliases": ["China Minsheng Bank"]
+        },
+        {
+            "domains": ["cmccsi.cn"],
+            "company_name": "China Mobile System Integration"
         },
         {
             "domains": ["cmos.chinamobile.com"],
