@@ -11053,6 +11053,17 @@
             "emails": ["gaoqian1983@outlook.com"]
         },
         {
+            "launchpad_id": "gaoyublack",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "gao yu",
+            "emails": ["gaoyublack@163.com"]
+        },
+        {
             "launchpad_id": "gaozhenhai",
             "companies": [
                 {
