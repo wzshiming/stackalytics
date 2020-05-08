@@ -43040,6 +43040,17 @@
                 }
             },
             "project": "openstack"
+        },
+        {
+            "release_name": "Victoria",
+            "end_date": "2020-Oct-16",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
         }
     ],
     "mail_lists": [
