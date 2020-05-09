@@ -41245,9 +41245,9 @@
             "uri": "https://github.com/knative/pkg.git"
         },
         {
-            "module": "eventing-sources@knative",
+            "module": "eventing-contrib@knative",
             "organization": "knative",
-            "uri": "https://github.com/knative/eventing-sources.git"
+            "uri": "https://github.com/knative/eventing-contrib.git"
         },
         {
             "module": "build-templates@knative",
@@ -42917,7 +42917,7 @@
             "modules": [
                 "serving@knative", "test-infra@knative", "build@knative", "docs@knative",
                 "build-pipeline@knative", "client@knative", "caching@knative", "eventing@knative",
-                "pkg@knative", "eventing-sources@knative", "build-templates@knative"
+                "pkg@knative", "eventing-contrib@knative", "build-templates@knative"
             ]
         },
         {
