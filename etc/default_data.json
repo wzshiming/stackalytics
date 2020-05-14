@@ -34325,6 +34325,10 @@
             "companies": [
                 {
                     "company_name": "China Telecom",
+                    "end_date": "2019-Jun-30"
+                },
+                {
+                    "company_name": "Troila",
                     "end_date": null
                 }
             ],
