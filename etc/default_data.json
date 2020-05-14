@@ -23459,6 +23459,21 @@
             "emails": ["goppegard@pivotallabs.com"]
         },
         {
+            "launchpad_id": "osmanlicilegi",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Sep-11"
+                },
+                {
+                    "company_name": "Trendyol",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dincer Celik",
+            "emails": ["hello@dincercelik.com", "dincer.celik@trendyol.com"]
+        },
+        {
             "github_id": "oss-xzdong",
             "companies": [
                 {
@@ -32998,11 +33013,15 @@
                 },
                 {
                     "company_name": "BoCloud",
+                    "end_date": "2019-Oct-08"
+                },
+                {
+                    "company_name": "Bytedance",
                     "end_date": null
                 }
             ],
             "user_name": "Waret Li",
-            "emails": ["waret87@gmail.com", "waret87@163.com", "lishouchao@beyondcent.com"]
+            "emails": ["waret87@gmail.com", "waret87@163.com"]
         },
         {
             "launchpad_id": "warmchang",
@@ -38897,6 +38916,10 @@
             "company_name": "Treasure Data"
         },
         {
+            "domains": ["trendyol.com"],
+            "company_name": "Trendyol"
+        },
+        {
             "domains": ["triggermesh.com"],
             "company_name": "TriggerMesh"
         },
@@ -41249,9 +41272,9 @@
             "uri": "https://github.com/knative/pkg.git"
         },
         {
-            "module": "eventing-contrib@knative",
+            "module": "eventing-sources@knative",
             "organization": "knative",
-            "uri": "https://github.com/knative/eventing-contrib.git"
+            "uri": "https://github.com/knative/eventing-sources.git"
         },
         {
             "module": "build-templates@knative",
@@ -41472,6 +41495,56 @@
             "module": "longhorn",
             "organization": "longhorn",
             "uri": "https://github.com/longhorn/longhorn.git"
+        },
+        {
+            "module": "longhorn-ui@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-ui.git"
+        },
+        {
+            "module": "website@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/website.git"
+        },
+        {
+            "module": "engine@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-engine.git"
+        },
+        {
+            "module": "manager@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-manager.git"
+        },
+        {
+            "module": "backupstore@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/backupstore.git"
+        },
+        {
+            "module": "longhorn-tests@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-tests.git"
+        },
+        {
+            "module": "go-iscsi-helper@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/go-iscsi-helper.git"
+        },
+        {
+            "module": "longhorn-instance-manager@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-instance-manager.git"
+        },
+        {
+            "module": "sparse-tools@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/sparse-tools.git"
+        },
+        {
+            "module": "community@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/community.git"
         },
         {
             "module": "virtual-kubelet",
@@ -42921,7 +42994,7 @@
             "modules": [
                 "serving@knative", "test-infra@knative", "build@knative", "docs@knative",
                 "build-pipeline@knative", "client@knative", "caching@knative", "eventing@knative",
-                "pkg@knative", "eventing-contrib@knative", "build-templates@knative"
+                "pkg@knative", "eventing-sources@knative", "build-templates@knative"
             ]
         },
         {
@@ -42942,6 +43015,14 @@
             "modules": [
                 "pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
                 "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"
+            ]
+        },
+        {
+            "module_group_name": "longhorn-group",
+            "modules": [
+                "longhorn", "longhorn-ui@longhorn", "website@longhorn", "engine@longhorn",
+                "manager@longhorn", "backupstore@longhorn", "longhorn-tests@longhorn", "go-iscsi-helper@longhorn",
+                "longhorn-instance-manager@longhorn", "sparse-tools@longhorn", "community@longhorn"
             ]
         }
     ],
@@ -43317,7 +43398,7 @@
             "id": "longhorn",
             "title": "longhorn",
             "child": true,
-            "modules": ["longhorn"]
+            "modules": ["longhorn-group"]
         },
         {
             "id": "helm",
