@@ -35975,6 +35975,17 @@
             "emails": ["zhaohua.zhao@huawei.com"]
         },
         {
+            "launchpad_id": "zhaoleilc",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhaoleilc",
+            "emails": ["15247232416@163.com"]
+        },
+        {
             "launchpad_id": "zhaolijun",
             "companies": [
                 {
