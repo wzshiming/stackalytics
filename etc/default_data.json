@@ -16165,6 +16165,17 @@
             "emails": ["jorgefrancoibanez@gmail.com", "jorge.franco@ormuco.com"]
         },
         {
+            "launchpad_id": "jorhson",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jorhson Deng",
+            "emails": ["dengzhaosen@inspur.com"]
+        },
+        {
             "launchpad_id": "jose-eduardo-jr",
             "zanata_id": "josemello",
             "companies": [
