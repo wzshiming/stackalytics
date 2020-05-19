@@ -28350,6 +28350,17 @@
             "emails": ["shiyangkai333@126.com", "shiyangkai@hnu.edu.cn"]
         },
         {
+            "launchpad_id": "shiyawei",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "shiyawei",
+            "emails": ["shiyawei@inspur.com"]
+        },
+        {
             "github_id": "shiyuan1992",
             "companies": [
                 {
