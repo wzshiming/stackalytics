@@ -33243,6 +33243,17 @@
             ]
         },
         {
+            "launchpad_id": "wenping1",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Wenping Song",
+            "emails": ["songwenping@inspur.com"]
+        },
+        {
             "launchpad_id": "wes-gurney",
             "companies": [
                 {
