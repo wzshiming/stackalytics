@@ -35758,6 +35758,17 @@
             "emails": ["zhangbailin@inspur.com"]
         },
         {
+            "launchpad_id": "zhangboye",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangboye",
+            "emails": ["zhangboye@inspur.com"]
+        },
+        {
             "launchpad_id": "zhangdaolong",
             "companies": [
                 {
