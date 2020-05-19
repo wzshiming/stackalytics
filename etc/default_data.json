@@ -16991,6 +16991,17 @@
             ]
         },
         {
+            "launchpad_id": "kangyufei",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "kangyufei",
+            "emails": ["kangyf@inspur.com"]
+        },
+        {
             "launchpad_id": "kannan",
             "companies": [
                 {
