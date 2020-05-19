@@ -34328,6 +34328,17 @@
             "emails": ["rory.yang@elits.com", "smyang92@qq.com"]
         },
         {
+            "launchpad_id": "yang612",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yangyawei",
+            "emails": ["yangyawei@inspur.com"]
+        },
+        {
             "launchpad_id": "yangangang",
             "user_name": "yangangang",
             "companies": [
