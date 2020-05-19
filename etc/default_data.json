@@ -18458,6 +18458,17 @@
             "emails": ["liao.zd@gmail.com", "liao_zd@hotmail.com", "liaozhuodi@t2cloud.net"]
         },
         {
+            "launchpad_id": "libaofei",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "libaofei",
+            "emails": ["libaofei@inspur.com"]
+        },
+        {
             "launchpad_id": "libing863",
             "companies": [
                 {
