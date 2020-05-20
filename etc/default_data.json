@@ -18525,6 +18525,17 @@
             "emails": ["chunhan_ryan@163.com", "li.chunhan@h3c.com"]
         },
         {
+            "launchpad_id": "lidongshi",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lidongshi",
+            "emails": ["lidongshi@inspur.com"]
+        },
+        {
             "launchpad_id": "liemmn",
             "companies": [
                 {
