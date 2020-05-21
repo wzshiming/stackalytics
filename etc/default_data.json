@@ -8887,11 +8887,15 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2020-May-08"
+                },
+                {
+                    "company_name": "Ubisoft",
                     "end_date": null
                 }
             ],
             "user_name": "David Moreau Simard",
-            "emails": ["moi@dmsimard.com", "dmsimard@iweb.com", "dmsimard@internap.com", "dms@redhat.com"]
+            "emails": ["moi@dmsimard.com", "dmsimard@iweb.com", "dmsimard@internap.com", "dms@redhat.com", "dmsimard@redhat.com", "david.moreau-simard@ubisoft.com"]
         },
         {
             "launchpad_id": "docaedo",
