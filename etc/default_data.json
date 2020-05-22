@@ -4611,6 +4611,18 @@
             "emails": ["bharath.stacker@gmail.com", "bharath.m@hp.com", "bharath.m@hpe.com"]
         },
         {
+            "launchpad_id": "bijayasharma",
+            "github_id": "vetbijaya",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "bijayasharma",
+            "emails": ["vetbijaya@gmail.com", "bijaya.sharma@att.com"]
+        },
+        {
             "github_id": "binblee",
             "companies": [
                 {
