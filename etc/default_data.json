@@ -34240,6 +34240,17 @@
             "emails": ["xuxinkun@gmail.com"]
         },
         {
+            "launchpad_id": "xuyuanhao",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "xuyuanhao",
+            "emails": ["xuyuanhao@inspur.com"]
+        },
+        {
             "github_id": "xuzhenglun",
             "companies": [
                 {
