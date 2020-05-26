@@ -36441,6 +36441,17 @@
             "emails": ["hzhou8@ebaysf.com", "zhouhan@gmail.com"]
         },
         {
+            "launchpad_id": "zhouhenglc",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhouhenglc",
+            "emails": ["zhouhenglc@inspur.com"]
+        },
+        {
             "launchpad_id": "zhouhy",
             "companies": [
                 {
