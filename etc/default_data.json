@@ -17750,11 +17750,15 @@
                 },
                 {
                     "company_name": "Aptira",
+                    "end_date": "2020-Apr-15"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
                     "end_date": null
                 }
             ],
             "user_name": "Kieran Spear",
-            "emails": ["kispear@gmail.com", "kieran.spear@unimelb.edu.au", "kieran@aptira.com"]
+            "emails": ["kispear@gmail.com", "kieran.spear@unimelb.edu.au", "kieran@aptira.com", "kieran.spear@ardc.edu.au"]
         },
         {
             "launchpad_id": "kszab",
@@ -19861,7 +19865,7 @@
             "companies": [
                 {
                     "company_name": "vertical GmbH",
-                    "end_date": null
+                    "end_date": "2020-May-31"
                 }
             ],
             "user_name": "Mihai Plasoianu",
@@ -29822,6 +29826,17 @@
             "emails": ["stig.openstack@telfer.org", "stelfer@cray.com"]
         },
         {
+            "launchpad_id": "stingrayza",
+            "companies": [
+                {
+                    "company_name": "EXFO Inc.",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Raimund Hook",
+            "emails": ["openstack@sting-ray.za.net", "raimund.hook@exfo.com"]
+        },
+        {
             "launchpad_id": "stremovsky",
             "companies": [
                 {
@@ -33153,10 +33168,14 @@
                 {
                     "company_name": "Intel",
                     "end_date": "2017-Sep-08"
+                },
+                {
+                    "company_name": "ARM",
+                    "end_date": null
                 }
             ],
             "user_name": "Dave Chen",
-            "emails": ["dave.jungler@gmail.com", "wei.d.chen@intel.com"]
+            "emails": ["dave.jungler@gmail.com", "wei.d.chen@intel.com", "dave.chen@arm.com"]
         },
         {
             "launchpad_id": "wei-li",
@@ -37561,6 +37580,10 @@
         {
             "domains": ["evoila.de"],
             "company_name": "evoila"
+        },
+        {
+            "domains": ["exfo.com"],
+            "company_name": "EXFO Inc."
         },
         {
             "domains": ["facebook.com", "fb.com"],
