@@ -26825,6 +26825,17 @@
             "user_name": "Ruijian Zhang",
             "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
         },
+       {
+            "launchpad_id": "runsxx",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "XinxinShen",
+            "emails": ["shenxinxin@inspur.com"]
+        },
         {
             "launchpad_id": "rupakg",
             "companies": [
