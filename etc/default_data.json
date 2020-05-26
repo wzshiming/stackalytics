@@ -24925,6 +24925,17 @@
             "emails": ["qienze@beyondcent.com", "sepveneto@qq.com"]
         },
         {
+            "launchpad_id": "qihongtao",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "qihongtao",
+            "emails": ["qihongtao@inspur.com"]
+        },
+        {
             "github_id": "qihuiz93",
             "companies": [
                 {
