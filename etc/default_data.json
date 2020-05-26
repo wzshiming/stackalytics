@@ -13619,6 +13619,17 @@
             "emails": ["ipekelny@mirantis.com", "ipekelny@griddynamics.com", "pekelny@gmail.com"]
         },
         {
+            "launchpad_id": "iamtomas",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "tomas",
+            "emails": ["zhangchg03@inspur.com"]
+        },
+        {
             "github_id": "ian952",
             "companies": [
                 {
