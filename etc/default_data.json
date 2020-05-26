@@ -33171,6 +33171,17 @@
             "emails": ["waynechan76@gmail.com", "chenlx@fiberhome.com"]
         },
         {
+            "launchpad_id": "wbc",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "weibo cui",
+            "emails": ["cuiweibo@inspur.com"]
+        },
+        {
             "launchpad_id": "wbluo0907",
             "companies": [
                 {
