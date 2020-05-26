@@ -10982,6 +10982,17 @@
             "emails": ["fuzk@inspur.com"]
         },
         {
+            "launchpad_id": "fuzihao",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zihao Fu",
+            "emails": ["fuzihao@inspur.com"]
+        },
+        {
             "github_id": "fzdarsky",
             "companies": [
                 {
