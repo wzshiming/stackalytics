@@ -19928,6 +19928,17 @@
             "emails": ["mihai@plasoianu.de", "m.plasoianu@vertical.de"]
         },
         {
+            "launchpad_id": "maaoyu",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "maaoyu",
+            "emails": ["maaoyu@inspur.com"]
+        },
+        {
             "launchpad_id": "maciej-iai",
             "github_id": "nebril",
             "companies": [
