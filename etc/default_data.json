@@ -5342,6 +5342,21 @@
             "emails": ["caleb@calebgroom.com", "cgroom@rackspace.com"]
         },
         {
+            "launchpad_id": "cao-yuan",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": "2020-Mar-27"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "caoyuan",
+            "emails": ["cao.yingjunz@gmail.com"]
+        },
+        {
             "launchpad_id": "caowei-e",
             "companies": [
                 {
