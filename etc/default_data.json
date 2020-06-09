@@ -2880,11 +2880,15 @@
             "companies": [
                 {
                     "company_name": "HCL",
+                    "end_date": "2017-Mar-30"
+                },
+                {
+                    "company_name": "Cisco Systems",
                     "end_date": null
                 }
             ],
             "user_name": "Anand Shanmugam",
-            "emails": ["anand1712@gmail.com", "shanmugam.a@hcl.com"]
+            "emails": ["anand1712@gmail.com"]
         },
         {
             "launchpad_id": "ananta",
@@ -9908,11 +9912,15 @@
             "companies": [
                 {
                     "company_name": "Intel",
+                    "end_date": "2020-Mar-31"
+                },
+                {
+                    "company_name": "Samsung",
                     "end_date": null
                 }
             ],
             "user_name": "Victor Morales",
-            "emails": ["victor.morales@intel.com", "chipahuac@hotmail.com", "electrocucaracha@gmail.com"]
+            "emails": ["victor.morales@intel.com", "v.morales@samsung.com", "chipahuac@hotmail.com", "electrocucaracha@gmail.com"]
         },
         {
             "launchpad_id": "ellen-hui",
@@ -10126,6 +10134,21 @@
             ],
             "user_name": "Eric Robinson",
             "emails": ["erobinso_2000@yahoo.com"]
+        },
+        {
+            "github_id": "erolg",
+            "companies": [
+                {
+                    "company_name": "Kartaca",
+                    "end_date": "2020-Apr-15"
+                },
+                {
+                    "company_name": "Trendyol",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Erol Guzoglu",
+            "emails": ["erolguzoglu@gmail.com", "erol.guzoglu@trendyol.com"]
         },
         {
             "github_id": "erxian",
@@ -14200,11 +14223,15 @@
                 },
                 {
                     "company_name": "SUSE",
+                    "end_date": "2020-May-31"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Antonio Ojea",
-            "emails": ["itsuugo@gmail.com", "aojeagarcia@suse.com"]
+            "emails": ["antonio.ojea.garcia@gmail.com", "aojea@redhat.com"]
         },
         {
             "launchpad_id": "itsvaishnavi",
@@ -38236,6 +38263,10 @@
             "domains": ["juniper.com", "juniper.net"],
             "company_name": "Juniper",
             "aliases": ["Juniper Networks", "Juniper Networks Inc.", "Juniper Networks India", "Juniper India"]
+        },
+        {
+            "domains": ["kartaca.com"],
+            "company_name": "Kartaca"
         },
         {
             "domains": ["kau.se"],
