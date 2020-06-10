@@ -18795,6 +18795,17 @@
             "emails": ["likangkang01@inspur.com"]
         },
         {
+            "launchpad_id": "likui",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "likui",
+            "emails": ["likui13@outlook.com", "likui@yovole.com"]
+        },
+        {
             "launchpad_id": "lilingxing20",
             "companies": [
                 {
