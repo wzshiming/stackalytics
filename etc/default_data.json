@@ -31734,6 +31734,17 @@
             "emails": ["doantungbk.203@gmail.com", "tung.doan_van@tu-dresden.de"]
         },
         {
+            "launchpad_id": "tushargite96",
+            "companies": [
+                {
+                    "company_name": "NEC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tushar Gite",
+            "emails": ["tushargite96@gmail.com"]
+        },
+        {
             "github_id": "tvieira",
             "companies": [
                 {
