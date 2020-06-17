@@ -19637,6 +19637,17 @@
             "emails": ["lorin@isi.edu", "lorin@nimbisservices.com"]
         },
         {
+            "launchpad_id": "lplearn",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liupeng",
+            "emails": ["liupeng2@troila.com", "lplearn@163.com"]
+        },
+        {
             "launchpad_id": "lr699s",
             "github_id": "larryrensing",
             "companies": [
