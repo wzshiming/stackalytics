@@ -30112,6 +30112,17 @@
             "emails": ["sugar-2008@163.com", "suzhengwei@inspur.com"]
         },
         {
+            "launchpad_id": "suha9102",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "sunhao",
+            "emails": ["suha9102@163.com"]
+        },
+        {
             "github_id": "suigh",
             "companies": [
                 {
