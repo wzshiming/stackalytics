@@ -19750,12 +19750,20 @@
             "launchpad_id": "luizbag",
             "companies": [
                 {
+                    "company_name": "Hitachi",
+                    "end_date": "2017-Mar-31"
+                },
+                {
                     "company_name": "NetApp",
+                    "end_date": "2019-Jan-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
-            "user_name": "Luiz Gavioli",
-            "emails": ["luizbag@gmail.com", "luizbenedito.gavioli@fit-tecnologia.org.br"]
+            "user_name": "Luiz Bag",
+            "emails": ["luizbag@gmail.com"]
         },
         {
             "github_id": "lukai-cn",
@@ -41966,6 +41974,11 @@
             "uri": "https://github.com/kubernetes-sigs/kind.git"
         },
         {
+            "module": "kubernetes-release",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/release.git"
+        },
+        {
             "module": "kubeadm",
             "organization": "kubernetes-other",
             "uri": "https://github.com/kubernetes/kubeadm.git"
@@ -43482,7 +43495,7 @@
         },
         {
             "module_group_name": "kubernetes-installers",
-            "modules": ["kubeadm", "kubespray", "kind", "minikube", "kops"]
+            "modules": ["kubeadm", "kubespray", "kind", "minikube", "kops", "kubernetes-release"]
         },
         {
             "module_group_name": "airship-group",
