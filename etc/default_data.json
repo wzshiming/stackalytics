@@ -26889,18 +26889,6 @@
             "emails": ["rrufanov@mirantis.com"]
         },
         {
-            "launchpad_id": "rsharma101",
-            "github_id": "sharajat",
-            "companies": [
-                {
-                    "company_name": "Dell EMC",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Rajat Sharma",
-            "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com", "rajatcu143@gmail.com"]
-        },
-        {
             "launchpad_id": "rsokolkov",
             "companies": [
                 {
@@ -28318,6 +28306,18 @@
             ],
             "user_name": "liangxiaoping",
             "emails": ["shapeliang@gmail.com", "liangxiaoping@jd.com"]
+        },
+        {
+            "launchpad_id": "sharajat",
+            "github_id": "sharajat",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rajat Sharma",
+            "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com", "rajatcu143@gmail.com"]
         },
         {
             "launchpad_id": "sharyhua",
