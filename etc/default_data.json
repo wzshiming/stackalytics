@@ -20394,6 +20394,17 @@
             "emails": ["manoelrui19@gmail.com", "manoel.rui@lsbd.ufc.br"]
         },
         {
+            "launchpad_id": "manpreetk",
+            "companies": [
+                {
+                    "company_name": "NEC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Manpreet Kaur",
+            "emails": ["kaurmanpreet2620@gmail.com"]
+        },
+        {
             "launchpad_id": "maoshuai",
             "zanata_id": "maoshuai",
             "companies": [
