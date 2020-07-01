@@ -8414,6 +8414,18 @@
             "emails": ["devananda.vdv@gmail.com"]
         },
         {
+            "launchpad_id": "devendra-kulkarni",
+            "github_id": "devendra-kulkarni",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Devendra Kulkarni",
+            "emails": ["d.kulkarni@dellteam.com"]
+        },
+        {
             "launchpad_id": "devon-boatwright",
             "companies": [
                 {
@@ -12910,6 +12922,18 @@
             ],
             "user_name": "Hieu LE",
             "emails": ["hieulq2@viettel.com.vn", "sudo@rm-rf.cloud", "hieulq19@gmail.com"]
+        },
+        {
+            "launchpad_id": "himanshusingh2",
+            "github_id": "himanshusingh2",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Himanshu Singh",
+            "emails": ["himanshu.singh2@dell.com"]
         },
         {
             "launchpad_id": "hiregoudarg",
@@ -34992,6 +35016,18 @@
             "emails": ["ybabenko3@gmail.com"]
         },
         {
+            "launchpad_id": "yckishore",
+            "github_id": "yckishore",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kishore Yetikuri",
+            "emails": ["kishore.yetikuri@dell.com"]
+        },
+        {
             "launchpad_id": "ycx",
             "companies": [
                 {
@@ -35193,6 +35229,18 @@
             ],
             "user_name": "Yogeshwar Srikrishnan",
             "emails": ["yogesh.srikrishnan@rackspace.com", "yoga80@yahoo.com"]
+        },
+        {
+            "launchpad_id": "yogeshr20",
+            "github_id": "yogesh-rk",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yogesh Ramachandra",
+            "emails": ["yogesh.ramachandra@dell.com"]
         },
         {
             "launchpad_id": "yolanda.robla",
