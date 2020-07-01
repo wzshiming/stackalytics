@@ -8423,7 +8423,10 @@
                 }
             ],
             "user_name": "Devendra Kulkarni",
-            "emails": ["d.kulkarni@dellteam.com"]
+            "emails": [
+                "d.kulkarni@dellteam.com", "kulkarnidev89@gmail.com", "devendra.kulkarni@calsoftinc.com",
+                "Devendra_Kulkarni@dellteam.com"
+            ]
         },
         {
             "launchpad_id": "devon-boatwright",
