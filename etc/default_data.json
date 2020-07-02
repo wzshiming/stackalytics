@@ -41695,6 +41695,26 @@
             "uri": "https://github.com/docker/docker.github.io.git"
         },
         {
+            "module": "gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener.git"
+        },
+        {
+            "module": "dashboard@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/dashboard.git"
+        },
+        {
+            "module": "gardentctl@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardenctl.git"
+        },
+        {
+            "module": "garden-setup@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/garden-setup.git"
+        },
+        {
             "module": "istio",
             "organization": "istio",
             "uri": "https://github.com/istio/istio.git"
@@ -43596,6 +43616,12 @@
             ]
         },
         {
+            "module_group_name": "gardener-group",
+            "modules": [
+                "gardener", "dashboard@gardener", "gardenctl@gardener", "garden-setup@gardener"
+            ]
+        },
+        {
             "module_group_name": "istio-group",
             "modules": [
                 "istio", "proxy@istio", "istio.io@istio", "test-infra@istio", "api@istio", "community@istio",
@@ -44034,6 +44060,12 @@
             "modules": ["envoy"]
         },
         {
+            "id": "gardener-group",
+            "title": "Gardener",
+            "child": true,
+            "modules": ["gardener-group"]
+        },
+        {
             "id": "jaeger",
             "title": "jaeger",
             "child": true,
@@ -44070,7 +44102,7 @@
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
                 "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
-                "rancher", "cntt"
+                "rancher", "cntt", "gardener-group"
             ]
         },
         {
