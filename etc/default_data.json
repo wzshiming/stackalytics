@@ -36639,6 +36639,17 @@
             "emails": ["zhoujm_cri@hotmail.com", "jm_zhou@126.com", "zhoujianming@h3c.com"]
         },
         {
+            "launchpad_id": "zhoulinhui",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhoulinhui",
+            "emails": ["zhoulinhui@yovole.com"]
+        },
+        {
             "launchpad_id": "zhoumo",
             "companies": [
                 {
