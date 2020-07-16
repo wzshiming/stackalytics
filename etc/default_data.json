@@ -21111,11 +21111,15 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Jan-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Mark Beierl",
-            "emails": ["mbeierl@vmware.com", "mark@jemms.net"]
+            "emails": ["mark@jemms.net"]
         },
         {
             "launchpad_id": "mbonell",
@@ -22464,6 +22468,18 @@
             ],
             "user_name": "Mehmet Toy",
             "emails": ["mtoy54@users.noreply.github.com"]
+        },
+        {
+            "github_id": "mudit-simlote",
+            "launchpad_id": "mudit-simlote",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mudit Simlote",
+            "emails": ["mudit.simlote@dell.com"]
         },
         {
             "launchpad_id": "multi-task",
