@@ -12385,6 +12385,17 @@
             "emails": ["hanchao7@lenovo.com"]
         },
         {
+            "launchpad_id": "hanchl",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hanchl",
+            "emails": ["hanchunlei@inspur.com"]
+        },
+        {
             "github_id": "hangyan",
             "companies": [
                 {
