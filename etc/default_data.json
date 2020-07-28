@@ -35303,6 +35303,10 @@
                 },
                 {
                     "company_name": "SK telecom",
+                    "end_date": "2020-Jul-17"
+                },
+                {
+                    "company_name": "Smilegate",
                     "end_date": null
                 }
             ],
@@ -39113,6 +39117,10 @@
         {
             "domains": ["slack-corp.com"],
             "company_name": "Slack"
+        },
+        {
+            "domains": ["smilegate.com"],
+            "company_name": "Smilegate"
         },
         {
             "domains": ["snabb.co"],
