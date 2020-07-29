@@ -22477,6 +22477,18 @@
             "emails": ["multi_task@163.com"]
         },
         {
+            "launchpad_id": "muly",
+            "github_id": "muly",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "muly",
+            "emails": ["msrinivasareddy@gmail.com", "srinivasa.muly@att.com"]
+        },
+        {
             "launchpad_id": "munnangi2010",
             "companies": [
                 {
