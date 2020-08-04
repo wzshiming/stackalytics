@@ -33040,6 +33040,17 @@
             "emails": ["wang.changyu@zte.com.cn", "wangchangyu315@126.com"]
         },
         {
+            "launchpad_id": "wangdengdeng",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wangzihao",
+            "emails": ["wangzihao@yovole.com"]
+        },
+        {
             "launchpad_id": "wangfang",
             "zanata_id": "wangfang",
             "companies": [
