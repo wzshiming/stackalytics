@@ -13704,6 +13704,17 @@
             "emails": ["gopher.mian@outlook.com"]
         },
         {
+            "launchpad_id": "hyogyunbang",
+            "companies": [
+                {
+                    "company_name": "Smilegate",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hyogyunbang",
+            "emails": ["honillusion@gmail.com"]
+        },
+        {
             "github_id": "hyzhou",
             "companies": [
                 {
