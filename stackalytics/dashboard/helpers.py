@@ -34,7 +34,8 @@ def _extend_author_fields(record):
         {'user_id': record['user_id'], 'company': ''})
     record['company_link'] = make_link(
         record['company_name'], '',
-        {'company': record['company_name'], 'user_id': ''})
+        {'company': utils.normalize_company_name(record['company_name']),
+         'user_id': ''})
 
 
 def _extend_record_common_fields(record):
@@ -124,7 +125,9 @@ def extend_user(user):
     if user['companies']:
         company_name = get_current_company(user)
         user['company_link'] = make_link(
-            company_name, '', {'company': company_name, 'user_id': ''})
+            company_name, '',
+            {'company': utils.normalize_company_name(company_name),
+             'user_id': ''})
     else:
         user['company_link'] = ''
 
