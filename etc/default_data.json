@@ -33986,6 +33986,17 @@
             "emails": ["wujun@awcloud.com"]
         },
         {
+            "launchpad_id": "wushiming",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wushiming",
+            "emails": ["wushiming@yovole.com"]
+        },
+        {
             "launchpad_id": "wuwei",
             "companies": [
                 {
