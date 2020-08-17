@@ -20136,7 +20136,8 @@
             "emails": ["mkwiek@mirantis.com"]
         },
         {
-            "launchpad_id": "maciej.jozefczyk",
+            "launchpad_id": "maciejjozefczyk",
+            "github_id": "mjozefcz",
             "companies": [
                 {
                     "company_name": "OVH",
@@ -20144,6 +20145,10 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2020-Aug-31"
+                },
+                {
+                    "company_name": "Independent",
                     "end_date": null
                 }
             ],
