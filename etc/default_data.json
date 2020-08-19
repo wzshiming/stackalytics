@@ -5596,6 +5596,17 @@
             "emails": ["carloscesario@gmail.com", "ccesario@tecnomega.com.br"]
         },
         {
+            "launchpad_id": "ccheung",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangchun",
+            "emails": ["zhangchun@yovole.com"]
+        },
+        {
             "launchpad_id": "cdearbor",
             "companies": [
                 {
