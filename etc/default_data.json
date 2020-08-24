@@ -7358,11 +7358,15 @@
             "companies": [
                 {
                     "company_name": "Samsung",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Danil Golov",
-            "emails": ["d.golov@samsung.com"]
+            "emails": ["golov_danya@mail.ru"]
         },
         {
             "launchpad_id": "dachary",
