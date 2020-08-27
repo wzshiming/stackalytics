@@ -42216,6 +42216,11 @@
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
         },
         {
+            "module": "cloud-provider-openstack",
+            "organization": "kubernetes-sigs",
+            "uri": "https://github.com/kubernetes/cloud-provider-openstack"
+        },
+        {
             "module": "kind",
             "organization": "kubernetes-sigs",
             "uri": "https://github.com/kubernetes-sigs/kind.git"
