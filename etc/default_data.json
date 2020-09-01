@@ -27983,6 +27983,17 @@
             "emails": ["adam.vanpr@gmail.com", "adamvp@fb.com"]
         },
         {
+            "github_id": "scilla0531",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liujinxin",
+            "emails": ["hbbfxyxxgcljx@163.com", "liujinxin@inspur.com"]
+        },
+        {
             "launchpad_id": "scollins",
             "companies": [
                 {
