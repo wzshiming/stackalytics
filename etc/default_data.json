@@ -18688,6 +18688,17 @@
             "emails": ["libing863@fiberhome.com", "libing871202@163.com", "libnwlh@gmail.com"]
         },
         {
+            "launchpad_id": "libo",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Simon Li",
+            "emails": ["libo04@inspur.com", "liboqss2016@163.com", "liboqss@gmail.com"]
+        },
+        {
             "launchpad_id": "libosvar",
             "companies": [
                 {
