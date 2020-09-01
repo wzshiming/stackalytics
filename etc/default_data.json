@@ -16217,6 +16217,17 @@
             "emails": ["jonas.pfannschmidt@hp.com", "jonas.pfannschmidt@hpe.com"]
         },
         {
+            "github_id": "jonas-werner",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jonas Werner",
+            "emails": ["jonas.werner@dell.com"]
+        },
+        {
             "launchpad_id": "jonnary-liu",
             "companies": [
                 {
