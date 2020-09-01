@@ -14068,6 +14068,10 @@
             "companies": [
                 {
                     "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -22043,6 +22047,10 @@
                 },
                 {
                     "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -28414,6 +28422,10 @@
             "companies": [
                 {
                     "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
