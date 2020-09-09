@@ -36416,6 +36416,17 @@
             "emails": ["kill51216@163.com", "zhangjianfeng@chinac.com"]
         },
         {
+            "launchpad_id": "zhangjunhui",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangjunhui",
+            "emails": ["zhangjunhui@yovole.com"]
+        },
+        {
             "launchpad_id": "zhangleiqiang",
             "companies": [
                 {
