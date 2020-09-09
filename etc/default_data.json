@@ -9659,6 +9659,17 @@
             "emails": ["dennis.eastman@verizonwireless.com", "dreastman@gmail.com"]
         },
         {
+            "launchpad_id": "ecsantos",
+            "companies": [
+                {
+                    "company_name": "FIT Instituto de Tecnologia",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Eduardo da Costa Santos",
+            "emails": ["eduardo.experimental@gmail.com", "eduardo.santos@fit-tecnologia.org.br"]
+        },
+        {
             "launchpad_id": "ed--cranford",
             "companies": [
                 {
