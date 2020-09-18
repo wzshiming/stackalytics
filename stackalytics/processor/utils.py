@@ -312,6 +312,7 @@ def make_module_group(module_group_id, name=None, modules=None, tag='module'):
             'modules': modules or {module_group_id},
             'tag': tag}
 
+
 BAD_NAME_SUFFIXES = ['Ltd', 'Pvt', 'Inc', 'GmbH', 'AG', 'Corporation', 'Corp',
                      'Company', 'Co', 'Group', 'Srl', 'Limited', 'LLC', 'IT']
 

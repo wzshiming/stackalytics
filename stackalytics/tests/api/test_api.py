@@ -98,38 +98,38 @@ class TestStorage(runtime_storage.RuntimeStorage):
 
 
 def _generate_commits():
-        commit = {
-            'commit_id': uuidutils.generate_uuid(),
-            'lines_added': 9, 'module': 'nova', 'record_type': 'commit',
-            'message': 'Closes bug 1212953\n\nChange-Id: '
-                       'I33f0f37b6460dc494abf2520dc109c9893ace9e6\n',
-            'subject': 'Fixed affiliation of Edgar and Sumit', 'loc': 10,
-            'user_id': 'john_doe',
-            'primary_key': uuidutils.generate_uuid(),
-            'author_email': 'john_doe@ibm.com', 'company_name': 'IBM',
-            'lines_deleted': 1, 'week': 2275,
-            'blueprint_id': None, 'bug_id': u'1212953',
-            'files_changed': 1, 'author_name': u'John Doe',
-            'date': 1376737923, 'launchpad_id': u'john_doe',
-            'branches': set([u'master']),
-            'change_id': u'I33f0f37b6460dc494abf2520dc109c9893ace9e6',
-            'release': u'icehouse'
-        }
-        yield commit
+    commit = {
+        'commit_id': uuidutils.generate_uuid(),
+        'lines_added': 9, 'module': 'nova', 'record_type': 'commit',
+        'message': 'Closes bug 1212953\n\nChange-Id: '
+                   'I33f0f37b6460dc494abf2520dc109c9893ace9e6\n',
+        'subject': 'Fixed affiliation of Edgar and Sumit', 'loc': 10,
+        'user_id': 'john_doe',
+        'primary_key': uuidutils.generate_uuid(),
+        'author_email': 'john_doe@ibm.com', 'company_name': 'IBM',
+        'lines_deleted': 1, 'week': 2275,
+        'blueprint_id': None, 'bug_id': u'1212953',
+        'files_changed': 1, 'author_name': u'John Doe',
+        'date': 1376737923, 'launchpad_id': u'john_doe',
+        'branches': set([u'master']),
+        'change_id': u'I33f0f37b6460dc494abf2520dc109c9893ace9e6',
+        'release': u'icehouse'
+    }
+    yield commit
 
 
 def _generate_marks():
-        mark = {
-            'launchpad_id': 'john_doe', 'week': 2294, 'user_id': 'john_doe',
-            'description': 'Approved', 'author_name': 'John Doe',
-            'author_email': 'john_doe@gmail.com',
-            'primary_key': uuidutils.generate_uuid() + 'Workflow',
-            'module': 'glance', 'patch': 2, 'record_type': 'mark',
-            'company_name': '*independent', 'branch': 'master',
-            'date': 1387860458, 'record_id': 37184, 'release': 'icehouse',
-            'value': 1, 'type': 'Workflow',
-            'review_id': uuidutils.generate_uuid()}
-        yield mark
+    mark = {
+        'launchpad_id': 'john_doe', 'week': 2294, 'user_id': 'john_doe',
+        'description': 'Approved', 'author_name': 'John Doe',
+        'author_email': 'john_doe@gmail.com',
+        'primary_key': uuidutils.generate_uuid() + 'Workflow',
+        'module': 'glance', 'patch': 2, 'record_type': 'mark',
+        'company_name': '*independent', 'branch': 'master',
+        'date': 1387860458, 'record_id': 37184, 'release': 'icehouse',
+        'value': 1, 'type': 'Workflow',
+        'review_id': uuidutils.generate_uuid()}
+    yield mark
 
 
 def _generate_review():
