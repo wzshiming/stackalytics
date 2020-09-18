@@ -2284,6 +2284,17 @@
             "emails": ["ikharin@mirantis.com", "akscram@gmail.com"]
         },
         {
+            "launchpad_id": "akth",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "akth",
+            "emails": ["liu99wei@outlook.com"]
+        },
+        {
             "launchpad_id": "al-foo",
             "companies": [
                 {
