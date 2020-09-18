@@ -4753,11 +4753,15 @@
             "companies": [
                 {
                     "company_name": "BoCloud",
+                    "end_date": "2020-Jul-30"
+                },
+                {
+                    "company_name": "Alibaba",
                     "end_date": null
                 }
             ],
             "user_name": "Shida Qiu",
-            "emails": ["1527062125@qq.com", "qiushida@beyondcent.com"]
+            "emails": ["1527062125@qq.com", "qiushida@beyondcent.com", "shida.qsd@alibaba-inc.com"]
         },
         {
             "launchpad_id": "bmathews-l",
@@ -4825,6 +4829,21 @@
             ],
             "user_name": "Ben Nemec",
             "emails": ["bnemec@us.ibm.com", "openstack@nemebean.com", "bnemec@redhat.com"]
+        },
+        {
+            "launchpad_id": "bo314",
+            "github_id": "umi0410",
+            "zanata_id": "umi0410",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jinsu Park",
+            "emails": [
+                "bo314@naver.com"
+            ]
         },
         {
             "launchpad_id": "bob-haddleton",
@@ -6456,6 +6475,17 @@
             "emails": ["christopher.m.spencer@intel.com"]
         },
         {
+            "launchpad_id": "chrm7070",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "kyungyong choi",
+            "emails": ["vdqvdw@naver.com", "vdqvdw@gmail.com"]
+        },
+        {
             "launchpad_id": "chuanbo",
             "companies": [
                 {
@@ -6768,6 +6798,19 @@
             ],
             "user_name": "RUIJIE YUAN",
             "emails": ["cnjie0616@gmail.com"]
+        },
+        {
+          "launchpad_id": "cocahack",
+          "github_id": "cocahack",
+          "zanata_id": "jake_chae",
+          "companies": [
+            {
+              "company_name": "*independent",
+              "end_date": null
+            }
+          ],
+          "user_name": "Myeongchul Chae",
+          "emails": ["cocahack@naver.com", "rncchae@gmail.com"]
         },
         {
             "launchpad_id": "coco-gao",
@@ -8115,6 +8158,17 @@
             "emails": ["david@dollar.io"]
         },
         {
+            "launchpad_id": "ddorahee123123123",
+            "user_name": "JoMingi",
+            "companies": [
+                {
+                    "company_name": "Google",
+                    "end_date": null
+                }
+            ],
+            "emails": ["mingi@tatum.com", "alsrl2187@naver.com"]
+        },
+        {
             "github_id": "ddysher",
             "user_name": "Deyuan Deng",
             "companies": [
@@ -8976,6 +9030,19 @@
             ],
             "user_name": "Christopher Aedo",
             "emails": ["doc@aedo.net", "caedo@mirantis.com"]
+        },
+        {
+            "launchpad_id": "dohan0930",
+            "github_id": "dohan0930",
+            "zanata_id": "revival0n",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dong-won Jang",
+            "emails": ["dohan0930@gmail.com", "revival0n@naver.com"]
         },
         {
             "launchpad_id": "dolph",
@@ -10104,6 +10171,34 @@
             "emails": [
                 "petr.michalec@gmail.com", "petr.michalec@tcpcloud.eu", "epcim@apealive.net",
                 "petr_michalec@cz.ibm.com", "pmichalec@mirantis.com"
+            ]
+        },
+        {
+            "launchpad_id": "epdlemflaj",
+            "github_id": "Regexp96",
+            "zanata_id": "silica_jung",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gyuseok Jung",
+            "emails": ["epdlemflaj@gmail.com"]
+        },
+        {
+            "launchpad_id": "epicarts",
+            "github_id": "epicarts",
+            "zanata_id": "epicarts",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Youngho Choi",
+            "emails": [
+                "0505zxc@gmail.com"
             ]
         },
         {
@@ -12443,6 +12538,17 @@
             ],
             "user_name": "hanjiabao",
             "emails": ["hanjiabao@awcloud.com"]
+        },
+        {
+            "launchpad_id": "hanjoo",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hanjoo.cho",
+            "emails": ["johanjoo@naver.com","vjswl132@gmail.com"]
         },
         {
             "launchpad_id": "hanrong",
@@ -17498,6 +17604,19 @@
             "emails": ["ikeontang@gmail.com", "tangjiyuan@caicloud.io"]
         },
         {
+            "launchpad_id": "keonwoolee",
+            "zanata_id": "keonwoo_lee",
+            "github_id": "lkeonwoo94",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "keonwoo lee",
+            "emails": ["lkeonw0o@naver.com"]
+        },
+        {
             "launchpad_id": "kevin-carter",
             "companies": [
                 {
@@ -21379,6 +21498,18 @@
             ],
             "user_name": "Sarath Chandra Mekala",
             "emails": ["mekala.sarath@gmail.com", "sarathmekala.openstack@gmail.com", "sarathcm@juniper.net"]
+        },
+        {
+             "launchpad_id": "melkitan",
+             "github_id": "melkitan",
+             "companies": [
+                 {
+                     "company_name": "*independent",
+                     "end_date": null
+                 }
+             ],
+             "user_name": "Hyeim Yang",
+             "emails": ["yanghyeimm@gmail.com"]
         },
         {
             "launchpad_id": "melwitt",
@@ -32611,6 +32742,19 @@
             ],
             "user_name": "Vincent Cassé",
             "emails": ["vincent.casse@ovh.net", "vincent@casse.me"]
+        },
+        {
+            "launchpad_id": "vincent-m",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Vincent S. Cojot",
+            "emails": [
+                "vincent@cojot.name", "vcojot@redhat.com"
+            ]
         },
         {
             "launchpad_id": "vincent-pli",
