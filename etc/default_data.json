@@ -20038,6 +20038,17 @@
             "emails": ["lvxx@awcloud.com", "57320398@qq.com"]
         },
         {
+            "launchpad_id": "lw-zte",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lw-zte",
+            "emails": ["liu.wei38@zte.com.cn"]
+        },
+        {
             "launchpad_id": "lxstar01",
             "companies": [
                 {
