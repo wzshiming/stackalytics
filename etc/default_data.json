@@ -36637,6 +36637,17 @@
             "emails": ["zhangshj@inspur.com"]
         },
         {
+            "launchpad_id": "zhangtongjian",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangtongjian",
+            "emails": ["125163227@qq.com"]
+        },
+        {
             "launchpad_id": "zhangxh502",
             "companies": [
                 {
