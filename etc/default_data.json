@@ -21312,6 +21312,21 @@
             "emails": ["mayank.kumar@hp.com", "mayank0107@yahoo.co.in", "mayank.kumar@hpe.com"]
         },
         {
+            "launchpad_id": "maysa",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2018-Nov-06"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Maysa de Macedo Souza",
+            "emails": ["maysa.macedo95@gmail.com", "mdemaced@redhat.com"]
+        },
+        {
             "launchpad_id": "mazengxie",
             "companies": [
                 {
