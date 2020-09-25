@@ -18636,6 +18636,17 @@
             "emails": ["leiyashuai@inspur.com"]
         },
         {
+            "launchpad_id": "leiyuehui",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "YuehuiLei",
+            "emails": ["leiyuehui@inspur.com"]
+        },
+        {
             "launchpad_id": "leledashenqi",
             "companies": [
                 {
