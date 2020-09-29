@@ -29303,6 +29303,22 @@
             "emails": ["sinval@lsd.ufcg.edu.br", "sinvalneto01@gmail.com"]
         },
         {
+            "launchpad_id": "sirajyasin",
+            "github_id": "sirajyasin",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "siraj.yasin",
+            "emails": [
+                "sy495p@att.com",
+                "sirajudeen.yasin@gmail.com",
+                "sirajudeen@ericsson.com"
+            ]
+        },
+        {
             "launchpad_id": "sirisha.areti",
             "companies": [
                 {
