@@ -39501,6 +39501,10 @@
             "aliases": ["Seagate Technology"]
         },
         {
+            "domains": ["secustack.com"],
+            "company_name": "secustack"
+        },
+        {
             "domains": ["selectel.com", "selectel.ru"],
             "company_name": "Selectel"
         },
