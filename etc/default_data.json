@@ -4434,6 +4434,21 @@
             ]
         },
         {
+            "github_id": "benjaminhuo",
+            "launchpad_id": "benjaminhuo",
+            "companies": [
+                {
+                    "company_name": "QingCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "benjaminhuo",
+            "emails": [
+                "benjamin@yunify.com",
+                "huobj@qq.com"
+            ]
+        },
+        {
             "launchpad_id": "benjenwong",
             "github_id": "benjenwong",
             "companies": [
@@ -28694,6 +28709,18 @@
             "emails": ["shaomingwu@inspur.com"]
         },
         {
+            "launchpad_id": "shaowenchen",
+            "github_id": "shaowenchen",
+            "companies": [
+                {
+                    "company_name": "QingCloud Technologies Corp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shaowen Chen",
+            "emails": ["mail@chenshaowen.com", "shaowenchen@yunify.com"]
+        },
+        {
             "launchpad_id": "shapeliang",
             "companies": [
                 {
@@ -38919,6 +38946,13 @@
         {
             "domains": ["kth.se"],
             "company_name": "Kungliga Tekniska h\u00f6gskolan"
+        },
+        {
+            "domains": ["kubesphere.io", "qingcloud.com", "yunify.com"],
+            "company_name": "QingCloud Technologies Corp",
+            "aliases": [
+                "KubeSphere", "QingCloud", "Yunify Technologies (HK) Limited", "北京青云科技股份有限公司"
+            ]
         },
         {
             "domains": ["kylin-cloud.com"],
