@@ -38158,6 +38158,10 @@
             "company_name": "Citrix Systems"
         },
         {
+            "domains": ["cloudandheat.com"],
+            "company_name": "Cloud&Heat Technologies"
+        },
+        {
             "domains": ["cloudbasesolutions.com"],
             "company_name": "Cloudbase Solutions",
             "aliases": ["Cloudbase"]
