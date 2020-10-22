@@ -33559,11 +33559,15 @@
             "companies": [
                 {
                     "company_name": "GohighSec",
+                    "end_date": "2020-Aug-31"
+                },
+                {
+                    "company_name": "China Unicom",
                     "end_date": null
                 }
             ],
             "user_name": "Liangyu Wang",
-            "emails": ["wangliangyu@gohigh.com.cn"]
+            "emails": ["wangliangyu@gohigh.com.cn", "wangly2097@chinaunicom.cn"]
         },
         {
             "launchpad_id": "wangqian99cloud",
