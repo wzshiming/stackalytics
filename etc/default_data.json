@@ -36473,6 +36473,17 @@
             "emails": ["zerodivisible@gmail.com"]
         },
         {
+            "launchpad_id": "zeroup",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "RotanChen",
+            "emails": ["chengluteng@inspur.com"]
+        },
+        {
             "launchpad_id": "zeroxkim",
             "companies": [
                 {
