@@ -42286,9 +42286,64 @@
             "uri": "https://github.com/docker/docker.github.io.git"
         },
         {
-            "module": "gardener",
+            "module": "apiserver-proxy@gardener",
             "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener.git"
+            "uri": "https://github.com/gardener/apiserver-proxy.git"
+        },
+        {
+            "module": "autoscaler@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/autoscaler.git"
+        },
+        {
+            "module": "aws-lb-readvertiser@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/aws-lb-readvertiser.git"
+        },
+        {
+            "module": "cc-utils@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/cc-utils.git"
+        },
+        {
+            "module": "cert-management@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/cert-management.git"
+        },
+        {
+            "module": "certificate-dns-bridge@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/certificate-dns-bridge.git"
+        },
+        {
+            "module": "cloud-provider-aws@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/cloud-provider-aws.git"
+        },
+        {
+            "module": "cloud-provider-azure@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/cloud-provider-azure.git"
+        },
+        {
+            "module": "cloud-provider-gcp@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/cloud-provider-gcp.git"
+        },
+        {
+            "module": "component-spec@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/component-spec.git"
+        },
+        {
+            "module": "controller-manager-library@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/controller-manager-library.git"
+        },
+        {
+            "module": "controller-runtime@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/controller-runtime.git"
         },
         {
             "module": "dashboard@gardener",
@@ -42296,14 +42351,379 @@
             "uri": "https://github.com/gardener/dashboard.git"
         },
         {
-            "module": "gardentctl@gardener",
+            "module": "dependency-watchdog@gardener",
             "organization": "gardener",
-            "uri": "https://github.com/gardener/gardenctl.git"
+            "uri": "https://github.com/gardener/dependency-watchdog.git"
+        },
+        {
+            "module": "dnslb-controller-manager@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/dnslb-controller-manager.git"
+        },
+        {
+            "module": "documentation@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/documentation.git"
+        },
+        {
+            "module": "etcd-backup-restore@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/etcd-backup-restore.git"
+        },
+        {
+            "module": "etcd-custom-image@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/etcd-custom-image.git"
+        },
+        {
+            "module": "etcd-druid@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/etcd-druid.git"
+        },
+        {
+            "module": "external-dns-management@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/external-dns-management.git"
         },
         {
             "module": "garden-setup@gardener",
             "organization": "gardener",
             "uri": "https://github.com/gardener/garden-setup.git"
+        },
+        {
+            "module": "gardenctl@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardenctl.git"
+        },
+        {
+            "module": "gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener.git"
+        },
+        {
+            "module": "gardener-extension-networking-calico@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-networking-calico.git"
+        },
+        {
+            "module": "gardener-extension-networking-cilium@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-networking-cilium.git"
+        },
+        {
+            "module": "gardener-extension-os-coreos@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-os-coreos.git"
+        },
+        {
+            "module": "gardener-extension-os-coreos-alicloud@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-os-coreos-alicloud.git"
+        },
+        {
+            "module": "gardener-extension-os-gardenlinux@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-os-gardenlinux.git"
+        },
+        {
+            "module": "gardener-extension-os-suse-chost@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-os-suse-chost.git"
+        },
+        {
+            "module": "gardener-extension-os-ubuntu@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-os-ubuntu.git"
+        },
+        {
+            "module": "gardener-extension-os-ubuntu-alicloud@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-os-ubuntu-alicloud.git"
+        },
+        {
+            "module": "gardener-extension-provider-alicloud@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-alicloud.git"
+        },
+        {
+            "module": "gardener-extension-provider-aws@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-aws.git"
+        },
+        {
+            "module": "gardener-extension-provider-azure@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-azure.git"
+        },
+        {
+            "module": "gardener-extension-provider-gcp@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-gcp.git"
+        },
+        {
+            "module": "gardener-extension-provider-kubevirt@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-kubevirt.git"
+        },
+        {
+            "module": "gardener-extension-provider-mock@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-mock.git"
+        },
+        {
+            "module": "gardener-extension-provider-openshift@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-openshift.git"
+        },
+        {
+            "module": "gardener-extension-provider-openstack@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-openstack.git"
+        },
+        {
+            "module": "gardener-extension-provider-packet@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-packet.git"
+        },
+        {
+            "module": "gardener-extension-provider-vsphere@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-provider-vsphere.git"
+        },
+        {
+            "module": "gardener-extension-runtime-gvisor@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-runtime-gvisor.git"
+        },
+        {
+            "module": "gardener-extension-sample@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-sample.git"
+        },
+        {
+            "module": "gardener-extension-shoot-cert-service@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-shoot-cert-service.git"
+        },
+        {
+            "module": "gardener-extension-shoot-dns-service@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-extension-shoot-dns-service.git"
+        },
+        {
+            "module": "gardener-metrics-exporter@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-metrics-exporter.git"
+        },
+        {
+            "module": "gardener-resource-manager@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gardener-resource-manager.git"
+        },
+        {
+            "module": "gem@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gem.git"
+        },
+        {
+            "module": "gpu-installer@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/gpu-installer.git"
+        },
+        {
+            "module": "homebrew-tap@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/homebrew-tap.git"
+        },
+        {
+            "module": "hub@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/hub.git"
+        },
+        {
+            "module": "hvpa-controller@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/hvpa-controller.git"
+        },
+        {
+            "module": "hyperkube@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/hyperkube.git"
+        },
+        {
+            "module": "ingress-default-backend@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/ingress-default-backend.git"
+        },
+        {
+            "module": "k8s-conformance@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/k8s-conformance.git"
+        },
+        {
+            "module": "kube-openapi@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/kube-openapi.git"
+        },
+        {
+            "module": "kubify@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/kubify.git"
+        },
+        {
+            "module": "kubify-aws-template@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/kubify-aws-template.git"
+        },
+        {
+            "module": "kubify-openstack-template@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/kubify-openstack-template.git"
+        },
+        {
+            "module": "kupid@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/kupid.git"
+        },
+        {
+            "module": "landscape-setup@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/landscape-setup.git"
+        },
+        {
+            "module": "landscape-setup-template@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/landscape-setup-template.git"
+        },
+        {
+            "module": "landscaper@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/landscaper.git"
+        },
+        {
+            "module": "logging@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/logging.git"
+        },
+        {
+            "module": "machine-controller-manager@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-alicloud@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-alicloud.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-aws@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-aws.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-gcp@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-gcp.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-kubevirt@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-kubevirt.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-sampleprovider@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-sampleprovider.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-vsphere@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-vsphere.git"
+        },
+        {
+            "module": "machine-controller-manager-provider-yandex@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-controller-manager-provider-yandex.git"
+        },
+        {
+            "module": "machine-spec@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/machine-spec.git"
+        },
+        {
+            "module": "monitoring@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/monitoring.git"
+        },
+        {
+            "module": "nsxt-lb-provider@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/nsxt-lb-provider.git"
+        },
+        {
+            "module": "ops-toolbelt@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/ops-toolbelt.git"
+        },
+        {
+            "module": "remedy-controller@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/remedy-controller.git"
+        },
+        {
+            "module": "reserve-excess-capacity@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/reserve-excess-capacity.git"
+        },
+        {
+            "module": "sow@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/sow.git"
+        },
+        {
+            "module": "structured-merge-diff@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/structured-merge-diff.git"
+        },
+        {
+            "module": "terminal-controller-manager@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/terminal-controller-manager.git"
+        },
+        {
+            "module": "terraformer@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/terraformer.git"
+        },
+        {
+            "module": "test-infra@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/test-infra.git"
+        },
+        {
+            "module": "vpa-exporter@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/vpa-exporter.git"
+        },
+        {
+            "module": "vpn@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/vpn.git"
+        },
+        {
+            "module": "vscode-gardener-tools@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/vscode-gardener-tools.git"
+        },
+        {
+            "module": "website@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/website.git"
+        },
+        {
+            "module": "website-generator@gardener",
+            "organization": "gardener",
+            "uri": "https://github.com/gardener/website-generator.git"
         },
         {
             "module": "istio",
@@ -44216,7 +44636,94 @@
         {
             "module_group_name": "gardener-group",
             "modules": [
-                "gardener", "dashboard@gardener", "gardenctl@gardener", "garden-setup@gardener"
+                "apiserver-proxy@gardener",
+                "autoscaler@gardener",
+                "aws-lb-readvertiser@gardener",
+                "cc-utils@gardener",
+                "cert-management@gardener",
+                "certificate-dns-bridge@gardener",
+                "cloud-provider-aws@gardener",
+                "cloud-provider-azure@gardener",
+                "cloud-provider-gcp@gardener",
+                "component-spec@gardener",
+                "controller-manager-library@gardener",
+                "controller-runtime@gardener",
+                "dashboard@gardener",
+                "dependency-watchdog@gardener",
+                "dnslb-controller-manager@gardener",
+                "documentation@gardener",
+                "etcd-backup-restore@gardener",
+                "etcd-custom-image@gardener",
+                "etcd-druid@gardener",
+                "external-dns-management@gardener",
+                "garden-setup@gardener",
+                "gardenctl@gardener",
+                "gardener",
+                "gardener-extension-networking-calico@gardener",
+                "gardener-extension-networking-cilium@gardener",
+                "gardener-extension-os-coreos@gardener",
+                "gardener-extension-os-coreos-alicloud@gardener",
+                "gardener-extension-os-gardenlinux@gardener",
+                "gardener-extension-os-suse-chost@gardener",
+                "gardener-extension-os-ubuntu@gardener",
+                "gardener-extension-os-ubuntu-alicloud@gardener",
+                "gardener-extension-provider-alicloud@gardener",
+                "gardener-extension-provider-aws@gardener",
+                "gardener-extension-provider-azure@gardener",
+                "gardener-extension-provider-gcp@gardener",
+                "gardener-extension-provider-kubevirt@gardener",
+                "gardener-extension-provider-mock@gardener",
+                "gardener-extension-provider-openshift@gardener",
+                "gardener-extension-provider-openstack@gardener",
+                "gardener-extension-provider-packet@gardener",
+                "gardener-extension-provider-vsphere@gardener",
+                "gardener-extension-runtime-gvisor@gardener",
+                "gardener-extension-sample@gardener",
+                "gardener-extension-shoot-cert-service@gardener",
+                "gardener-extension-shoot-dns-service@gardener",
+                "gardener-metrics-exporter@gardener",
+                "gardener-resource-manager@gardener",
+                "gem@gardener",
+                "gpu-installer@gardener",
+                "homebrew-tap@gardener",
+                "hub@gardener",
+                "hvpa-controller@gardener",
+                "hyperkube@gardener",
+                "ingress-default-backend@gardener",
+                "k8s-conformance@gardener",
+                "kube-openapi@gardener",
+                "kubify@gardener",
+                "kubify-aws-template@gardener",
+                "kubify-openstack-template@gardener",
+                "kupid@gardener",
+                "landscape-setup@gardener",
+                "landscape-setup-template@gardener",
+                "landscaper@gardener",
+                "logging@gardener",
+                "machine-controller-manager@gardener",
+                "machine-controller-manager-provider-alicloud@gardener",
+                "machine-controller-manager-provider-aws@gardener",
+                "machine-controller-manager-provider-gcp@gardener",
+                "machine-controller-manager-provider-kubevirt@gardener",
+                "machine-controller-manager-provider-sampleprovider@gardener",
+                "machine-controller-manager-provider-vsphere@gardener",
+                "machine-controller-manager-provider-yandex@gardener",
+                "machine-spec@gardener",
+                "monitoring@gardener",
+                "nsxt-lb-provider@gardener",
+                "ops-toolbelt@gardener",
+                "remedy-controller@gardener",
+                "reserve-excess-capacity@gardener",
+                "sow@gardener",
+                "structured-merge-diff@gardener",
+                "terminal-controller-manager@gardener",
+                "terraformer@gardener",
+                "test-infra@gardener",
+                "vpa-exporter@gardener",
+                "vpn@gardener",
+                "vscode-gardener-tools@gardener",
+                "website@gardener",
+                "website-generator@gardener"
             ]
         },
         {
