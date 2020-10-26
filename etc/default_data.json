@@ -7853,6 +7853,18 @@
             "emails": ["darren.birkett@gmail.com"]
         },
         {
+            "launchpad_id": "darren.dejaeger",
+            "github_id": "darrendejaeger",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Darren DeJaeger",
+            "emails": ["darren.dejaeger@att.com", "dd118r@att.com", "dd118r@us.att.com"]
+        },
+        {
             "launchpad_id": "daschab",
             "companies": [
                 {
