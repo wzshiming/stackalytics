@@ -4464,6 +4464,7 @@
         },
         {
             "launchpad_id": "berendt",
+            "github_id": "berendt",
             "companies": [
                 {
                     "company_name": "B1 Systems GmbH",
