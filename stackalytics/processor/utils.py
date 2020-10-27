@@ -14,9 +14,9 @@
 # limitations under the License.
 
 import calendar
-import cgi
 import datetime
 import gzip
+import html
 import random
 import re
 import time
@@ -248,7 +248,10 @@ def unwrap_text(text):
 
 
 def format_text(s):
-    s = cgi.escape(re.sub(re.compile('\n{2,}', flags=re.MULTILINE), '\n', s))
+    # TODO(snikitin) Maybe we need to remove 'False' from escape()
+    # to escape ' and " symbols?
+    s = html.escape(re.sub(re.compile('\n{2,}', flags=re.MULTILINE), '\n', s),
+                    False)
 
     def replace_dots(match_obj):
         return re.sub(r'([\./]+)', r'\1&#8203;', match_obj.group(0))
