@@ -36710,6 +36710,17 @@
             "emails": ["zhangdaolong@fiberhome.com"]
         },
         {
+            "launchpad_id": "zhanghao2",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhanghao",
+            "emails": ["zhanghao2@cmss.chinamobile.com", "zhanghao2_yewu@cmss.chinamobile.com"]
+        },
+        {
             "launchpad_id": "zhanghj",
             "companies": [
                 {
