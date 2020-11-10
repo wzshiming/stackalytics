@@ -29949,6 +29949,17 @@
             "emails": ["somikbehera@gmail.com", "somik@nicira.com"]
         },
         {
+            "launchpad_id": "sonaliborkar85",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sonali Borkar",
+            "emails": ["sonaliborkar85@gmail.com", "sonali.borkar@calsoftinc.com", "sonali_borkar@dellteam.com"]
+        },
+        {
             "launchpad_id": "song-ruixia",
             "companies": [
                 {
