@@ -22178,16 +22178,16 @@
                     "end_date": "2017-Mar-31"
                 },
                 {
-                    "company_name": "*independent",
-                    "end_date": "2018-Aug-08"
+                    "company_name": "NetApp",
+                    "end_date": "2018-Oct-24"
                 },
                 {
-                    "company_name": "NetApp",
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Miriam Yumi",
-            "emails": ["miriamyume@gmail.com", "miriam.peixoto@fit-tecnologia.org.br"]
+            "emails": ["miriamyume@gmail.com", "myumi@daitan.com"]
         },
         {
             "launchpad_id": "mishra-rakesh510",
