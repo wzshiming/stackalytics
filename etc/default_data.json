@@ -35751,6 +35751,18 @@
             "emails": ["ynshenoy@gmail.com", "yogeshwar.shenoy@ril.com"]
         },
         {
+            "launchpad_id": "yoctozepto",
+            "github_id": "yoctozepto",
+            "companies": [
+                {
+                    "company_name": "University of Bialystok",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Radosław Piliszek",
+            "emails": ["radoslaw.piliszek@gmail.com", "r.piliszek@uwb.edu.pl"]
+        },
+        {
             "launchpad_id": "yogesh-srikrishnan",
             "companies": [
                 {
@@ -40089,6 +40101,10 @@
         {
             "domains": ["ustack.com", "unitedstack.com"],
             "company_name": "UnitedStack"
+        },
+        {
+            "domains": ["uwb.edu.pl"],
+            "company_name": "University of Bialystok"
         },
         {
             "domains": ["valinux.co.jp"],
