@@ -7736,6 +7736,17 @@
             "emails": ["danielfbm@gmail.com", "daniel@alauda.io"]
         },
         {
+            "launchpad_id": "danielpereira01",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Daniel de Oliveira Pereira",
+            "emails": ["dopereira@daitan.com"]
+        },
+        {
             "launchpad_id": "danielr-2",
             "companies": [
                 {
