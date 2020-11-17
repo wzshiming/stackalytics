@@ -42332,6 +42332,11 @@
             ]
         },
         {
+            "module": "venus",
+            "uri": "https://opendev.org/inspur/venus.git",
+            "organization": "openstack"
+        },
+        {
             "module": "cli@docker",
             "organization": "docker",
             "uri": "https://github.com/docker/cli.git"
