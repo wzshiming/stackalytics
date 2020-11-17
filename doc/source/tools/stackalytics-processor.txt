@@ -17,6 +17,7 @@ usage: stackalytics-processor [-h] [--config-dir DIR] [--config-file PATH]
                               [--sources-root SOURCES_ROOT]
                               [--ssh-key-filename SSH_KEY_FILENAME]
                               [--ssh-username SSH_USERNAME]
+                              [--github-token GITHUB_TOKEN]
                               [--github-login GITHUB_LOGIN]
                               [--github-password GITHUB_PASSWORD]
                               [--syslog-log-facility SYSLOG_LOG_FACILITY]
@@ -91,10 +92,14 @@ optional arguments:
                         SSH key for gerrit review system access
   --ssh-username SSH_USERNAME
                         SSH username for gerrit review system access
+  --github-token GITHUB_TOKEN
+                        Token for github access. (string value)
   --github-login GITHUB_LOGIN
-                        Login for github access (string value)
+                        Login for github access. If GITHUB_TOKEN is specified,
+                        GITHUB_LOGIN will be ignored (string value)
   --github-password GITHUB_PASSWORD
-                        Password for github access
+                        Password for github access. If GITHUB_TOKEN is specified,
+                        GITHUB_PASSWORD will be ignored (string value)
   --syslog-log-facility SYSLOG_LOG_FACILITY
                         Syslog facility to receive log lines. This option is
                         ignored if log_config_append is set.
