@@ -35740,6 +35740,17 @@
             "emails": ["earnest.yefeng.wen@gmail.com", "ye.feng.wen@huawei.com"]
         },
         {
+            "launchpad_id": "yehaiyang",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "YeHaiyang",
+            "emails": ["6161910042@vip.jiangnan.edu.cn"]
+        },
+        {
             "launchpad_id": "yevgen-runts",
             "companies": [
                 {
