@@ -707,7 +707,7 @@
             ],
             "user_name": "Shriram Rajagopalan",
             "emails": [
-                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "shriramr@vmware.com", "rshriram@tetrate.io",
+                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "rshriram@tetrate.io",
                 "rshriram@gmail.com"
             ]
         },
@@ -1954,11 +1954,15 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Adrian Moreno",
-            "emails": ["adrian@morenomartinez.com", "adrian.moreno@emc.com"]
+            "emails": ["adrian@morenomartinez.com"]
         },
         {
             "launchpad_id": "adriansmith",
@@ -2185,7 +2189,7 @@
                 }
             ],
             "user_name": "Akash Gangil",
-            "emails": ["agangil@vmware.com", "akashg1611@gmail.com"]
+            "emails": ["akashg1611@gmail.com"]
         },
         {
             "launchpad_id": "akaszuba",
@@ -6140,11 +6144,15 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "chen, hao",
-            "emails": ["chen.hao@emc.com", "chenh1987@gmail.com"]
+            "emails": ["chenh1987@gmail.com"]
         },
         {
             "launchpad_id": "chenhanxiao",
@@ -7080,6 +7088,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -8213,6 +8225,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -8604,7 +8620,7 @@
                 }
             ],
             "user_name": "Dan Florea",
-            "emails": ["dan.florea@gmail.com", "dflorea@vmware.com"]
+            "emails": ["dan.florea@gmail.com", "floread@vmware.com"]
         },
         {
             "github_id": "dgn",
@@ -8794,13 +8810,16 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Digambar Patil",
             "emails": [
-                "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com", "digambar.patil@calsoftinc.com",
-                "digmabar_patil@dellteam.com"
+                "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com"
             ]
         },
         {
@@ -10085,12 +10104,12 @@
                     "end_date": "2017-Jan-31"
                 },
                 {
-                    "company_name": "Dell EMC",
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Elad Zucker",
-            "emails": ["elad.zucker@emc.com", "eladz@hexsys-solutions.com"]
+            "emails": ["eladz@hexsys-solutions.com"]
         },
         {
             "launchpad_id": "eldar-nugaev",
@@ -11511,11 +11530,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Garima Misra",
-            "emails": ["garima_misra@dellteam.com", "garima.misra@calsoftinc.com"]
+            "emails": ["garima.misra@calsoftinc.com"]
         },
         {
             "launchpad_id": "gary-w-smith",
@@ -11560,7 +11583,7 @@
                 }
             ],
             "user_name": "Gary Kotton",
-            "emails": ["gkotton@vmware.com", "gkotton@redhat.com", "garyk@radware.com"]
+            "emails": ["gkotton@redhat.com", "garyk@radware.com"]
         },
         {
             "github_id": "gbaufake",
@@ -13175,11 +13198,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Jan-01"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Ganesh Hiregoudar",
-            "emails": ["ganeshkumar.hiregoudar@dell.com"]
+            "emails": ["ghiregoudar@vmware.com"]
         },
         {
             "launchpad_id": "hjw",
@@ -14653,11 +14680,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Prasuk Jain",
-            "emails": ["jainprasuk1996@gmail.com", "prasuk_jain@dellteam.com", "prasuk.jain@calsoftinc.com"]
+            "emails": ["jainprasuk1996@gmail.com"]
         },
         {
             "launchpad_id": "jaiveek-shah",
@@ -17890,11 +17921,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Oct-01"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Kiran Divekar",
-            "emails": ["kiran.divekar@calsoftinc.com", "kiran.divekar@vce.com"]
+            "emails": ["dkiran@vmware.com"]
         },
         {
             "launchpad_id": "kiseok7",
@@ -18380,11 +18415,15 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Jan-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Peter Balland",
-            "emails": ["peter@balland.net", "pballand@vmware.com", "peter@congress-dev.localdomain"]
+            "emails": ["peter@balland.net", "peter@congress-dev.localdomain"]
         },
         {
             "launchpad_id": "l-xiaoqiang",
@@ -20607,11 +20646,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Mahendra Kamble",
-            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com", "mahendra_kamble@dellteam.com"]
+            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com"]
         },
         {
             "launchpad_id": "maheshkumar-pandurangan",
@@ -21119,6 +21162,10 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -22294,6 +22341,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -25174,22 +25225,30 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Pradip Kadam",
-            "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com", "pradip_k@dellteam.com"]
+            "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com"]
         },
         {
             "launchpad_id": "pramchan-5",
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Prakash Ramchandran",
-            "emails": ["pramchan@yahoo.com", "prakash_ramchandran@dell.com"]
+            "emails": ["pramchan@yahoo.com"]
         },
         {
             "launchpad_id": "prameswar",
@@ -25277,11 +25336,15 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "praveen",
-            "emails": ["npraveen35@gmail.com", "Nagegowda.Praveen@emc.com"]
+            "emails": ["npraveen35@gmail.com"]
         },
         {
             "launchpad_id": "prdsilva",
@@ -26003,11 +26066,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Rashid Iqbal",
-            "emails": ["rashid_iqbal@dellteam.com", "rashid.iqbal@gmail.com"]
+            "emails": ["rashid.iqbal@gmail.com"]
         },
         {
             "github_id": "ravipwaghmare",
@@ -26995,7 +27062,7 @@
                 }
             ],
             "user_name": "Roey Chen",
-            "emails": ["roeyc@vmware.com", "chen.roey@gmail.com"]
+            "emails": ["chen.roey@gmail.com"]
         },
         {
             "launchpad_id": "roger-yu",
@@ -27962,6 +28029,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -28028,11 +28099,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Jan-01"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Santosh K. Ramappa",
-            "emails": ["Santosh.Ramappa@emc.com"]
+            "emails": ["sramappa@vmware.com"]
         },
         {
             "launchpad_id": "saphi070",
@@ -28545,13 +28620,15 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Oct-20"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Sean McGinnis",
             "emails": [
-                "sean_mcginnis@dell.com",
-                "sean.mcginnis@dell.com",
                 "sean.mcginnis@gmail.com",
                 "sean.mcginnis@gmx.com",
                 "sean.mcginnis@huawei.com",
@@ -28965,6 +29042,10 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2019-Nov-25"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -29572,11 +29653,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Shubham Kaushal",
-            "emails": ["shubham.kaushal@calsoftinc.com", "shubham_kaushal@dellteam.com"]
+            "emails": ["shubham.kaushal@calsoftinc.com"]
         },
         {
             "launchpad_id": "skazi",
@@ -32406,11 +32491,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Uday Patil",
-            "emails": ["uday344@gmail.com", "uday.patil@calsoftinc.com", "uday_patil1@dellteam.com"]
+            "emails": ["uday344@gmail.com", "uday.patil@calsoftinc.com"]
         },
         {
             "launchpad_id": "uestc-shi",
@@ -33583,6 +33672,17 @@
             "emails": ["sxmatch1986@gmail.com", "hwang7073@fiberhome.com"]
         },
         {
+            "github_id": "wangi1",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ivan Wang",
+            "emails": ["ivan.wang@dell.com"]
+        },
+        {
             "launchpad_id": "wangjianhe",
             "companies": [
                 {
@@ -34742,7 +34842,7 @@
                 }
             ],
             "user_name": "Hong Hui Xiao",
-            "emails": ["honghui_xiao@yeah.net", "xiaohhui123@gmail.com", "honghuix@vmware.com"]
+            "emails": ["honghui_xiao@yeah.net", "xiaohhui123@gmail.com"]
         },
         {
             "launchpad_id": "xiaojueguan",
@@ -34831,12 +34931,16 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-Dec-24"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "xing-yang",
             "emails": [
-                "xing.yang@emc.com", "xing.yang@dell.com", "xyang@alum.mit.edu", "xing.yang@huawei.com",
+                "xyang@alum.mit.edu", "xing.yang@huawei.com",
                 "xingyang105@gmail.com"
             ]
         },
@@ -35135,6 +35239,17 @@
             ],
             "user_name": "Yasunori Maruyama",
             "emails": ["y-maruyama@tsh-world.co.jp"]
+        },
+        {
+            "github_id": "y0ng-wang",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yong Wang",
+            "emails": ["yong.wang@dell.com"]
         },
         {
             "launchpad_id": "yab277",
