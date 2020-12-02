@@ -40995,9 +40995,15 @@
                     "tag_from": "16.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/victoria",
                     "tag_to": "HEAD",
                     "release_name": "Victoria",
                     "tag_from": "17.0.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Wallaby",
+                    "tag_from": "18.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/horizon.git",
