@@ -42469,6 +42469,21 @@
             "organization": "openstack"
         },
         {
+            "module": "python-venusclient",
+            "uri": "https://opendev.org/inspur/python-venusclient.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "venus-specs",
+            "uri": "https://opendev.org/inspur/venus-specs.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "venus-tempest-plugin",
+            "uri": "https://opendev.org/inspur/venus-tempest-plugin.git",
+            "organization": "openstack"
+        },
+        {
             "module": "cli@docker",
             "organization": "docker",
             "uri": "https://github.com/docker/cli.git"
