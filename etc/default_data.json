@@ -707,7 +707,7 @@
             ],
             "user_name": "Shriram Rajagopalan",
             "emails": [
-                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "rshriram@tetrate.io",
+                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "shriramr@vmware.com", "rshriram@tetrate.io",
                 "rshriram@gmail.com"
             ]
         },
@@ -1962,7 +1962,7 @@
                 }
             ],
             "user_name": "Adrian Moreno",
-            "emails": ["adrian@morenomartinez.com"]
+            "emails": ["adrian@morenomartinez.com", "adrian.moreno@emc.com"]
         },
         {
             "launchpad_id": "adriansmith",
@@ -2189,7 +2189,7 @@
                 }
             ],
             "user_name": "Akash Gangil",
-            "emails": ["akashg1611@gmail.com"]
+            "emails": ["agangil@vmware.com", "akashg1611@gmail.com"]
         },
         {
             "launchpad_id": "akaszuba",
@@ -6152,7 +6152,7 @@
                 }
             ],
             "user_name": "chen, hao",
-            "emails": ["chenh1987@gmail.com"]
+            "emails": ["chen.hao@emc.com", "chenh1987@gmail.com"]
         },
         {
             "launchpad_id": "chenhanxiao",
@@ -8620,7 +8620,7 @@
                 }
             ],
             "user_name": "Dan Florea",
-            "emails": ["dan.florea@gmail.com", "floread@vmware.com"]
+            "emails": ["dan.florea@gmail.com", "dflorea@vmware.com", "floread@vmware.com" ]
         },
         {
             "github_id": "dgn",
@@ -8819,7 +8819,8 @@
             ],
             "user_name": "Digambar Patil",
             "emails": [
-                "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com"
+                "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com", "digambar.patil@calsoftinc.com",
+                "digmabar_patil@dellteam.com"
             ]
         },
         {
@@ -10109,7 +10110,7 @@
                 }
             ],
             "user_name": "Elad Zucker",
-            "emails": ["eladz@hexsys-solutions.com"]
+            "emails": ["elad.zucker@emc.com", "eladz@hexsys-solutions.com"]
         },
         {
             "launchpad_id": "eldar-nugaev",
@@ -11538,7 +11539,7 @@
                 }
             ],
             "user_name": "Garima Misra",
-            "emails": ["garima.misra@calsoftinc.com"]
+            "emails": ["garima_misra@dellteam.com", "garima.misra@calsoftinc.com"]
         },
         {
             "launchpad_id": "gary-w-smith",
@@ -11583,7 +11584,7 @@
                 }
             ],
             "user_name": "Gary Kotton",
-            "emails": ["gkotton@redhat.com", "garyk@radware.com"]
+            "emails": ["gkotton@vmware.com", "gkotton@redhat.com", "garyk@radware.com"]
         },
         {
             "github_id": "gbaufake",
@@ -13206,7 +13207,7 @@
                 }
             ],
             "user_name": "Ganesh Hiregoudar",
-            "emails": ["ghiregoudar@vmware.com"]
+            "emails": ["ganeshkumar.hiregoudar@dell.com", "ghiregoudar@vmware.com"]
         },
         {
             "launchpad_id": "hjw",
@@ -14688,7 +14689,7 @@
                 }
             ],
             "user_name": "Prasuk Jain",
-            "emails": ["jainprasuk1996@gmail.com"]
+            "emails": ["jainprasuk1996@gmail.com", "prasuk_jain@dellteam.com", "prasuk.jain@calsoftinc.com"]
         },
         {
             "launchpad_id": "jaiveek-shah",
@@ -17929,7 +17930,7 @@
                 }
             ],
             "user_name": "Kiran Divekar",
-            "emails": ["dkiran@vmware.com"]
+            "emails": ["kiran.divekar@calsoftinc.com", "kiran.divekar@vce.com", "dkiran@vmware.com"]
         },
         {
             "launchpad_id": "kiseok7",
@@ -18423,7 +18424,7 @@
                 }
             ],
             "user_name": "Peter Balland",
-            "emails": ["peter@balland.net", "peter@congress-dev.localdomain"]
+            "emails": ["peter@balland.net", "pballand@vmware.com", "peter@congress-dev.localdomain"]
         },
         {
             "launchpad_id": "l-xiaoqiang",
@@ -20654,7 +20655,7 @@
                 }
             ],
             "user_name": "Mahendra Kamble",
-            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com"]
+            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com", "mahendra_kamble@dellteam.com"]
         },
         {
             "launchpad_id": "maheshkumar-pandurangan",
@@ -24119,6 +24120,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Dec-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -24363,6 +24368,18 @@
             ],
             "user_name": "benben",
             "emails": ["panhaiyang@xiangcloud.com"]
+        },
+        {
+            "launchpad_id": "parasparekh6914",
+            "github_id": "parasparekh6914",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Paras Parekh",
+            "emails": ["p_parekh@dellteam.com", "parasparekh6914@gmail.com"]
         },
         {
             "launchpad_id": "parath",
@@ -25255,7 +25272,7 @@
                 }
             ],
             "user_name": "Pradip Kadam",
-            "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com"]
+            "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com", "pradip_k@dellteam.com"]
         },
         {
             "launchpad_id": "pramchan-5",
@@ -25270,7 +25287,7 @@
                 }
             ],
             "user_name": "Prakash Ramchandran",
-            "emails": ["pramchan@yahoo.com"]
+            "emails": ["pramchan@yahoo.com", "prakash_ramchandran@dell.com"]
         },
         {
             "launchpad_id": "prameswar",
@@ -25366,7 +25383,7 @@
                 }
             ],
             "user_name": "praveen",
-            "emails": ["npraveen35@gmail.com"]
+            "emails": ["npraveen35@gmail.com", "Nagegowda.Praveen@emc.com"]
         },
         {
             "launchpad_id": "prdsilva",
@@ -25910,6 +25927,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Dec-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -26096,7 +26117,7 @@
                 }
             ],
             "user_name": "Rashid Iqbal",
-            "emails": ["rashid.iqbal@gmail.com"]
+            "emails": ["rashid_iqbal@dellteam.com", "rashid.iqbal@gmail.com"]
         },
         {
             "github_id": "ravipwaghmare",
@@ -27084,7 +27105,7 @@
                 }
             ],
             "user_name": "Roey Chen",
-            "emails": ["chen.roey@gmail.com"]
+            "emails": ["roeyc@vmware.com", "chen.roey@gmail.com"]
         },
         {
             "launchpad_id": "roger-yu",
@@ -28125,11 +28146,15 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Dec-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Santosh K. Ramappa",
-            "emails": ["sramappa@vmware.com"]
+            "emails": ["Santosh.Ramappa@emc.com", "sramappa@vmware.com"]
         },
         {
             "launchpad_id": "saphi070",
@@ -28651,6 +28676,8 @@
             ],
             "user_name": "Sean McGinnis",
             "emails": [
+                "sean_mcginnis@dell.com",
+                "sean.mcginnis@dell.com",
                 "sean.mcginnis@gmail.com",
                 "sean.mcginnis@gmx.com",
                 "sean.mcginnis@huawei.com",
@@ -29683,7 +29710,7 @@
                 }
             ],
             "user_name": "Shubham Kaushal",
-            "emails": ["shubham.kaushal@calsoftinc.com"]
+            "emails": ["shubham.kaushal@calsoftinc.com", "shubham_kaushal@dellteam.com"]
         },
         {
             "launchpad_id": "skazi",
@@ -30071,6 +30098,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Dec-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -32521,7 +32552,7 @@
                 }
             ],
             "user_name": "Uday Patil",
-            "emails": ["uday344@gmail.com", "uday.patil@calsoftinc.com"]
+            "emails": ["uday344@gmail.com", "uday.patil@calsoftinc.com", "uday_patil1@dellteam.com"]
         },
         {
             "launchpad_id": "uestc-shi",
@@ -34864,7 +34895,7 @@
                 }
             ],
             "user_name": "Hong Hui Xiao",
-            "emails": ["honghui_xiao@yeah.net", "xiaohhui123@gmail.com"]
+            "emails": ["honghui_xiao@yeah.net", "xiaohhui123@gmail.com", "honghuix@vmware.com"]
         },
         {
             "launchpad_id": "xiaojueguan",
@@ -34962,7 +34993,7 @@
             ],
             "user_name": "xing-yang",
             "emails": [
-                "xyang@alum.mit.edu", "xing.yang@huawei.com",
+                "xing.yang@emc.com", "xing.yang@dell.com", "xyang@alum.mit.edu", "xing.yang@huawei.com",
                 "xingyang105@gmail.com"
             ]
         },
