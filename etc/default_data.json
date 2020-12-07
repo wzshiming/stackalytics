@@ -42581,6 +42581,171 @@
             "uri": "https://github.com/docker/docker.github.io.git"
         },
         {
+            "module": "ansible-playbooks",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/ansible-playbooks.git"
+        },
+        {
+            "module": "test",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/test.git"
+        },
+        {
+            "module": "distcloud",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/distcloud.git"
+        },
+        {
+            "module": "metal",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/metal.git"
+        },
+        {
+            "module": "config",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/config.git"
+        },
+        {
+            "module": "tools",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/tools.git"
+        },
+        {
+            "module": "nfv",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/nfv.git"
+        },
+        {
+            "module": "root",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/root.git"
+        },
+        {
+            "module": "fault",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/fault.git"
+        },
+        {
+            "module": "kernel",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/kernel.git"
+        },
+        {
+            "module": "utilities",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/utilities.git"
+        },
+        {
+            "module": "openstack-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/openstack-armada-app.git"
+        },
+        {
+            "module": "ha",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/ha.git"
+        },
+        {
+            "module": "upstream",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/upstream.git"
+        },
+        {
+            "module": "stx-puppet",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/stx-puppet.git"
+        },
+        {
+            "module": "update",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/update.git"
+        },
+        {
+            "module": "integ",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/integ.git"
+        },
+        {
+            "module": "config-files",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/config-files.git"
+        },
+        {
+            "module": "monitoring",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/monitoring.git"
+        },
+        {
+            "module": "manifest",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/manifest.git"
+        },
+        {
+            "module": "distcloud-client",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/distcloud-client.git"
+        },
+        {
+            "module": "containers",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/containers.git"
+        },
+        {
+            "module": "oidc-auth-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/oidc-auth-armada-app.git"
+        },
+        {
+            "module": "gui",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/gui.git"
+        },
+        {
+            "module": "cert-manager-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/cert-manager-armada-app.git"
+        },
+        {
+            "module": "clients",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/clients.git"
+        },
+        {
+            "module": "vault-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/vault-armada-app.git"
+        },
+        {
+            "module": "compile",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/compile.git"
+        },
+        {
+            "module": "portieris-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/portieris-armada-app.git"
+        },
+        {
+            "module": "monitor-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/monitor-armada-app.git"
+        },
+        {
+            "module": "nginx-ingress-controller-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/nginx-ingress-controller-armada-app.git"
+        },
+        {
+            "module": "platform-armada-app",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/platform-armada-app.git"
+        },
+        {
+            "module": "helm-charts",
+            "organization": "starlingx",
+            "uri": "https://github.com/starlingx/helm-charts.git"
+        },
+        {
             "module": "apiserver-proxy@gardener",
             "organization": "gardener",
             "uri": "https://github.com/gardener/apiserver-proxy.git"
@@ -45022,6 +45187,16 @@
             ]
         },
         {
+            "module_group_name": "starlingx-group",
+            "modules": [
+                "ansible-playbooks", "test", "distcloud", "metal", "config", "tools", "nfv", "root", "fault", "kernel",
+                "utilities", "openstack-armada-app", "ha", "upstream", "stx-puppet", "update", "integ", "config-files",
+                "monitoring", "manifest", "distcloud-client", "containers", "oidc-auth-armada-app", "gui",
+                "cert-manager-armada-app", "clients", "vault-armada-app", "compile", "portieris-armada-app",
+                "monitor-armada-app", "nginx-ingress-controller-armada-app", "platform-armada-app", "helm-charts"
+            ]
+        },
+        {
             "module_group_name": "istio-group",
             "modules": [
                 "istio", "proxy@istio", "istio.io@istio", "test-infra@istio", "api@istio", "community@istio",
@@ -45477,6 +45652,12 @@
             "modules": ["gardener-group"]
         },
         {
+            "id": "starlingx-group",
+            "title": "Starlingx",
+            "child": true,
+            "modules": ["starlingx-group"]
+        },
+        {
             "id": "jaeger",
             "title": "jaeger",
             "child": true,
@@ -45513,7 +45694,7 @@
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
                 "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
-                "rancher", "cntt", "gardener-group"
+                "rancher", "cntt", "gardener-group", "starlingx-group"
             ]
         },
         {
