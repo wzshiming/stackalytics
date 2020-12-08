@@ -23196,6 +23196,18 @@
             "emails": ["takanattie@gmail.com", "natsume.takashi@lab.ntt.co.jp"]
         },
         {
+            "launchpad_id": "navist2020",
+            "github_id": "navist2020",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "navist2020",
+            "emails": ["navist2020@163.com", "lijun@beyondcent.com"]
+        },
+        {
             "launchpad_id": "nbeard",
             "companies": [
                 {
