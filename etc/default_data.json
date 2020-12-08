@@ -5437,6 +5437,17 @@
             "emails": ["cao.yingjunz@gmail.com"]
         },
         {
+            "launchpad_id": "caodonghui",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "CaoDonghui123",
+            "emails": ["caodonghui_123@163.com", "caodonghui@beyondcent.com"]
+        },
+        {
             "launchpad_id": "caowei-e",
             "companies": [
                 {
