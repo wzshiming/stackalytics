@@ -19561,6 +19561,17 @@
             "emails": ["liubin0329@gmail.com", "liubin@users.noreply.github.com", "binliu@alauda.io"]
         },
         {
+            "launchpad_id": "liuchang77",
+            "companies": [
+                {
+                    "company_name": "China Unicom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "sobjustin",
+            "emails": ["liuchang77@chinaunicom.cn"]
+        },
+        {
             "launchpad_id": "liuchao",
             "companies": [
                 {
