@@ -24097,11 +24097,15 @@
                 },
                 {
                     "company_name": "Daitan Group",
+                    "end_date": "2020-Dec-01"
+                },
+                {
+                    "company_name": "Wind River",
                     "end_date": null
                 }
             ],
             "user_name": "Thiago Paiva Brito",
-            "emails": ["tpborion@gmail.com", "outbrito@gmail.com", "thiagop@lsd.ufcg.edu.br", "tbrito@daitan.com"]
+            "emails": ["tpborion@gmail.com", "outbrito@gmail.com", "thiagop@lsd.ufcg.edu.br", "tbrito@daitan.com", "thiago.brito@windriver.com"]
         },
         {
             "launchpad_id": "p-draigbrady",
