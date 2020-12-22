@@ -44590,6 +44590,11 @@
             "organization": "openstack"
         },
         {
+            "module": "airship-charts",
+            "uri": "https://opendev.org/airship/charts.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airship-deckhand",
             "uri": "https://opendev.org/airship/deckhand.git",
             "organization": "openstack"
@@ -44660,6 +44665,11 @@
             "organization": "openstack"
         },
         {
+            "module": "airship-sip",
+            "uri": "https://opendev.org/airship/sip.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airship-specs",
             "uri": "https://opendev.org/airship/specs.git",
             "organization": "openstack"
@@ -44696,8 +44706,18 @@
             "organization": "openstack"
         },
         {
+            "module": "airship-vino",
+            "uri": "https://opendev.org/airship/vino.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airship-website",
             "uri": "https://github.com/airshipweb/airship-website.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-zuul-roles",
+            "uri": "https://opendev.org/airship/zuul-airship-roles.git",
             "organization": "openstack"
         },
         {
@@ -45092,11 +45112,12 @@
             "module_group_name": "airship-group",
             "modules": [
                 "airshipctl", "airshipui", "airship-apis", "airship-in-a-bottle", "airship-armada", "airship-berth",
-                "airship-deckhand", "airship-divingbell", "airship-docs", "airship-drydock", "airship-election",
-                "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas",
-                "airship-pegleg", "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs",
-                "airship-spyglass", "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap",
-                "airship-utils", "airship-website"
+                "airship-charts", "airship-deckhand", "airship-divingbell", "airship-docs", "airship-drydock",
+                "airship-election", "airship-governance", "airship-images", "airship-kubernetes-entrypoint",
+                "airship-maas", "airship-pegleg", "airship-porthole", "airship-promenade", "airship-shipyard",
+                "airship-sip", "airship-specs", "airship-spyglass", "airship-spyglass-plugin-xls",
+                "airship-tempest-plugin", "airship-treasuremap", "airship-utils", "airship-vino", "airship-website",
+                "airship-zuul-roles"
             ]
         },
         {
