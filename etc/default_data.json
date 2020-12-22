@@ -34666,6 +34666,18 @@
             "emails": ["wushiming@yovole.com"]
         },
         {
+            "launchpad_id": "wutao1",
+            "companies": [
+                {
+                    "company_name": "China Unicom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wutao",
+            "emails": ["wutao1@chinaunicom.cn"]
+        },
+
+        {
             "launchpad_id": "wuwei",
             "companies": [
                 {
