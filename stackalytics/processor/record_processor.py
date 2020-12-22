@@ -212,7 +212,7 @@ class RecordProcessor(object):
         review = dict([(k, v) for k, v in six.iteritems(record)
                        if k not in ['patchSets', 'owner', 'createdOn',
                                     'comments']])
-        owner = record['owner']
+        owner = record.get('owner', {})
 
         review['primary_key'] = review['id']
         if owner.get('username'):
@@ -306,7 +306,7 @@ class RecordProcessor(object):
           * patch - records that a user submitted another patch set
           * mark - records that a user set approval mark to given review
         """
-        owner = record['owner']
+        owner = record.get('owner', {})
         if 'email' in owner or 'username' in owner:
             yield self._make_review_record(record)
 
