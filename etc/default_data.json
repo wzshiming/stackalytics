@@ -37745,11 +37745,15 @@
                 },
                 {
                     "company_name": "UnitedStack",
+                    "end_date": "2020-Nov-06"
+                },
+                {
+                    "company_name": "Qi An Xin Technology",
                     "end_date": null
                 }
             ],
             "user_name": "ZijianGuo",
-            "emails": ["guozijn@gmail.com", "guozijian@unitedstack.com"]
+            "emails": ["guozijn@gmail.com", "guozijian@unitedstack.com", "guozijian@qianxin.com"]
         },
         {
             "launchpad_id": "zinoviev.ii",
@@ -39762,6 +39766,11 @@
         {
             "domains": ["purestorage.com"],
             "company_name": "Pure Storage"
+        },
+        {
+            "domains": ["qianxin.com"],
+            "company_name": "Qi An Xin Technology",
+            "aliases": ["QI AN XIN", "Qi An Xin", "奇安信", "奇安信安全技术（北京）集团有限公司"]
         },
         {
             "domains": ["qiniu.com"],
