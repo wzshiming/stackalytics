@@ -311,18 +311,18 @@ class RecordProcessor(object):
             yield self._make_review_record(record)
 
         for patch in record.get('patchSets', []):
-            if (('email' in patch['uploader']) or
-                    ('username' in patch['uploader'])):
+            if (('email' in patch.get('uploader', {})) or
+                    ('username' in patch.get('uploader', {}))):
                 yield self._make_patch_record(record, patch)
 
             if 'approvals' not in patch:
                 continue  # not reviewed by anyone
 
-            for approval in patch['approvals']:
-                if approval['type'] not in ('Code-Review', 'Workflow'):
+            for approval in patch.get('approvals', []):
+                if approval.get('type') not in ('Code-Review', 'Workflow'):
                     continue  # keep only Code-Review and Workflow
-                if ('email' not in approval['by'] or
-                        'username' not in approval['by']):
+                if ('email' not in approval.get('by', {}) or
+                        'username' not in approval.get('by', {})):
                     continue  # ignore
 
                 yield self._make_mark_record(record, patch, approval)
@@ -330,13 +330,13 @@ class RecordProcessor(object):
         # check for abandon action
         if record.get('status') == 'ABANDONED':
             for comment in reversed(record.get('comments') or []):
-                if comment['message'] == 'Abandoned':
+                if comment.get('message') == 'Abandoned':
                     action = dict(type='Abandon', value=0)
-                    action['by'] = comment['reviewer']
-                    action['grantedOn'] = comment['timestamp']
+                    action['by'] = comment.get('reviewer')
+                    action['grantedOn'] = comment.get('timestamp')
 
-                    if ('email' not in action['by'] or
-                            'username' not in action['by']):
+                    if ('email' not in action.get('by', {}) or
+                            'username' not in action.get('by', {})):
                         continue  # ignore
 
                     yield self._make_mark_record(
