@@ -291,7 +291,7 @@ class RecordProcessor(object):
         mark['patch'] = int(patch['number'])
         mark['gerrit_hostname'] = review['gerrit_hostname']
 
-        if reviewer['username'] == patch['uploader'].get('username'):
+        if reviewer['username'] == patch.get('uploader', {}).get('username'):
             # reviewer is the same as author of the patch
             mark['type'] = 'Self-%s' % mark['type']
 
@@ -307,6 +307,9 @@ class RecordProcessor(object):
           * mark - records that a user set approval mark to given review
         """
         owner = record.get('owner', {})
+        if 'owner' not in record:
+            LOG.info('Record has no owner. %s' % record)
+
         if 'email' in owner or 'username' in owner:
             yield self._make_review_record(record)
 
@@ -510,9 +513,13 @@ class RecordProcessor(object):
         }
 
         for record in record_iterator:
-            for r in PROCESSORS[record['record_type']](record):
-                self._renew_record_date(r)
-                yield r
+            try:
+                for r in PROCESSORS[record['record_type']](record):
+                    self._renew_record_date(r)
+                    yield r
+            except KeyError as e:
+                LOG.error("Could not process record %s because "
+                          "of key error %s" % (record, e))
 
     def _update_records_with_releases(self, release_index):
         LOG.info('Update records with releases')
