@@ -24439,6 +24439,17 @@
             "emails": ["panhaiyang@xiangcloud.com"]
         },
         {
+            "launchpad_id": "panhongyin",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "panhongyin",
+            "emails": ["panhongyin@yovole.com"]
+        },
+        {
             "launchpad_id": "parasparekh6914",
             "github_id": "parasparekh6914",
             "companies": [
