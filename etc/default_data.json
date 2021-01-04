@@ -22301,11 +22301,19 @@
                     "end_date": "2017-Mar-31"
                 },
                 {
+                    "company_name": "*independent",
+                    "end_date": "2018-Aug-29"
+                },
+                {
                     "company_name": "NetApp",
                     "end_date": "2018-Oct-24"
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2020-Dec-31"
+                },
+                {
+                    "company_name": "Wind River",
                     "end_date": null
                 }
             ],
