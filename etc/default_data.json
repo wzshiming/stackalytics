@@ -18639,6 +18639,17 @@
             "emails": ["lubo@beyondcent.com"]
         },
         {
+            "launchpad_id": "lcavalca",
+            "companies": [
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Lucas Cavalcante",
+            "emails": ["lucasmcavalcante@gmail.com", "lucasmedeiros.cavalcante@windriver.com"]
+        },
+        {
             "launchpad_id": "lcsong",
             "companies": [
                 {
