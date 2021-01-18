@@ -12139,6 +12139,21 @@
             "emails": ["goodtuninger@gmail.com", "hanxl2@lenovo.com"]
         },
         {
+            "launchpad_id": "gooshtavow",
+            "companies": [
+                {
+                    "company_name": "Universidade Federal de São Carlos",
+                    "end_date": "2021-Jan-18"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gustavo Santos",
+            "emails": ["gufsnts@gmail.com", "gsantos@daitan.com"]
+        },
+        {
             "launchpad_id": "gouthamr",
             "companies": [
                 {
