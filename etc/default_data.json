@@ -25718,6 +25718,17 @@
             "emails": ["zhangqiankun@sgitg.sgcc.com.cn", "zhqk1234567@126.com"]
         },
         {
+            "launchpad_id": "qianshuai01",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "qianshuai01",
+            "emails": ["qianshuai01@inspur.com"]
+        },
+        {
             "launchpad_id": "qianyuqiao",
             "companies": [
                 {
