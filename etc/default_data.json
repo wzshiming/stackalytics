@@ -1777,6 +1777,17 @@
             "emails": ["zhangcan@letv.com", "can@canx.me"]
         },
         {
+             "launchpad_id": "ad9195",
+             "companies": [
+                 {
+                     "company_name": "Dell EMC",
+                     "end_date": null
+                 }
+             ],
+             "user_name": "Abhishek Yadav",
+             "emails": ["abhishek.yadav57@gmail.com", "abhishek.yadav@calsoftinc.com", "abhishek_yadav7@dellteam.com"]
+        },
+        {
             "launchpad_id": "adam-coldrick",
             "companies": [
                 {
