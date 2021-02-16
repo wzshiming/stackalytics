@@ -27998,6 +27998,17 @@
             "emails": ["sachin.shukla@workday.com"]
         },
         {
+             "launchpad_id": "sagarnanda285",
+             "companies": [
+                 {
+                     "company_name": "Dell EMC",
+                     "end_date": null
+                 }
+             ],
+             "user_name": "Sagar Nanda",
+             "emails": ["sagar.nanda.nmiet@gmail.com", "sagar.nanda@calsoftinc.com", "Sagar_Nanda@dellteam.com"]
+        },
+        {
             "launchpad_id": "sagarun",
             "companies": [
                 {
