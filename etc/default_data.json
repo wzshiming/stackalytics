@@ -23442,6 +23442,17 @@
             "emails": ["net.eric.zhang@gmail.com", "zhang.chao@99cloud.net"]
         },
         {
+            "launchpad_id": "netgenius",
+            "companies": [
+                {
+                  "company_name": "BoCloud",
+                  "end_date": null
+                }
+            ],
+            "user_name": "wuheng",
+            "emails": ["wuheng@iscas.ac.cn"]
+        },
+        {
             "launchpad_id": "newgoliath",
             "companies": [
                 {
