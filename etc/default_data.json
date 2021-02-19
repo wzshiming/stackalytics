@@ -2746,6 +2746,18 @@
             "emails": ["allison@lohutok.net", "allison@ubuntu.com"]
         },
         {
+            "launchpad_id": "almir-okato",
+            "github_id": "almir-okato",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Almir Kazunari Okato",
+            "emails": ["kazunar2@gmail.com", "almir.okato@fit-tecnologia.org.br", "almirkaz@netapp.com"]
+        },
+        {
             "launchpad_id": "alok-kumar-maurya",
             "companies": [
                 {
