@@ -25000,6 +25000,10 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Nov-25"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -28854,11 +28858,16 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2021-Jan-08"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Sean McGinnis",
             "emails": [
+                "smcginnis@vmware.com",
                 "sean_mcginnis@dell.com",
                 "sean.mcginnis@dell.com",
                 "sean.mcginnis@gmail.com",
@@ -30479,6 +30488,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2020-Feb-08"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -36123,6 +36136,17 @@
             ],
             "user_name": "Li YaJie",
             "emails": ["yajiemango@163.com"]
+        },
+        {
+            "github_id": "ylvmw",
+            "companies": [
+                {
+                    "company_name": "VMware",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yang Liu",
+            "emails": ["yngliu@vmware.com"]
         },
         {
             "launchpad_id": "ymlong",
