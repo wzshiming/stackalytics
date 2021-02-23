@@ -16007,6 +16007,17 @@
             "emails": ["lawrancejing@gmail.com", "jing.liuqing@99cloud.net"]
         },
         {
+            "launchpad_id": "jinyuanliu",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jinyuanliu",
+            "emails": ["liujinyuan@inspur.com"]
+        },
+        {
             "launchpad_id": "jinzhenguo88",
             "companies": [
                 {
